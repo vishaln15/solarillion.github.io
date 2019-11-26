@@ -16,6 +16,7 @@
     {% endif %}
   </div>
   <!--Name and Location-->
+  <div class="person-details">
   <div class="author__content">
       <a href="{{ person.page }}">
           <h3 class="author__name" itemprop="name">{{ person.name }}</h3>
@@ -43,5 +44,6 @@
     {% if person.twitter %}
         <a href="https://twitter.com/{{ person.twitter }}"><i class="fab fa-fw fa-twitter-square"></i></a>
     {% endif %}
+  </div>
   </div>
 </div>

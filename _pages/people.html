@@ -3,6 +3,8 @@ layout: splash
 permalink: /people/
 title: "People"
 ---
+<link rel="stylesheet" type="text/css" href="/assets/css/people.css">
+
 <h2>Director<h2>
 {% assign current = site.data.people | where: "group", "director" %}
 {% for person_id in current %}

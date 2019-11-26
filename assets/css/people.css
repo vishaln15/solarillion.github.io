@@ -1,0 +1,44 @@
+h2 {
+    @media (min-width: 48em) {
+        width: 70% !important;
+        margin-left: 0px;
+    }
+    @media (max-width: 48em) {
+        width: 100%;
+    }
+}
+.container {
+    display: flex;
+    @media (max-width: 48em) {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    @media (min-width: 48em) {
+        width: 80%;
+        margin-left: 0px;
+        margin-bottom: 40px;
+    }
+    .avatar {
+        display: inline-block;
+        float: left;
+        @media (min-width: 60em) {
+            margin-right: 100px;
+            img {
+                max-width: 150px;
+            }
+        }
+    }
+    .person-details {
+        .author__content p {
+            font-size: $type-size-6 !important;
+            margin-bottom: 3px !important;
+            line-height: initial;
+        }
+        .social-icons {
+            margin-top: 5px
+        }
+    }
+}
+.fa-envelope-square {
+  color: gray;
+}

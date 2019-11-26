@@ -1,0 +1,29 @@
+---
+layout: splash
+permalink: /people/
+title: "People"
+---
+<h2>Director<h2>
+{% assign current = site.data.people | where: "group", "director" %}
+{% for person_id in current %}
+    {% include person.html person=person_id %}
+{% endfor %}
+
+<h2>Research Assistants<h2>
+{% assign current = site.data.people | where: "group", "ra" %}
+{% for person_id in current %}
+    {% include person.html person=person_id %}
+{% endfor %}
+
+<h2>Project Assistants<h2>
+{% assign current = site.data.people | where: "group", "pa" %}
+{% for person_id in current %}
+    {% include person.html person=person_id %}
+{% endfor %}
+
+<h2>Alumni<h2>
+{% assign current = site.data.people | where: "group", "alumni" %}
+{% for person_id in current %}
+    {% include person.html person=person_id %}
+{% endfor %}
+</div>

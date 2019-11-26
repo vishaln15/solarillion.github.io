@@ -1,0 +1,47 @@
+{% assign person = include.person %}
+<div class="container" id="{{ person.name }}">
+  <!-- Avatar-->
+  <div class="avatar">
+    {% if person.avatar %}
+        <div class="author__avatar">
+            {% if person.avatar contains "://" %}
+                {% assign person_src = person.avatar %}
+            {% else %}
+                {% assign person_src = person.avatar | absolute_url %}
+            {% endif %}
+            <a href="{{ person.page }}">
+                <img src="{{ person_src }}" alt="{{ person.name }}">
+            </a>
+        </div>
+    {% endif %}
+  </div>
+  <!--Name and Location-->
+  <div class="author__content">
+      <a href="{{ person.page }}">
+          <h3 class="author__name" itemprop="name">{{ person.name }}</h3>
+      </a>
+      <p class="location">
+      {% if person.location %}
+        <i class="fas fa-fw fa-map-marker-alt"></i>{{ person.location }}<br>
+      {% endif %}
+      </p>
+  </div>
+  <!--Links-->
+  <div class="social-icons">
+    {% if person.uri %}
+        <a href="{{ person.uri }}"><i class="fas fa-fw fa-link"></i></a>
+    {% endif %}
+    {% if person.email %}
+        <a href="mailto:{{ person.email }}"><meta itemprop="email" content="{{ person.email }}" /><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if person.linkedin %}
+        <a href="https://www.linkedin.com/in/{{ person.linkedin }}"><i class="fab fa-fw fa-linkedin"></i></a>
+    {% endif %}
+    {% if person.github %}
+        <a href="https://github.com/{{ person.github }}"><i class="fab fa-fw fa-github"></i></a>
+    {% endif %}
+    {% if person.twitter %}
+        <a href="https://twitter.com/{{ person.twitter }}"><i class="fab fa-fw fa-twitter-square"></i></a>
+    {% endif %}
+  </div>
+</div>

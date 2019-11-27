@@ -10,7 +10,9 @@
   width: 100%;
   clear: both;
   margin-top: 3em;
-  color: $muted-text-color;
+  border-top: 1px solid;
+  border-top-color: #000;
+  color: $text-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.45s;

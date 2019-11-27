@@ -3,8 +3,8 @@
    ========================================================================== */
 
 .masthead {
+  background-color: #FFBB00;
   position: relative;
-  background-color: #FFCC00;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -45,6 +45,7 @@
 }
 
 .site-title {
+  background-color: #FFBB00;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -55,11 +56,13 @@
 }
 
 .site-subtitle {
+  background-color: #FFBB00;
   display: block;
   font-size: $type-size-8;
 }
 
 .masthead__menu {
+  background-color: #FFBB00;
   float: left;
   margin-left: 0;
   margin-right: 0;
@@ -83,6 +86,7 @@
 }
 
 .masthead__menu-item {
+  background-color: #FFBB00;
   display: block;
   list-style-type: none;
   white-space: nowrap;

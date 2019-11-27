@@ -1,12 +1,7 @@
-h2 {
-    @media (min-width: 48em) {
-        width: 70% !important;
-        margin-left: 0px;
-    }
-    @media (max-width: 48em) {
-        width: 100%;
-    }
-}
+/* ==========================================================================
+   PEOPLE PAGE
+   ========================================================================== */
+
 .container {
     display: flex;
     @media (max-width: 48em) {
@@ -30,7 +25,6 @@ h2 {
     }
     .person-details {
         .author__content p {
-            font-size: $type-size-6 !important;
             margin-bottom: 3px !important;
             line-height: initial;
         }

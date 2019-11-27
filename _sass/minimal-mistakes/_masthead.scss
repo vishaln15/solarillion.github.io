@@ -62,7 +62,6 @@
 }
 
 .masthead__menu {
-  background-color: #ffa600;
   float: left;
   margin-left: 0;
   margin-right: 0;
@@ -85,20 +84,7 @@
   }
 }
 
-.masthead__menu-item-visible {
-  background-color: #ffa600;
-  display: block;
-  list-style-type: none;
-  white-space: nowrap;
-
-  &--lg {
-    padding-right: 2em;
-    font-weight: 700;
-  }
-}
-
 .masthead__menu-item {
-  background-color: #fff;
   display: block;
   list-style-type: none;
   white-space: nowrap;

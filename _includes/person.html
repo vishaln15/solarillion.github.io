@@ -1,7 +1,7 @@
 {% assign person = include.person %}
-<div class="container" id="{{ person.name }}">
+<div class="person-container" id="{{ person.name }}">
   <!-- Avatar-->
-  <div class="avatar">
+  <div class="person-avatar">
     {% if person.avatar %}
         <div class="author__avatar">
             {% if person.avatar contains "://" %}
@@ -21,11 +21,11 @@
       <a href="{{ person.page }}">
           <h3 class="author__name" itemprop="name">{{ person.name }}</h3>
       </a>
-      <p class="location">
       {% if person.location %}
+      <p class="location">
         <i class="fas fa-fw fa-map-marker-alt"></i>{{ person.location }}<br>
-      {% endif %}
       </p>
+      {% endif %}
   </div>
   <!--Links-->
   <div class="social-icons">

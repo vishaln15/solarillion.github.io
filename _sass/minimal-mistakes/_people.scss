@@ -2,8 +2,10 @@
    PEOPLE PAGE
    ========================================================================== */
 
-.container {
+.person-container {
     display: flex;
+    flex-direction: row;
+    align-items: center;
     @media (max-width: 48em) {
         width: 100%;
         margin-bottom: 30px;
@@ -13,7 +15,7 @@
         margin-left: 0px;
         margin-bottom: 40px;
     }
-    .avatar {
+    .person-avatar {
         display: inline-block;
         float: left;
         @media (min-width: 60em) {

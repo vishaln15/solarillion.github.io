@@ -1,37 +1,28 @@
 ---
-layout: splash
+layout: single
 permalink: /people/
 title: "People"
 ---
-<center><h1 class="page_title">People<h1></center>
 <h2>Director</h2>
-<div style="width: 90%; margin: auto">
 {% assign current = site.data.people | where: "group", "director" %}
 {% for person_id in current %}
     {% include person.html person=person_id %}
 {% endfor %}
-</div>
 
 <h2>Research Assistants</h2>
-<div style="width: 90%; margin: auto">
-    {% assign current = site.data.people | where: "group", "ra" %}
+{% assign current = site.data.people | where: "group", "ra" %}
 {% for person_id in current %}
     {% include person.html person=person_id %}
 {% endfor %}
-</div>
 
 <h2>Project Assistants</h2>
-<div style="width: 90%; margin: auto">
 {% assign current = site.data.people | where: "group", "pa" %}
 {% for person_id in current %}
     {% include person.html person=person_id %}
 {% endfor %}
-</div>
 
 <h2>Alumni</h2>
-<div style="width: 90%; margin: auto">
 {% assign current = site.data.people | where: "group", "alumni" %}
 {% for person_id in current %}
     {% include person.html person=person_id %}
 {% endfor %}
-</div>

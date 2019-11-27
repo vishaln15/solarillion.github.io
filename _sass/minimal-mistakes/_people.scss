@@ -19,13 +19,13 @@
         display: inline-block;
         float: left;
         @media (min-width: 60em) {
-            margin-right: 75px;
             img {
                 max-width: 150px;
             }
         }
     }
     .person-details {
+        margin-left: 75px;
         .author__content p {
             margin-bottom: 3px !important;
             line-height: initial;

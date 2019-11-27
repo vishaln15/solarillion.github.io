@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: splash
 title: Prithvi Suresh
 permalink: /people/PrithviSuresh/
+author: PrithviSuresh
+author_profile: true
 ---
-{% assign id = site.data.people.PrithviSuresh %}
-{% include personal_sidebar.html person=id %}

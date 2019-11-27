@@ -19,7 +19,7 @@
         display: inline-block;
         float: left;
         @media (min-width: 60em) {
-            margin-right: 100px;
+            margin-right: 75px;
             img {
                 max-width: 150px;
             }
@@ -31,7 +31,7 @@
             line-height: initial;
         }
         .social-icons {
-            margin-top: 5px
+            margin-top: 2px
         }
     }
 }

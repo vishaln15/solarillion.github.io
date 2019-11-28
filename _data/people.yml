@@ -4,7 +4,7 @@ VineethVijayaraghavan:
   avatar: /assets/images/headshots/VineethVijayaraghavan.png
   linkedin: vineethv
   page: /people/VineethVijayaraghavan
-  bio: Director, Research and Outreach
+  bio: Director (Research and Outreach)
 
 GokulHari:
   name: Gokul Hari
@@ -66,20 +66,6 @@ HariVigneshBaskar:
   about:
     "Hari Vignesh B is a final year undergraduate student pursuing bachelor's degree in Electronics and Communication Engineering at SRM University Kattangalathur. He is the first author of the paper titled, *Intelligent Interconnection of Operating Micro-grid and Irrigation System in Dharnai - A Rural Indian Scenario* which he presented at IEEE Global Humanitarian Technology Conference (GHTC), 2019, Seattle, Washington, USA. He is also one of the co-authors of the paper, *Gait Recovery System for Parkinson’s Disease using Machine Learning on Embedded Platforms* which is submitted to IEEE SYSCON, Montreal, Canada. He is currently pursuing his research in VLSI Domain and Computer Architecture. He intends to do his masters in Computer Engineering in the fall of 2020."
 
-AbhijithRagav:
-  name: Abhijith Ragav
-  group: ra
-  email: abhijith.ragh@gmail.com
-  avatar: /assets/images/headshots/AbhijithRagav.jpg
-  uri: https://abhijithragav.me
-  linkedin: abhijithragav
-  github: abhijithragav
-  twitter: Abhijith0798
-  page: /people/AbhijithRagav
-  bio: Research Assistant, Teaching Assistant, Server Administrator
-  about:
-    "Abhijith is a final year Undergraduate student, pursuing Information Technology at SRM Institute of Science and Technology, Chennai. His team, led by him, collaborated with one of the top multiplexes in India and subsequently worked on a paper titled *A Two-Stage Machine Learning Approach to Forecast the Lifetime of Movies in a Multiplex*. This will be presented at the Future of Information and Communication Conference (FICC) 2020, San Francisco and will be published in Springer’s *Advances in Intelligent Systems and Computing* series. Following this, he led a team of 4 in a publication titled *Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices*. The work has been accepted to be published at the 18th IEEE International Conference on Machine Learning and Applications (ICMLA) 2019, Florida. His areas of interest include but are not limited to Data Science, Machine Learning, Deep Learning, Affective Computing, Edge Computing, and Societal Computing. He will be joining the Synergy Lab, Carnegie Mellon University (CMU) as a research intern during Spring 2020 and intends to pursue his Masters in the fall of 2021."
-
 JananiJayaraman:
   name: Janani Jayaraman
   group: ra
@@ -103,18 +89,33 @@ KarthniLakshmanan:
   about:
     "Karthni is a final year Undergraduate student, pursuing Electrical and Electronics Engineering at SSN College of Engineering, Anna University, Chennai. She is currently a part of the Smartgrids team at Solarillion Foundation. She is the co-author of the paper titled *Cost-Efficiency Design Optimization for a Rural Indian Clustered Microgrid Architecture* which is submitted to the IEEE Texas Power and Energy Conference (TPEC) 2020,  where she along with her team worked on  a mutlivariable cost and efficiency optimization algorithm for an integrated microgrid architecture. Her areas of interests include Algorithms and Embedded systems. She intends to pursue her Masters abroad in Electical and Computer Engineering in the fall of 2020."
 
+AbhijithRagav:
+  name: Abhijith Ragav
+  group: ra
+  email: abhijith.ragh@gmail.com
+  avatar: /assets/images/headshots/AbhijithRagav.jpg
+  uri: https://abhijithragav.me
+  linkedin: abhijithragav
+  github: abhijithragav
+  twitter: Abhijith0798
+  page: /people/AbhijithRagav
+  bio: Research Assistant, Teaching Assistant, Server Administrator
+  about:
+    "Abhijith is a final year Undergraduate student, pursuing Information Technology at SRM Institute of Science and Technology, Chennai. His team, led by him, collaborated with one of the top multiplexes in India and subsequently worked on a paper titled *A Two-Stage Machine Learning Approach to Forecast the Lifetime of Movies in a Multiplex*. This will be presented at the Future of Information and Communication Conference (FICC) 2020, San Francisco and will be published in Springer’s *Advances in Intelligent Systems and Computing* series. Following this, he led a team of 4 in a publication titled *Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices*. The work has been accepted to be published at the 18th IEEE International Conference on Machine Learning and Applications (ICMLA) 2019, Florida. His areas of interest include but are not limited to Data Science, Machine Learning, Deep Learning, Affective Computing, Edge Computing, and Societal Computing. He will be joining the Synergy Lab, Carnegie Mellon University (CMU) as a research intern during Spring 2020 and intends to pursue his Masters in the fall of 2021."
+
 NandaHKrishna:
   name: Nanda H Krishna
   group: ra
   email: nanda.harishankar@gmail.com
   avatar: /assets/images/headshots/NandaHKrishna.jpg
+  uri: https://nandahkrishna.com
   linkedin: nandahkrishna
   github: nandahkrishna
   twitter: nandahkrishna
   page: /people/NandaHKrishna
   bio: Research Assistant, Teaching Assistant, Server Administrator
   about:
-    "Nanda is a third year undergraduate student of Computer Science and Engineering at SSN College of Engineering (affiliated to Anna University). His areas of interest are Machine Learning, Computer Vision and Applied Computer Science. He has previously worked on Species Prediction from Environmental Rasters, and has authored a pape titled *Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices*, which he will present at the 18th International Conference on Machine Learning Applications (IEEE ICMLA 2019) at Boca Raton, USA. He enjoys teaching and aims to be a professor someday. He intends to pursue his Masters in the Fall of 2021."
+    "Nanda is a third year undergraduate student of Computer Science and Engineering at SSN College of Engineering (affiliated to Anna University). His areas of interest are Machine Learning, Computer Vision and Applied Computer Science. He has previously worked on Species Prediction from Environmental Rasters, and has authored a paper titled *Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices*, which he will present at the 18th International Conference on Machine Learning Applications (IEEE ICMLA 2019) at Boca Raton, USA. He enjoys teaching and aims to be a Professor someday. He intends to pursue his Masters in the Fall of 2021."
 
 AdithyaPremAnand:
   name: Adithya Prem Anand

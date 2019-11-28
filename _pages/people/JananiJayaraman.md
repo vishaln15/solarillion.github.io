@@ -1,9 +1,9 @@
 ---
-layout: single
+layout: personal
 permalink: /people/JananiJayaraman/
 author: JananiJayaraman
 author_profile: true
 ---
 ## About Janani
 {% assign data = site.data.people[page.author] %}
-{{ data.about }}
+<div style="text-align: justify">{{ data.about }}</div>

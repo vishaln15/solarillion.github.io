@@ -1,9 +1,9 @@
 ---
-layout: single
+layout: personal
 permalink: /people/PrithviSuresh/
 author: PrithviSuresh
 author_profile: true
 ---
 ## About Prithvi
 {% assign data = site.data.people[page.author] %}
-{{ data.about }}
+<div style="text-align: justify">{{ data.about }}</div>

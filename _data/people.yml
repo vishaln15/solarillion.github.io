@@ -114,6 +114,18 @@ AdithyaPremAnand:
   bio: Research Assistant, Teaching Assistant
   about:
     "Adithya is a final year undergraduate student of Electronics and Communication Engineering at SSN College of Engineering. His areas of interest are Computer Vision, Machine Learning and Robotics."
+    
+NaveenNarayanan:
+name: Naveen Narayanan
+group: ra
+email: navaans@gmail.com
+avatar: /assets/images/headshots/NaveenNarayanan.jpeg
+linkedin: naveen-1999
+github: naveenggmu
+page: /people/NaveenNarayanan
+bio: Research Assistant, Teaching Assistant, Server Administrator
+about:
+  "Naveen is a third year undergraduate student currently pursuing his Bachelor’s in Computer Science and Engineering at SSN College Of Engineering, Anna University, Chennai. His areas of interest include Machine Learning and Deep Learning. He is currently a part of the ML Research Group at Sollarillion Foundation. He worked on the paper *Scalable Deep Learning for Stress Detection*, accepted at ICMLA 2019. He intends to pursue his Master's in Fall 2021."
 
 PranavRaveendran:
   name: Pranav Raveendran

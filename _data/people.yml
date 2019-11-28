@@ -14,10 +14,12 @@ GokulHari:
   linkedin: hgokul7
   github: h-gokul
   page: /people/GokulHari
-  bio: Research Assistant (full-time), Teaching Assistant, Server Administrator 
+  bio: Research Assistant (full-time), Teaching Assistant, Server Administrator
+  about:
+    Gokul holds a Bachelor's degree in Electrical and Electronics from Anna University. His field of research includes Signal processing, Embedded systems, Machine learning and Deep learning. He has a paper on "Low-Cost Wearable Gesture Recognition System with Minimal User Calibration for ASL"  published by IEEE Things 2019, Atlanta, US. He led a team of 4 for his work titled "Gait Recovery System for Parkinson’s Disease using Machine Learning on Embedded Platforms", which is submitted in IEEE SYSCON 2019,Montreal  His current research is inclined to Reinforcement Learning is in the literature survey phase. He intends to pursue his Masters in Fall'20.
 
 PrithviSuresh:
-  name: Prithvi Suresh 
+  name: Prithvi Suresh
   group: ra
   email: prithvisuresh98@gmail.com
   avatar: /assets/images/headshots/PrithviSuresh.jpg
@@ -26,6 +28,8 @@ PrithviSuresh:
   twitter: prithusuresh
   page: /people/PrithviSuresh
   bio: Research Assistant, Teaching Assistant, Server Administrator
+  about:
+    Prithvi is a final year undergraduate student, pursuing Electronics and Communication Engineering at SRM Institute of Science and Technology, Kancheepuram. His areas of interest are Machine Learning and Deep Learning at the crossroads of Embedded Systems. After working on a Gait Recovery System for Parkinson's Disease and a Wearable Gesture Recognition System for the audio-vocally impaired, he is looking to avidly pursue his new found interest in healthcare technology by applying signal processing and deep learning techniques to physiological signals. When he isn't at the lab, he enjoys playing the guitar and listening to metal music. He is looking to pursue his Masters in the Fall of 2020.
 
 TarunaSudhakar:
   name: Taruna Sudhakar
@@ -35,6 +39,8 @@ TarunaSudhakar:
   linkedin: tarunasudhakar
   page: /people/TarunaSudhakar
   bio: Research Assistant, Teaching Assistant
+  about:
+    Taruna Sudhakar is a final year undergraduate student pursuing Electronics and Communication Engineering in SSN College of Engineering (affiliated to Anna University). She is part of the Microgrids team at Solarillion, and works on the development of optimization algorithms for improving the efficiency of Rural Indian microgrids. She presented a paper titled ‘Irrigation Optimization for Agricultural Productivity : Case Study of a Hybrid Solar Microgrid in Rural India’ at the 2019 Global Humanitarian Technology Conference (GHTC ‘19) held in Seattle, WA. Apart from her ongoing work at SF,  She has also interned at Indian Institute of Technology- Madras in the field of Image Guided Surgery and is pursuing further research in the field of Image Processing and Computer Vision at her college. She intends to pursue a Masters in Electrical and Computer Engineering in Fall 2020.
 
 MarjerieSuresh:
   name: Marjerie Suresh
@@ -45,6 +51,8 @@ MarjerieSuresh:
   github: marjerie
   page: /people/MarjerieSuresh
   bio: Research Assistant, Teaching Assistant
+  about:
+    Marjerie S is a final year undergraduate student pursuing Electronics and Communication Engineering at SSN College of Engineering, Chennai. She currently has a publication titled, “Intelligent Interconnection of Operating Micro-Grid and Irrigation System in Dharnai - A Rural Indian Scenario” presented at the annual IEEE Global Humanitarian Technology Conference (GHTC) - 2019, Washington, CA. She is also the author of a paper, “Cost-Efficiency Design Optimization for a Rural Indian Clustered Microgrid Architecture” which is submitted for acceptance at the IEEE Texas Power and Energy Conference (TPEC) - 2020, Texas A&M University, TX, where she and her team worked on solving a multi-variable optimization problem to maximize the utilization of energy resources for a rural microgrid cluster. Her areas of interest include Embedded systems, VLSI, Microgrids and Renewable energy. She intends to pursue her Masters abroad in Computer Engineering in the fall of 2020.
 
 HariVigneshBaskar:
   name: Hari Vignesh Baskar
@@ -55,6 +63,8 @@ HariVigneshBaskar:
   github: havig
   page: /people/HariVigneshBaskar
   bio: Research Assistant, Teaching Assistant
+  about:
+    Hari Vignesh B is a final year undergraduate student pursuing bachelor's degree in Electronics and Communication Engineering at SRM University Kattangalathur. He is the first author of the paper titled, "Intelligent Interconnection of Operating Micro-grid and Irrigation System in Dharnai - A Rural Indian Scenario" which he presented at IEEE Global Humanitarian Technology Conference (GHTC), 2019, Seattle, Washington, USA. He is also one of the co-authors of the paper, "Gait Recovery System for Parkinson’s Disease using Machine Learning on Embedded Platforms" which is submitted at IEEE Syscon, Montreal, Canada. He is currently pursuing his research in VLSI Domain and Computer Architecture. He intends to do his masters in Computer Engineering in the fall of 2020.
 
 AbhijithRagav:
   name: Abhijith Ragav
@@ -68,7 +78,7 @@ AbhijithRagav:
   page: /people/AbhijithRagav
   bio: Research Assistant, Teaching Assistant, Server Administrator
   about:
-    About Abhijith.
+    Abhijith is a final year Undergraduate student, pursuing Information Technology at SRM Institute of Science and Technology, Chennai. His team, led by him, collaborated with one of the top multiplexes in India and subsequently worked on a paper titled “A Two-Stage Machine Learning Approach to Forecast the Lifetime of Movies in a Multiplex”. This will be presented at the Future of Information and Communication Conference (FICC) 2020, San Francisco and will be published in Springer’s "Advances in Intelligent Systems and Computing" series. Following this, he led a team of 4 in a publication titled “Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices”. The work has been accepted to be published at the 18th IEEE International Conference on Machine Learning and Applications (ICMLA) 2019, Florida. His areas of interest include but are not limited to Data Science, Machine Learning, Deep Learning, Affective Computing, Edge Computing, and Societal Computing. He will be joining the Synergy Lab, Carnegie Mellon University (CMU) as a research intern during Spring 2020 and intends to pursue his Masters in the fall of 2021.
 
 JananiJayaraman:
   name: Janani Jayaraman
@@ -79,6 +89,8 @@ JananiJayaraman:
   github: jananijayaram
   page: /people/JananiJayaraman
   bio: Research Assistant, Teaching Assistant
+  about:
+    Janani is a final year student pursuing her Bachelor's degree in Electrical and Electronics Engineering  from Sri Sivasubramaniya Nadar College of Engineering, Anna University. She is part of the Smartgrids team at Solarillion Foundation. The team works on developing algorithms for improving Microgrid operation and performance. She has a publication titled “Irrigation Optimization for Agricultural Productivity: Case Study of a Hybrid Solar Microgrid in Rural India” accepted and presented at the IEEE Global Humanitarian Technology Conference, Seattle, WA. She is also the co-author of the paper titled, “Cost-Efficiency Design Optimization for a Rural Indian Clustered Microgrid Architecture" which is submitted for acceptance at the IEEE Texas Power and Energy Conference (TPEC) 2020, where she and her team worked on developing an algorithm for a multi variable optimization problem to enhance utilisation of energy resources. Her field of interest includes algorithms, embedded systems and digital circuits. She intends to pursue her masters in Electrical and Computer Engineering commencing fall 2020.
 
 KarthniLakshmanan:
   name: Karthni Lakshmanan
@@ -88,6 +100,8 @@ KarthniLakshmanan:
   linkedin: karthni-lakshmanan-366345194
   page: /people/KarthniLakshmanan
   bio: Research Assistant, Teaching Assistant
+  about:
+    Karthni is a final year Undergraduate student, pursuing Electrical and Electronics Engineering at SSN College of Engineering, Anna University, Chennai. She is currently a part of the Smartgrids team at Solarillion Foundation. She is the co-author of the paper titled "Cost-Efficiency Design Optimization for a Rural Indian Clustered Microgrid Architecture" which is submitted for acceptance to the IEEE Texas Power and Energy Conference (TPEC) 2020,  where she along with her team worked on  a mutlivariable cost and efficiency optimization algorithm for an integrated microgrid architecture. Her areas of interests include Algorithms and Embedded systems. She intends to pursue her Masters abroad in Electical and Computer Engineering in the fall of 2020.
 
 AdithyaPremAnand:
   name: Adithya Prem Anand
@@ -98,6 +112,8 @@ AdithyaPremAnand:
   github: adithyaprem
   page: /people/AdithyaPremAnand
   bio: Research Assistant, Teaching Assistant
+  about:
+    My areas of interest are Computer Vision, Machine Learning and Robotics.
 
 PranavRaveendran:
   name: Pranav Raveendran
@@ -108,6 +124,10 @@ PranavRaveendran:
   github: pmannil
   page: /people/PranavRaveendran
   bio: Research Assistant
+  about:
+    Pranav Raveendran is a 3rd year undergraduate student of Computer Science and Engineering
+    at SSN College of Engineering. His areas of interest are Machine Learning and deep learning.
+    He intends to do his master's in the fall of 2021.
 
 PraveenKumar:
   name: Praveen Kumar
@@ -119,7 +139,9 @@ PraveenKumar:
   twitter: pbcpraveen
   page: /people/PraveenKumar
   bio: Research Assistant
-  
+  about:
+    Praveen Kumar is a 3rd year Computer Science undergraduate at SSN College of Engineering. His area of interests are Computer Vision and Deep Learning. He intends to do his Masters in the fall of 2021.
+
 AdittyaSrikanth:
   name: Adittya Srikanth
   group: pa
@@ -130,9 +152,11 @@ AdittyaSrikanth:
   twitter: AdittyaSrikanth
   page: /people/AdittyaSrikanth
   bio: Project Assistant
+  about:
+    Currently part of the MicroGrid team. Areas of interest include Renewable energy, Machine Learning and algorithms. Planning to pursue my Masters abroad.
 
 DeepakRaghavanBalaji:
-  name: Deepak Raghavan Balaji 
+  name: Deepak Raghavan Balaji
   group: pa
   email: cupgreek20@hotmail.com
   avatar: /assets/images/headshots/DeepakRaghavanBalaji.jpg
@@ -141,3 +165,5 @@ DeepakRaghavanBalaji:
   twitter: cupgreek
   page: /people/DeepakRaghavanBalaji
   bio: Project Assistant
+  about:
+    B. Deepak Raghavan is a second year undergraduate pursuing his Bachelor's degree in Computer Science Engineering at Rajalakshmi Engineering College. His field of interest is Data Science, Analytics and Algorithms. He intends to pursue his Master's degree in Fall 2022.

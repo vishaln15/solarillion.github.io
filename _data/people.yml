@@ -2,9 +2,9 @@ VineethVijayaraghavan:
   name: Vineeth Vijayaraghavan
   group: director
   avatar: /assets/images/headshots/VineethVijayaraghavan.png
-  bio: Director, Research and Outreach
   linkedin: vineethv
   page: /people/VineethVijayaraghavan
+  bio: Director, Research and Outreach
 
 GokulHari:
   name: Gokul Hari
@@ -14,6 +14,7 @@ GokulHari:
   linkedin: hgokul7
   github: h-gokul
   page: /people/GokulHari
+  bio: Research Assistant (full-time), Teaching Assistant, Server Administrator 
 
 PrithviSuresh:
   name: Prithvi Suresh 
@@ -24,6 +25,7 @@ PrithviSuresh:
   github: prithusuresh
   twitter: prithusuresh
   page: /people/PrithviSuresh
+  bio: Research Assistant, Teaching Assistant, Server Administrator
 
 TarunaSudhakar:
   name: Taruna Sudhakar
@@ -32,6 +34,7 @@ TarunaSudhakar:
   avatar: /assets/images/headshots/TarunaSudhakar.jpeg
   linkedin: tarunasudhakar
   page: /people/TarunaSudhakar
+  bio: Research Assistant, Teaching Assistant
 
 MarjerieSuresh:
   name: Marjerie Suresh
@@ -41,6 +44,7 @@ MarjerieSuresh:
   linkedin: marjerie
   github: marjerie
   page: /people/MarjerieSuresh
+  bio: Research Assistant, Teaching Assistant
 
 HariVigneshBaskar:
   name: Hari Vignesh Baskar
@@ -50,6 +54,7 @@ HariVigneshBaskar:
   linkedin: hari-vignesh-baskar
   github: havig
   page: /people/HariVigneshBaskar
+  bio: Research Assistant, Teaching Assistant
 
 AbhijithRagav:
   name: Abhijith Ragav
@@ -61,6 +66,7 @@ AbhijithRagav:
   github: abhijithragav
   twitter: Abhijith0798
   page: /people/AbhijithRagav
+  bio: Research Assistant, Teaching Assistant, Server Administrator
 
 JananiJayaraman:
   name: Janani Jayaraman
@@ -70,6 +76,7 @@ JananiJayaraman:
   linkedin: janani-jayaraman
   github: jananijayaram
   page: /people/JananiJayaraman
+  bio: Research Assistant, Teaching Assistant
 
 KarthniLakshmanan:
   name: Karthni Lakshmanan
@@ -78,6 +85,7 @@ KarthniLakshmanan:
   avatar: /assets/images/headshots/KarthniLakshmanan.jpg
   linkedin: karthni-lakshmanan-366345194
   page: /people/KarthniLakshmanan
+  bio: Research Assistant, Teaching Assistant
 
 AdithyaPremAnand:
   name: Adithya Prem Anand
@@ -87,6 +95,7 @@ AdithyaPremAnand:
   linkedin: adithya-prem-anand
   github: adithyaprem
   page: /people/AdithyaPremAnand
+  bio: Research Assistant, Teaching Assistant
 
 PranavRaveendran:
   name: Pranav Raveendran
@@ -96,6 +105,7 @@ PranavRaveendran:
   linkedin: pranav-raveendran-181571162
   github: pmannil
   page: /people/PranavRaveendran
+  bio: Research Assistant
 
 PraveenKumar:
   name: Praveen Kumar
@@ -106,6 +116,7 @@ PraveenKumar:
   github: pbcpraveen
   twitter: pbcpraveen
   page: /people/PraveenKumar
+  bio: Research Assistant
   
 AdittyaSrikanth:
   name: Adittya Srikanth
@@ -116,6 +127,7 @@ AdittyaSrikanth:
   github: adittya13
   twitter: AdittyaSrikanth
   page: /people/AdittyaSrikanth
+  bio: Project Assistant
 
 DeepakRaghavanBalaji:
   name: Deepak Raghavan Balaji 
@@ -126,3 +138,4 @@ DeepakRaghavanBalaji:
   github: cupgreek
   twitter: cupgreek
   page: /people/DeepakRaghavanBalaji
+  

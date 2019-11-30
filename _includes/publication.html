@@ -1,14 +1,17 @@
 {% assign publication = include.publication %}
-<div class="publication-container" id="{{ publication.title }}">
-
-  <!--Name and Location-->
-  <div class="publication-details">
-  <div class="publications__content">
-      {% if publication.url %}
-      <a href="{{ person.page }}">
-          <h3 class="publications_title" itemprop="title">{{ publication.title }}</h3>
-      </a>
-      {% endif %}
-  </div>
-  </div>
-</div>
+{% if publication.url %}
+    <a href="{{ publication.url }}">
+        <i>{{ publication.title }}</i>
+    </a>
+{% else %}
+    <i>{{ publication.title }}</i>
+{% endif %}
+<br>
+{% assign people = site.data.people %}
+{% for i in publication.authors %}
+{{ people[i].name }},
+{% endfor %}
+{{ people[VineethVijayaraghavan].name }}
+<br>
+{{ publication.conference }}
+Status: {{ publication.status }}

@@ -1,0 +1,53 @@
+
+
+Dharnai:
+  authors:
+    - HariVigneshBaskar
+    - MarjerieSuresh
+    - AbishekCoimbatoreSridhar
+    - SaiShankarMuthukrishnan
+    - VineethVijayaraghavan
+  year: "2019"
+  title: "Intelligent Interconnection of Operating MicroGrid and Irrigation System in Dharnai - A rural Indian Scenario"
+  conference: "2019 IEEE Global Humanitarian Technology Conference (GHTC)"
+  status: accepted
+  team: MG
+
+IrrigationOpt:
+  authors:
+    - JananiJayaraman
+    - TarunaSudhakar
+    - SaiShankarMuthukrishnan
+    - AswinGopikanna
+    - VineethVijayaraghavan
+  year: "2019"
+  title: "Irrigation Optimization for Agricultural Productivity: Case Study of a Hybrid Solar Microgrid in Rural India"
+  conference: "2019 IEEE Global Humanitarian Technology Conference (GHTC)"
+  status: accepted
+  team: MG
+
+ASLGlove:
+  authors:
+    - SyedShahbaazAhmed
+    - GokulHari
+    - PrithviSuresh
+    - VineethVijayaraghavan
+  year: "2019"
+  title: "Low-Cost Wearable Gesture Recognition System with Minimal User Calibration for ASL"
+  conference: "2019 International Conference on Internet of Things (iThings)"
+  url: "https://ieeexplore.ieee.org/document/8875343"
+  status: published
+  team: IoT
+
+EDGEStress:
+  authors:
+    - AbhijithRagav
+    - NandaHKrishna
+    - NaveenNarayanan
+    - KevinThelly
+    - VineethVijayaraghavan
+  year: "2019"
+  title: "Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices"
+  conference: "18th International Conference on Machine Learning Applications (IEEE ICMLA)"
+  status: accepted
+  team: ML

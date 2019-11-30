@@ -1,0 +1,14 @@
+{% assign publication = include.publication %}
+<div class="publication-container" id="{{ publication.title }}">
+
+  <!--Name and Location-->
+  <div class="publication-details">
+  <div class="publications__content">
+      {% if publication.url %}
+      <a href="{{ person.page }}">
+          <h3 class="publications_title" itemprop="title">{{ publication.title }}</h3>
+      </a>
+      {% endif %}
+  </div>
+  </div>
+</div>

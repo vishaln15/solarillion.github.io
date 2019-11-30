@@ -8,8 +8,8 @@
 {% endif %}
 <br>
 {% assign people = site.data.people %}
-{% for i in publication.authors %}
-{{ people[i].name }},
+{% for author in publication.authors %}
+{{ people[author].name }},
 {% endfor %}
 {{ people[VineethVijayaraghavan].name }}
 <br>

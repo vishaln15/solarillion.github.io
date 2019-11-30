@@ -1,4 +1,10 @@
 ---
-layout: splash
+layout: single
 permalink: /publications/
+title: "Publications"
 ---
+<h2>2019</h2>
+{% assign current = site.data.publications | where: "year", "2019" %}
+{% for publication_id in current %}
+    {% include publication.html publication=publication_id %}
+{% endfor %}

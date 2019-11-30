@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
     overlay_image: /assets/images/SFBanner.png 
-excerpt: 'Research in Machine Learning, Internet of Things and Microgrids.<br><br>&nbsp;[<i class="fab fa-github"></i> @solarillion](https://github.com/solarillion){: .btn .btn--github}&nbsp;&nbsp;[Join Us!](https://forms.gle/){: .btn .btn--danger}'
+excerpt: 'Research in Machine Learning, Internet of Things and Microgrids.<br><br>&nbsp;[<i class="fab fa-github"></i> @solarillion](https://github.com/solarillion){: .btn .btn--github}&nbsp;&nbsp;[Join Us!](https://forms.gle/Mxcxq7iA4B8nv4DY9){: .btn .btn--danger}'
 ---
 Solarillion Foundation is a not-for-profit research, outreach and education organization working with research institutions, government agencies and organizations to carry out research on policy, technology and related areas in the field of Machine Learning, Internet of Things, Embedded Systems, Renewable Energy, and Sustainable Engineering.
 

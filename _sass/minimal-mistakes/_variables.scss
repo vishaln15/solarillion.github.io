@@ -54,20 +54,20 @@ $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
-$background-color: #fff !default;
+$background-color: #fafafa !default;
 $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
 $text-color: $black !default;
 $muted-text-color: mix(#fff, $text-color, 35%) !default;
 $border-color: $black !default;
 $form-background-color: $lighter-gray !default;
-$footer-background-color: $lighter-gray !default;
+$footer-background-color: $dark-gray !default;
 
 $primary-color: #ffa600 !default;
 $success-color: #3fa63f !default;
 $warning-color: #d67f05 !default;
-$danger-color: #ee5f5b !default;
-$info-color: #3b9cba !default;
+$danger-color: #cb2431 !default;
+$info-color: #0366d6 !default;
 $focus-color: $primary-color !default;
 $active-color: mix(#fff, $primary-color, 80%) !default;
 
@@ -84,7 +84,7 @@ $dribbble-color: #ea4c89 !default;
 $facebook-color: #3b5998 !default;
 $flickr-color: #ff0084 !default;
 $foursquare-color: #0072b1 !default;
-$github-color: #171516 !default;
+$github-color: #6f42c1 !default;
 $gitlab-color: #e24329 !default;
 $instagram-color: #517fa4 !default;
 $keybase-color: #ef7639 !default;

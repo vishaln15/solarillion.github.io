@@ -1,48 +1,47 @@
-2019:
-  - Dharnai:
-      authors:
-        - HariVigneshBaskar
-        - MarjerieSuresh
-        - AbishekCoimbatoreSridhar
-        - SaiShankarMuthukrishnan
-      year: "2019"
-      title: "Intelligent Interconnection of Operating MicroGrid and Irrigation System in Dharnai - A rural Indian Scenario"
-      conference: "2019 IEEE Global Humanitarian Technology Conference (GHTC)"
-      status: Accepted
-      team: MG
+Dharnai:
+  authors:
+    - HariVigneshBaskar
+    - MarjerieSuresh
+    - AbishekCoimbatoreSridhar
+    - SaiShankarMuthukrishnan
+  year: "2019"
+  title: "Intelligent Interconnection of Operating MicroGrid and Irrigation System in Dharnai - A rural Indian Scenario"
+  conference: "2019 IEEE Global Humanitarian Technology Conference (GHTC)"
+  status: Accepted
+  team: MG
 
-  - IrrigationOpt:
-      authors:
-        - JananiJayaraman
-        - TarunaSudhakar
-        - SaiShankarMuthukrishnan
-        - AswinGopikanna
-      year: "2019"
-      title: "Irrigation Optimization for Agricultural Productivity: Case Study of a Hybrid Solar Microgrid in Rural India"
-      conference: "2019 IEEE Global Humanitarian Technology Conference (GHTC)"
-      status: Accepted
-      team: MG
+IrrigationOpt:
+  authors:
+    - JananiJayaraman
+    - TarunaSudhakar
+    - SaiShankarMuthukrishnan
+    - AswinGopikanna
+  year: "2019"
+  title: "Irrigation Optimization for Agricultural Productivity: Case Study of a Hybrid Solar Microgrid in Rural India"
+  conference: "2019 IEEE Global Humanitarian Technology Conference (GHTC)"
+  status: Accepted
+  team: MG
 
-  - ASLGlove:
-      authors:
-        - SyedShahbaazAhmed
-        - GokulHari
-        - PrithviSuresh
-      year: "2019"
-      title: "Low-Cost Wearable Gesture Recognition System with Minimal User Calibration for ASL"
-      conference: "2019 International Conference on Internet of Things (iThings)"
-      url: "https://ieeexplore.ieee.org/document/8875343"
-      status: Published
-      team: IoT
+ASLGlove:
+  authors:
+    - SyedShahbaazAhmed
+    - GokulHari
+    - PrithviSuresh
+  year: "2019"
+  title: "Low-Cost Wearable Gesture Recognition System with Minimal User Calibration for ASL"
+  conference: "2019 International Conference on Internet of Things (iThings)"
+  url: "https://ieeexplore.ieee.org/document/8875343"
+  status: Published
+  team: IoT
 
-  - EdgeStress:
-      authors:
-        - AbhijithRagav
-        - NandaHKrishna
-        - NaveenNarayanan
-        - KevinThelly
-      year: "2019"
-      title: "Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices"
-      conference: "18th International Conference on Machine Learning Applications (IEEE ICMLA)"
-      status: Accepted
-      team: ML
+EdgeStress:
+  authors:
+    - AbhijithRagav
+    - NandaHKrishna
+    - NaveenNarayanan
+    - KevinThelly
+  year: "2019"
+  title: "Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices"
+  conference: "18th International Conference on Machine Learning Applications (IEEE ICMLA)"
+  status: Accepted
+  team: ML

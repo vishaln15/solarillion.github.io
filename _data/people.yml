@@ -115,6 +115,17 @@ AbhijithRagav:
   about:
     "Abhijith is a final year Undergraduate student, pursuing Information Technology at SRM Institute of Science and Technology, Chennai. His team, led by him, collaborated with one of the top multiplexes in India and subsequently worked on a paper titled *A Two-Stage Machine Learning Approach to Forecast the Lifetime of Movies in a Multiplex*. This will be presented at the Future of Information and Communication Conference (FICC) 2020, San Francisco and will be published in Springer’s *Advances in Intelligent Systems and Computing* series. Following this, he led a team of 4 in a publication titled *Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices*. The work has been accepted to be published at the 18th IEEE International Conference on Machine Learning and Applications (ICMLA) 2019, Florida. His areas of interest include but are not limited to Data Science, Machine Learning, Deep Learning, Affective Computing, Edge Computing, and Societal Computing. He will be joining the Synergy Lab, Carnegie Mellon University (CMU) as a research intern during Spring 2020 and intends to pursue his Masters in the fall of 2021."
 
+RamanathanMurugappan:
+  name: Ramanathan Murugappan
+  group: ra
+  email: ramanathanrobotist@gmail.com
+  avatar: /assets/images/headshots/RamanathanMurugappan.jpeg
+  linkedin: ramanathan-murugappan-66a068125
+  page: /people/RamanathanMurugappan
+  bio: Research Assistant, Teaching Assistant
+  about:
+    "Ramanathan is a Master's student of Mechatronics, Robotics and Automation Engineering at Anna University. He did his Bachelor's in Mechanical Engineering, and his passion for Machine Learning and Robotics led him towards research and his current graduate major. Having previously worked on Movie Lifetime Prediction, he is currently working on User-Independent Stress Detection using Machine Learning."
+
 NandaHKrishna:
   name: Nanda H Krishna
   group: ra
@@ -153,17 +164,17 @@ NaveenNarayanan:
   about:
     "Naveen is a third year undergraduate student currently pursuing his Bachelor’s in Computer Science and Engineering at SSN College Of Engineering, Anna University, Chennai. His areas of interest include Machine Learning and Deep Learning. He is currently a part of the ML Research Group at Solarillion Foundation. He worked on the paper *Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices*, accepted at ICMLA 2019. He intends to pursue his Master's in Fall 2021."
 
-PranavRaveendran:
-  name: Pranav Raveendran
+KevinThelly:
+  name: Kevin Thelly
   group: ra
-  email: pranav.mannil@gmail.com
-  avatar: /assets/images/headshots/PranavRaveendran.jpg
-  linkedin: pranav-raveendran-181571162
-  github: pmannil
-  page: /people/PranavRaveendran
-  bio: Research Assistant
+  email: kevin.thelly@gmail.com
+  avatar: /assets/images/headshots/KevinThelly.jpeg
+  linkedin: kevin-thelly-5b5a16125
+  github: KevinThelly
+  page: /people/KevinThelly
+  bio: Research Assistant, Teaching Assistant
   about:
-    "Pranav Raveendran is a 3rd year undergraduate student of Computer Science and Engineering at SSN College of Engineering. His areas of interest are Machine Learning and Deep Learning. He intends to do his Master's in the fall of 2021."
+    "Kevin is an undergraduate student pursuing his Bachelor's degree in Computer Science and Engineering at SSN College of Engineering. He is interested in Machine Learning and Deep Learning, and has previously worked on and co-authored the paper title *Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices*, which will be presented at IEEE ICMLA 2019. He is interested in furthering his knowledge through research and is also a Teaching Assistant at Solarillion Foundation."
 
 PraveenKumar:
   name: Praveen Kumar
@@ -177,6 +188,18 @@ PraveenKumar:
   bio: Research Assistant
   about:
     "Praveen Kumar is a 3rd year Computer Science undergraduate at SSN College of Engineering. His area of interests are Computer Vision and Deep Learning. He intends to do his Masters in the fall of 2021."
+
+PranavRaveendran:
+  name: Pranav Raveendran
+  group: ra
+  email: pranav.mannil@gmail.com
+  avatar: /assets/images/headshots/PranavRaveendran.jpg
+  linkedin: pranav-raveendran-181571162
+  github: pmannil
+  page: /people/PranavRaveendran
+  bio: Research Assistant
+  about:
+    "Pranav Raveendran is a 3rd year undergraduate student of Computer Science and Engineering at SSN College of Engineering. His areas of interest are Machine Learning and Deep Learning. He intends to do his Master's in the fall of 2021."
 
 AdittyaSrikanth:
   name: Adittya Srikanth
@@ -203,3 +226,38 @@ DeepakRaghavanBalaji:
   bio: Project Assistant
   about:
     "Deepak is a second year undergraduate pursuing his Bachelor's degree in Computer Science Engineering at Rajalakshmi Engineering College. His fields of interest are Data Science, Analytics and Algorithms. He intends to pursue his Master's degree in Fall 2022."
+
+SyedShahbaazAhmed:
+  name: Syed Shahbaaz Ahmed
+  group: alumni
+  page: https://www.linkedin.com/in/syed-shahbaaz-ahmed-48b6807b
+
+AbishekCoimbatoreSridhar:
+  name: Abishek Coimbatore Sridhar
+  group: alumni
+  page: https://www.linkedin.com/in/abishek-sridhar-544044165
+
+SaiShankarMuthukrishnan:
+  name: Sai Shankar Muthukrishnan
+  group: alumni
+  page: https://www.linkedin.com/in/sai-shankar-451719161
+
+AswinGopikanna:
+  name: Aswin Gopikanna
+  group: alumni
+  page: https://www.linkedin.com/in/aswingopikanna
+
+VijayKumarShankar:
+  name: Vijay Kumar Shankar
+  group: alumni
+  page: https://www.linkedin.com/in/vijaykumarshankar
+
+RaghavendranThiruvengadam:
+  name: Raghavendran Thiruvengadam
+  group: alumni
+  page: https://www.linkedin.com/in/raghavthiru
+
+ASShashankKarrthikeyaa:
+  name: A S Shashank Karrthikeyaa
+  group: alumni
+  page: https://www.linkedin.com/in/annadanam007

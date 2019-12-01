@@ -9,17 +9,21 @@
 <br>
 {% assign people = site.data.people %}
 {% for author in publication.authors %}
+{% if author.page %}
     <a href="people[author].page" style="color: #000">{{ people[author].name }}</a>,
+{% else %}
+    {{ people[author].name }}
+{% endif %}
 {% endfor %}
 <a href="/people/VineethVijayaraghavan" style="color: #000">Vineeth Vijayaraghavan</a>
 <br>
 {{ publication.conference }}
 {% if publication.status == "Accepted" %}
-(Accepted)
+    (Accepted)
 {% endif %}
 <br>
 {% if publication.git %}
-<i class="fab fa-github"></i> <a href="{{ publication.git }}" style="color: #000">View code on GitHub</a>
-<br>
+    <i class="fab fa-github"></i> <a href="{{ publication.git }}" style="color: #000">View code on GitHub</a>
+    <br>
 {% endif %}
 <br>

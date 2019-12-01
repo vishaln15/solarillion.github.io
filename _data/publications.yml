@@ -5,7 +5,7 @@ LWGRSWMUCFA:
     - PrithviSuresh     
   year: "2019"
   title: "Low-Cost Wearable Gesture Recognition System with Minimal User Calibration for ASL"
-  conference: "2019 International Conference on Internet of Things (iThings)"
+  conference: "2019 International Conference on Internet of Things"
   url: "https://ieeexplore.ieee.org/document/8875343"
   status: Published
   team: IoT
@@ -18,7 +18,7 @@ IIOOMAISID-ARIS:
     - SaiShankarMuthukrishnan     
   year: "2019"
   title: "Intelligent Interconnection of Operating MicroGrid and Irrigation System in Dharnai - A rural Indian Scenario"
-  conference: "2019 IEEE Global Humanitarian Technology Conference (GHTC)"
+  conference: "2019 IEEE Global Humanitarian Technology Conference"
   status: Accepted
   team: MG
 
@@ -30,7 +30,7 @@ IOFAPCSOAHSMIRI:
     - AswinGopikanna     
   year: "2019"
   title: "Irrigation Optimization for Agricultural Productivity: Case Study of a Hybrid Solar Microgrid in Rural India"
-  conference: "IEEE Global Humanitarian Technology Conference 2019"
+  conference: "2019 IEEE Global Humanitarian Technology Conference"
   status: Accepted
   team: MG
 
@@ -42,8 +42,8 @@ SDLFSAADORD:
     - KevinThelly     
   year: "2019"
   title: "Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices"
-  conference: "18th IEEE International Conference on Machine Learning and Applications - ICMLA 2019"
-  git: "https://github.com/nandahkrishna/StessAffectDetection"
+  conference: "18th IEEE International Conference on Machine Learning and Applications"
+  git: "https://github.com/nandahkrishna/StressAffectDetection"
   status: Accepted
   team: ML
 
@@ -67,7 +67,7 @@ ATMLAFEDLPAHGFN:
     - ASShashankKarrthikeyaa     
   year: "2019"
   title: "A Two-Fold Machine Learning Approach for Efficient Day-Ahead Load Prediction at Hourly Granularity for NYC"
-  conference: "Future of Information and Communication Conference (FICC)"
+  conference: "Future of Information and Communication Conference 2019"
   url: "https://link.springer.com/chapter/10.1007/978-3-030-12385-7_8"
   status: Published
   team: IoT
@@ -92,7 +92,7 @@ ATMLATFTLOMIAM:
     - RamnathMurugappan     
   year: "2019"
   title: "A Two-Stage Machine Learning Approach to Forecast the Lifetime of Movies in a Multiplex "
-  conference: "Future of Information and Communication"
+  conference: "Future of Information and Communication Conference 2020"
   git: "https://github.com/skullsai/A-Two-Stage-Machine-Learning-Approach-to-Forecast-the-Lifetime-of-Movies-in-a-Multiplex"
   status: Accepted
   team: ML

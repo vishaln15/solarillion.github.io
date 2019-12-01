@@ -1,47 +1,106 @@
-Dharnai:
+LWGRSWMUCFA:
+  authors:
+    - SyedShahbaazAhmed
+    - GokulHari
+    - PrithviSuresh
+    - VineethVijayaraghavan
+  year: "2019"
+  title: "Low-Cost Wearable Gesture Recognition System with Minimal User Calibration for ASL"
+  conference: "2019 International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)"
+  url: "https://ieeexplore.ieee.org/document/8875343"
+  status: Published
+  team: IoT
+
+IIOOMAISID-ARIS:
   authors:
     - HariVigneshBaskar
     - MarjerieSuresh
     - AbishekCoimbatoreSridhar
     - SaiShankarMuthukrishnan
+    - VineethVijayaraghavan
   year: "2019"
   title: "Intelligent Interconnection of Operating MicroGrid and Irrigation System in Dharnai - A rural Indian Scenario"
   conference: "2019 IEEE Global Humanitarian Technology Conference (GHTC)"
   status: Accepted
   team: MG
 
-IrrigationOpt:
+IOFAPCSOAHSMIRI:
   authors:
     - JananiJayaraman
     - TarunaSudhakar
     - SaiShankarMuthukrishnan
     - AswinGopikanna
+    - VineethVijayaraghavan
   year: "2019"
   title: "Irrigation Optimization for Agricultural Productivity: Case Study of a Hybrid Solar Microgrid in Rural India"
-  conference: "2019 IEEE Global Humanitarian Technology Conference (GHTC)"
+  conference: "IEEE Global Humanitarian Technology Conference 2019"
   status: Accepted
   team: MG
 
-ASLGlove:
-  authors:
-    - SyedShahbaazAhmed
-    - GokulHari
-    - PrithviSuresh
-  year: "2019"
-  title: "Low-Cost Wearable Gesture Recognition System with Minimal User Calibration for ASL"
-  conference: "2019 International Conference on Internet of Things (iThings)"
-  url: "https://ieeexplore.ieee.org/document/8875343"
-  status: Published
-  team: IoT
-
-EdgeStress:
+SDLFSAADORD:
   authors:
     - AbhijithRagav
     - NandaHKrishna
     - NaveenNarayanan
     - KevinThelly
+    - VineethVijayaraghavan
   year: "2019"
   title: "Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices"
   conference: "18th International Conference on Machine Learning Applications (IEEE ICMLA)"
+  git: "https://github.com/nandahkrishna/StessAffectDetection"
+  status: Accepted
+  team: ML
+
+HAFISPIPWERIM:
+  authors:
+    - AswinGopikanna
+    - VijayKumarShankar
+    - SaiShankarMuthukrishnan
+    - AbishekCoimbatoreSridhar
+    - VineethVijayaraghavan
+  year: "2018"
+  title: "Hybrid Architecture for Integrating Solar PV Irrigation Pumps with Existing Rural Indian Microgrid"
+  conference: "2018 IEEE Global Humanitarian Technology Conference"
+  url: "https://ieeexplore.ieee.org/document/8601922/authors"
+  status: Published
+  team: MG
+
+ATMLAFEDLPAHGFN:
+  authors:
+    - SyedShahbaazAhmed
+    - RaghavendranThiruvengadam
+    - ASShashankKarrthikeyaa
+    - VineethVijayaraghavan
+  year: "2019"
+  title: "A Two-Fold Machine Learning Approach for Efficient Day-Ahead Load Prediction at Hourly Granularity for NYC"
+  conference: "Future of Information and Communication Conference (FICC)"
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-12385-7_8"
+  status: Published
+  team: IoT
+
+EDOFASRM:
+  authors:
+    - SaiShankarMuthukrishnan
+    - AbishekCoimbatoreSridhar
+    - AswinGopikanna
+    - VijayKumarShankar
+    - VineethVijayaraghavan
+  year: "2019"
+  title: "Efficiency-Cost Design Optimization for a Stand-alone Rural Microgrid"
+  conference: "2019 Power and Energy Conference at Illinois"
+  url: "https://ieeexplore.ieee.org/document/8698906"
+  status: Published
+  team: MG
+
+ATMLATFTLOMIAM:
+  authors:
+    - AbhijithRagav
+    - SaiVishwanathVenkatesh
+    - RamnathMurugappan
+    - VineethVijayaraghavan
+  year: "2020"
+  title: "A Two-Stage Machine Learning Approach to Forecast the Lifetime of Movies in a Multiplex "
+  conference: "Future of Information and Communication"
+  git: "https://github.com/skullsai/A-Two-Stage-Machine-Learning-Approach-to-Forecast-the-Lifetime-of-Movies-in-a-Multiplex"
   status: Accepted
   team: ML

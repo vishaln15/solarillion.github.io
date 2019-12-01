@@ -42,7 +42,7 @@ SDLFSAADORD:
     - KevinThelly     
   year: "2019"
   title: "Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices"
-  conference: "18th International Conference on Machine Learning Applications (IEEE ICMLA)"
+  conference: "18th IEEE International Conference on Machine Learning and Applications - ICMLA 2019"
   git: "https://github.com/nandahkrishna/StessAffectDetection"
   status: Accepted
   team: ML

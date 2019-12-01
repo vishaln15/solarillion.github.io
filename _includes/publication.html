@@ -9,9 +9,11 @@
 <br>
 {% assign people = site.data.people %}
 {% for author in publication.authors %}
-    {{ people[author].name }},
+    <a href="people[author].page">{{ people[author].name }}</a>,
 {% endfor %}
-{{ people[VineethVijayaraghavan].name }}
+<a href="/people/VineethVijayaraghavan">Vineeth Vijayaraghavan</a>
 <br>
 {{ publication.conference }}
+<br>
 Status: {{ publication.status }}
+<br>

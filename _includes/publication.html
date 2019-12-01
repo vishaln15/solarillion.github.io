@@ -9,7 +9,7 @@
 <br>
 {% assign people = site.data.people %}
 {% for author in publication.authors %}
-{% if author.page %}
+{% if people[author].page %}
     <a href="people[author].page" style="color: #000">{{ people[author].name }}</a>,
 {% else %}
     {{ people[author].name }}

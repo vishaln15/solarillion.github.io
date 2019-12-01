@@ -5,7 +5,7 @@ LWGRSWMUCFA:
     - PrithviSuresh     
   year: "2019"
   title: "Low-Cost Wearable Gesture Recognition System with Minimal User Calibration for ASL"
-  conference: "2019 International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)"
+  conference: "2019 International Conference on Internet of Things (iThings)"
   url: "https://ieeexplore.ieee.org/document/8875343"
   status: Published
   team: IoT
@@ -90,7 +90,7 @@ ATMLATFTLOMIAM:
     - AbhijithRagav
     - SaiVishwanathVenkatesh
     - RamnathMurugappan     
-  year: "2020"
+  year: "2019"
   title: "A Two-Stage Machine Learning Approach to Forecast the Lifetime of Movies in a Multiplex "
   conference: "Future of Information and Communication"
   git: "https://github.com/skullsai/A-Two-Stage-Machine-Learning-Approach-to-Forecast-the-Lifetime-of-Movies-in-a-Multiplex"

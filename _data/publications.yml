@@ -2,8 +2,7 @@ LWGRSWMUCFA:
   authors:
     - SyedShahbaazAhmed
     - GokulHari
-    - PrithviSuresh
-    - VineethVijayaraghavan
+    - PrithviSuresh     
   year: "2019"
   title: "Low-Cost Wearable Gesture Recognition System with Minimal User Calibration for ASL"
   conference: "2019 International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)"
@@ -16,8 +15,7 @@ IIOOMAISID-ARIS:
     - HariVigneshBaskar
     - MarjerieSuresh
     - AbishekCoimbatoreSridhar
-    - SaiShankarMuthukrishnan
-    - VineethVijayaraghavan
+    - SaiShankarMuthukrishnan     
   year: "2019"
   title: "Intelligent Interconnection of Operating MicroGrid and Irrigation System in Dharnai - A rural Indian Scenario"
   conference: "2019 IEEE Global Humanitarian Technology Conference (GHTC)"
@@ -29,8 +27,7 @@ IOFAPCSOAHSMIRI:
     - JananiJayaraman
     - TarunaSudhakar
     - SaiShankarMuthukrishnan
-    - AswinGopikanna
-    - VineethVijayaraghavan
+    - AswinGopikanna     
   year: "2019"
   title: "Irrigation Optimization for Agricultural Productivity: Case Study of a Hybrid Solar Microgrid in Rural India"
   conference: "IEEE Global Humanitarian Technology Conference 2019"
@@ -42,8 +39,7 @@ SDLFSAADORD:
     - AbhijithRagav
     - NandaHKrishna
     - NaveenNarayanan
-    - KevinThelly
-    - VineethVijayaraghavan
+    - KevinThelly     
   year: "2019"
   title: "Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices"
   conference: "18th International Conference on Machine Learning Applications (IEEE ICMLA)"
@@ -56,8 +52,7 @@ HAFISPIPWERIM:
     - AswinGopikanna
     - VijayKumarShankar
     - SaiShankarMuthukrishnan
-    - AbishekCoimbatoreSridhar
-    - VineethVijayaraghavan
+    - AbishekCoimbatoreSridhar     
   year: "2018"
   title: "Hybrid Architecture for Integrating Solar PV Irrigation Pumps with Existing Rural Indian Microgrid"
   conference: "2018 IEEE Global Humanitarian Technology Conference"
@@ -69,8 +64,7 @@ ATMLAFEDLPAHGFN:
   authors:
     - SyedShahbaazAhmed
     - RaghavendranThiruvengadam
-    - ASShashankKarrthikeyaa
-    - VineethVijayaraghavan
+    - ASShashankKarrthikeyaa     
   year: "2019"
   title: "A Two-Fold Machine Learning Approach for Efficient Day-Ahead Load Prediction at Hourly Granularity for NYC"
   conference: "Future of Information and Communication Conference (FICC)"
@@ -83,8 +77,7 @@ EDOFASRM:
     - SaiShankarMuthukrishnan
     - AbishekCoimbatoreSridhar
     - AswinGopikanna
-    - VijayKumarShankar
-    - VineethVijayaraghavan
+    - VijayKumarShankar     
   year: "2019"
   title: "Efficiency-Cost Design Optimization for a Stand-alone Rural Microgrid"
   conference: "2019 Power and Energy Conference at Illinois"
@@ -96,8 +89,7 @@ ATMLATFTLOMIAM:
   authors:
     - AbhijithRagav
     - SaiVishwanathVenkatesh
-    - RamnathMurugappan
-    - VineethVijayaraghavan
+    - RamnathMurugappan     
   year: "2020"
   title: "A Two-Stage Machine Learning Approach to Forecast the Lifetime of Movies in a Multiplex "
   conference: "Future of Information and Communication"

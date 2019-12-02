@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /news/
+permalink: /news-archive/
 ---
 ## News Archive
 <ul class="fa-ul">

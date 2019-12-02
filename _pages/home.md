@@ -12,7 +12,7 @@ Established in 2012, Solarillion encourages and mentors highly motivated under-g
 
 ## Latest News
 <ul class="fa-ul">
-{% assign news = site.posts %}
+{% assign news = site.posts limit: 5 %}
 {% for news_item in news %}
     {% include news-item.html item=news_item %}
 {% endfor %}

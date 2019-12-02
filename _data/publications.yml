@@ -1,3 +1,16 @@
+SDLFSAADORD:
+  authors:
+    - AbhijithRagav
+    - NandaHKrishna
+    - NaveenNarayanan
+    - KevinThelly
+  year: "2019"
+  title: "Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices"
+  conference: "18th IEEE International Conference on Machine Learning and Applications"
+  git: "https://github.com/nandahkrishna/StressAffectDetection"
+  status: Accepted
+  team: ML
+
 LWGRSWMUCFA:
   authors:
     - SyedShahbaazAhmed
@@ -9,6 +22,18 @@ LWGRSWMUCFA:
   url: "https://ieeexplore.ieee.org/document/8875343"
   status: Published
   team: IoT
+
+ATMLATFTLOMIAM:
+  authors:
+    - AbhijithRagav
+    - SaiVishwanathVenkatesh
+    - RamanathanMurugappan
+  year: "2019"
+  title: "A Two-Stage Machine Learning Approach to Forecast the Lifetime of Movies in a Multiplex"
+  conference: "Future of Information and Communication Conference 2020"
+  git: "https://github.com/skullsai/A-Two-Stage-Machine-Learning-Approach-to-Forecast-the-Lifetime-of-Movies-in-a-Multiplex"
+  status: Accepted
+  team: ML
 
 IIOOMAISID-ARIS:
   authors:
@@ -34,29 +59,42 @@ IOFAPCSOAHSMIRI:
   status: Accepted
   team: MG
 
-SDLFSAADORD:
+DTAGFFTSF:
   authors:
-    - AbhijithRagav
-    - NandaHKrishna
-    - NaveenNarayanan
-    - KevinThelly
+    - NithishBMoudhgalya
+    - SiddharthDivi
+    - AdithyaGanesanV
+    - SharanSundarS
   year: "2019"
-  title: "Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices"
-  conference: "18th IEEE International Conference on Machine Learning and Applications"
-  git: "https://github.com/nandahkrishna/StressAffectDetection"
-  status: Accepted
+  title: "DeepTrace: A Generic Framework for Time Series Forecasting"
+  conference: "International Work-Conference on Artificial Neural Networks 2019"
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-20521-8_12"
+  status: Published
   team: ML
 
-HAFISPIPWERIM:
+FFSIAMUDANN:
   authors:
-    - AswinGopikanna
-    - VijayKumarShankar
+    - AdithyaGanesanV
+    - SiddharthDivi
+    - NithishBMoudhgalya
+    - Uppu Sriharsha
+  year: "2019"
+  title: "Forecasting Food Sales in a Multiplex Using Dynamic Artificial Neural Networks"
+  conference: "Computer Vision Conference 2019"
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-17798-0_8"
+  status: Published
+  team: ML
+
+EDOFASRM:
+  authors:
     - SaiShankarMuthukrishnan
     - AbishekCoimbatoreSridhar
-  year: "2018"
-  title: "Hybrid Architecture for Integrating Solar PV Irrigation Pumps with Existing Rural Indian Microgrid"
-  conference: "2018 IEEE Global Humanitarian Technology Conference"
-  url: "https://ieeexplore.ieee.org/document/8601922/authors"
+    - AswinGopikanna
+    - VijayKumarShankar
+  year: "2019"
+  title: "Efficiency-Cost Design Optimization for a Stand-alone Rural Microgrid"
+  conference: "2019 Power and Energy Conference at Illinois"
+  url: "https://ieeexplore.ieee.org/document/8698906"
   status: Published
   team: MG
 
@@ -72,27 +110,15 @@ ATMLAFEDLPAHGFN:
   status: Published
   team: IoT
 
-EDOFASRM:
+HAFISPIPWERIM:
   authors:
-    - SaiShankarMuthukrishnan
-    - AbishekCoimbatoreSridhar
     - AswinGopikanna
     - VijayKumarShankar
-  year: "2019"
-  title: "Efficiency-Cost Design Optimization for a Stand-alone Rural Microgrid"
-  conference: "2019 Power and Energy Conference at Illinois"
-  url: "https://ieeexplore.ieee.org/document/8698906"
+    - SaiShankarMuthukrishnan
+    - AbishekCoimbatoreSridhar
+  year: "2018"
+  title: "Hybrid Architecture for Integrating Solar PV Irrigation Pumps with Existing Rural Indian Microgrid"
+  conference: "2018 IEEE Global Humanitarian Technology Conference"
+  url: "https://ieeexplore.ieee.org/document/8601922/authors"
   status: Published
   team: MG
-
-ATMLATFTLOMIAM:
-  authors:
-    - AbhijithRagav
-    - SaiVishwanathVenkatesh
-    - RamanathanMurugappan
-  year: "2019"
-  title: "A Two-Stage Machine Learning Approach to Forecast the Lifetime of Movies in a Multiplex"
-  conference: "Future of Information and Communication Conference 2020"
-  git: "https://github.com/skullsai/A-Two-Stage-Machine-Learning-Approach-to-Forecast-the-Lifetime-of-Movies-in-a-Multiplex"
-  status: Accepted
-  team: ML

@@ -11,7 +11,7 @@ Solarillion Foundation is a not-for-profit research, outreach and education orga
 Established in 2012, Solarillion encourages and mentors highly motivated under-graduate and graduate students and young professionals interested in research in the emerging areas of ML, IoT and Microgrids. These students will ideally continue to pursue higher education in established institutions and follow a career path in engineering research and innovation.
 
 ## Latest News
-<ul>
+<ul class="fa-ul">
 {% assign news = site.posts %}
 {% for news_item in news %}
     {% include news-item.html item=news_item %}

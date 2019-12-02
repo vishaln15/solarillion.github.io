@@ -1,6 +1,6 @@
 {% assign item = include.item %}
 <li>
-<span class="fa-li"><i class="fas fa-check-square"></i></span>
+<span class="fa-li"><i class="fas fa-{{ item.icon }}"></i></span>
 {{ item.date | date_to_long_string }}
 {{ item.content | markdownify }}
 </li>

@@ -5,7 +5,7 @@ permalink: /people/VineethVijayaraghavan/
 ---
 ## Vineeth Vijayaraghavan - Director (Research and Outreach)
 <br>
-<center><img src="/assets/images/headshots/VineethVijayaraghavan.png" alt="Vineeth Vijayaraghavan"></center>
+<center><img src="/assets/images/headshots/VineethVijayaraghavan.png" alt="Vineeth Vijayaraghavan" style="border-radius: 50%; padding: 5px; border: 1px solid #000"></center>
 <br><br>
 <div style="text-align: justify">
 Vineeth Vijayaraghavan <a href="https://www.linkedin.com/in/vineethv"><i class="fab fa-fw fa-linkedin"></i></a> is the Director (Research and Outreach) at Solarillion Foundation. He is also the founding editor of <a href="http://panchabuta.com">Panchabuta</a>, a leading Renewable Energy and Cleantech Industry focused information and intelligence provider. As the editor, Vineeth covers the sector with the intent to bring to the local and global audience, news, insightful analysis and commentary in this space. As an independent online resource, Panchabuta also focuses on and contributes to policy making in the Cleantech and Renewable Energy space in India by providing valuable inputs to various organizations and stakeholders in the ecosystem.

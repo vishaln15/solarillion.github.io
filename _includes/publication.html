@@ -10,9 +10,9 @@
 {% assign people = site.data.people %}
 {% for author in publication.authors %}
 {% if people[author].page %}
-    <a href="people[author].page" style="color: #000">{{ people[author].name }}</a>,
+    <a href="{{ people[author].page }}" style="color: #000">{{ people[author].name }}</a>,
 {% else %}
-    {{ people[author].name }}
+    {{ people[author].name }},
 {% endif %}
 {% endfor %}
 <a href="/people/VineethVijayaraghavan" style="color: #000">Vineeth Vijayaraghavan</a>

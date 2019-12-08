@@ -26,7 +26,7 @@ title: "People"
 {% for person_id in current %}
     <a href="{{ person_id.page }}" style="color: #000">{{ person_id.name }}</a>
     {% if person_id.location %}
-        <i class="fas fa-map-marker-alt"></i> {{ person_id.location }}
+        <i class="fas fa-fw fa-map-marker-alt"></i> {{ person_id.location }}
     {% endif %}
     <br>
 {% endfor %}

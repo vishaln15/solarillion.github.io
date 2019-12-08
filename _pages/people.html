@@ -23,9 +23,8 @@ title: "People"
 
 <h2>Alumni</h2>
 {% assign current = site.data.people | where: "group", "alumni" %}
-<div style="margin: auto">
 {% for person_id in current %}
-    <h4><a href="{{ person_id.page }}">{{ person_id.name }}</a></h4>
+    <div style="color: #000"><a href="{{ person_id.page }}">{{ person_id.name }}</a></h4></div>
     {% if person_id.location %}
         <p class="location">{{ person_id.location }}</p>
     {% endif %}
@@ -33,4 +32,3 @@ title: "People"
     {% assign i = forloop.index | modulo: 2 %}
     {% if i == 0 %}<br>{% endif %}
 {% endfor %}
-</div>

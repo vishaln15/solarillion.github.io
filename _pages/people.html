@@ -23,6 +23,16 @@ title: "People"
 
 <h2>Alumni</h2>
 {% assign current = site.data.people | where: "group", "alumni" %}
+{% assign i = 0 %}
 {% for person_id in current %}
-    {% include person.html person=person_id %}
+    <div class="author__content" id="{{ person_id.name }}">
+        <h3><a href="{{ person_id.page }}">{{ person_id.name }}</a></h3>
+        {% if person_id.location %}
+        <p class="location">{{ person_id.location }}</p>
+        {% endif %}
+    </div>
+    {% increment i %}
+    {% if {{ i | modulo: 3 }} == 0 %}
+    <br>
+    {% endif %}
 {% endfor %}

@@ -1,3 +1,15 @@
+RSBCDFED:
+  authors:
+    - SaiVishwanathVenkatesh
+    - AdithyaPremAnand
+    - GokulSahar
+    - AkshayRamakrishnan
+  year: "2019"
+  title: "Real-Time Surveillance Based Crime Detection for Edge Devices"
+  conference: "15th International Conference on Computer Vision Theory and Applications"
+  status: "Accepted"
+  team: ML
+
 GRSFPDUMLOEP:
   authors:
     - GokulHari
@@ -6,7 +18,7 @@ GRSFPDUMLOEP:
     - PravinKumaarR
   year: "2019"
   title: "Gait Recovery System for Parkinson's Disease using Machine Learning on Embedded Platforms"
-  conference: "IEEE International Systems Conference (SysCon) "
+  conference: "IEEE International Systems Conference 2020"
   status: Accepted
   team: IoT
 

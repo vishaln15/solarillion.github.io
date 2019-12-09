@@ -164,7 +164,17 @@ AdithyaPremAnand:
   bio: Research Assistant, Teaching Assistant
   about:
     "Adithya is a final year undergraduate student of Electronics and Communication Engineering at SSN College of Engineering. His areas of interest are Computer Vision, Machine Learning and Robotics."
-    
+
+GokulSahar:
+  name: Gokul Sahar
+  group: ra
+  email: gokulsahar@gmail.com
+  avatar: /assets/images/headshots/GokulSahar.jpg
+  page: /people/GokulSahar
+  bio: Research Assistant, Teaching Assistant
+  about:
+    "Gokul Sahar is a third year undergaduate student at SSN College of Engineering, studying Computer Science and Engineering. He has previously worked on the paper titled *Real-Time Surveillance Based Crime Detection for Edge Devices* which has been accepted to VISAPP 2020. He wishes to do his Master's in Computer Science, in the fall of 2021."
+
 NaveenNarayanan:
   name: Naveen Narayanan
   group: ra
@@ -188,6 +198,46 @@ KevinThelly:
   bio: Research Assistant, Teaching Assistant
   about:
     "Kevin is an undergraduate student pursuing his Bachelor's degree in Computer Science and Engineering at SSN College of Engineering. He is interested in Machine Learning and Deep Learning, and has previously worked on and co-authored the paper title *Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices*, which will be presented at IEEE ICMLA 2019. He is interested in furthering his knowledge through research and is also a Teaching Assistant at Solarillion Foundation."
+
+AkshayRamakrishnan:
+  name: Akshay Ramakrishnan
+  group: ra
+  avatar: /assets/images/headshots/AkshayRamakrishnan.jpeg
+  linkedin: akshay-ramakrishnan-59353b194
+  page: /people/AkshayRamakrishnan
+  bio: Research Assistant
+  about:
+    "Akshay is a third year undergaduate student at SSN College of Engineering, studying Computer Science and Engineering. He has previously worked on the paper titled *Real-Time Surveillance Based Crime Detection for Edge Devices* which has been accepted to VISAPP 2020. He wishes to do his Master's in Computer Science, in the fall of 2021."
+
+JoishBosco:
+  name: Joish Bosco
+  group: ra
+  avatar: /assets/images/headshots/JoishBosco.jpg
+  linkedin: joish-bosco-73389410b
+  page: /people/JoishBosco
+  bio: Research Assistant
+  about:
+    "Joish has a BE Computer Science and Engineering from the Loyola-ICAM College of Engineering and Technology. He is currently working on User-Independent Stress Detection using Machine Learning. He is interested in Machine Learning and is planning to do his Master's in Computer Science."
+
+KrishnakanthEswaran:
+  name: Krishnakanth Eswaran
+  group: ra
+  avatar: /assets/images/headshots/KrishnakanthEswaran.jpg
+  linkedin: krishnakanth-eswaran-987173179
+  page: /people/KrishnakanthEswaran
+  bio: Research Assistant
+  about:
+    "Krishnakanth is a 3rd year Computer Science and Engineering Student at SSN College of Engineering. He is currently working on User-Independent Stress Detection using Machine Learning. He is planning to do his graduate education in the fall of 2021."
+
+PranavVijay:
+  name: Pranav Vijay
+  group: ra
+  email: pranavj99@gmail.com
+  avatar: /assets/images/headshots/PranavVijay.jpg
+  page: /people/PranavVijay
+  bio: Research Assistant
+  about:
+    "Pranav is a 3rd year undergraduate student of Computer Science and Engineering Student at SSN College of Engineering. He is currently working on User-Independent Stress Detection using Machine Learning. He is planning to do his Master's in the fall of 2021."
 
 PraveenKumar:
   name: Praveen Kumar
@@ -213,6 +263,18 @@ PranavRaveendran:
   bio: Research Assistant
   about:
     "Pranav Raveendran is a 3rd year undergraduate student of Computer Science and Engineering at SSN College of Engineering. His areas of interest are Machine Learning and Deep Learning. He intends to do his Master's in the fall of 2021."
+
+PrasannaKumaranD:
+  name: Prasanna Kumaran D
+  group: ra
+  email: prasannakumaran176@gmail.com
+  avatar: /assets/images/headshots/PrasannaKumaranD.jpg
+  linkedin: prasanna-kumaran-931040197
+  github: PrasannaKumaran
+  page: /people/PrasannaKumaranD
+  bio: Research Assistant
+  about:
+    "Prasanna is a 2nd year undergraduate student of Computer Science and Engineering at SSN College of Engineering. His areas of interest are Machine Learning and Algorithms. He intends to do a Master's in Computer Science, in 2022."
 
 AdittyaSrikanth:
   name: Adittya Srikanth

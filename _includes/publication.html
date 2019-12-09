@@ -23,7 +23,12 @@
 {% endif %}
 <br>
 {% if publication.git %}
-    <i class="fab fa-github"></i> <a href="{{ publication.git }}" style="color: #000">View code on GitHub</a>
+    <i class="fab fa-github"></i> <a href="{{ publication.git }}" style="color: #000">View code on GitHub</a>&nbsp;&nbsp;
+{% endif %}
+{% if publication.misc %}
+    <i class="{{ publication.misc.icon }}"></i> <a href="{{ publication.misc.link }}" style="color: #000">{{ publication.misc.text }}</a>
+{% endif %}
+{% if publication.git or publication.misc %}
     <br>
 {% endif %}
 <br>

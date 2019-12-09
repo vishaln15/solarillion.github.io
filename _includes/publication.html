@@ -10,12 +10,9 @@
 {% assign people = site.data.people %}
 {% for author in publication.authors %}
 {% if people[author].page %}
-    <a href="{{ people[author].page }}" style="color: #000">{{ people[author].name }}</a>
+    <a href="{{ people[author].page }}" style="color: #000">{{ people[author].name }}</a>{% if forloop.last == false %},{% endif %}
 {% else %}
-    {{ people[author].name }}
-{% endif %}
-{% if forloop.last == false %}
-,
+    {{ people[author].name }}{% if forloop.last == false %},{% endif %}
 {% endif %}
 {% endfor %}
 <br>

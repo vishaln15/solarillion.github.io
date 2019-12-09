@@ -4,9 +4,10 @@ RSBCDFED:
     - AdithyaPremAnand
     - GokulSahar
     - AkshayRamakrishnan
-  year: "2019"
+    - VineethVijayaraghavan
+  year: "2020"
   title: "Real-Time Surveillance Based Crime Detection for Edge Devices"
-  conference: "15th International Conference on Computer Vision Theory and Applications"
+  conference: "15th International Conference on Computer Vision Theory and Applications (VISAPP)"
   status: Accepted
   team: ML
 
@@ -16,35 +17,11 @@ GRSFPDUMLOEP:
     - PrithviSuresh
     - HariVigneshBaskar
     - PravinKumaarR
-  year: "2019"
+    - VineethVijayaraghavan
+  year: "2020"
   title: "Gait Recovery System for Parkinson's Disease using Machine Learning on Embedded Platforms"
-  conference: "IEEE International Systems Conference 2020"
+  conference: "2020 IEEE International Systems Conference (SysCon)"
   status: Accepted
-  team: IoT
-
-SDLFSAADORD:
-  authors:
-    - AbhijithRagav
-    - NandaHKrishna
-    - NaveenNarayanan
-    - KevinThelly
-  year: "2019"
-  title: "Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices"
-  conference: "18th IEEE International Conference on Machine Learning and Applications"
-  git: "https://github.com/solarillion/StressAffectDetection"
-  status: Accepted
-  team: ML
-
-LWGRSWMUCFA:
-  authors:
-    - SyedShahbaazAhmed
-    - GokulHari
-    - PrithviSuresh
-  year: "2019"
-  title: "Low-Cost Wearable Gesture Recognition System with Minimal User Calibration for ASL"
-  conference: "2019 International Conference on Internet of Things"
-  url: "https://ieeexplore.ieee.org/document/8875343"
-  status: Published
   team: IoT
 
 ATMLATFTLOMIAM:
@@ -52,22 +29,38 @@ ATMLATFTLOMIAM:
     - AbhijithRagav
     - SaiVishwanathVenkatesh
     - RamanathanMurugappan
-  year: "2019"
+    - VineethVijayaraghavan
+  year: "2020"
   title: "A Two-Stage Machine Learning Approach to Forecast the Lifetime of Movies in a Multiplex"
-  conference: "Future of Information and Communication Conference 2020"
+  conference: "Future of Information and Communication Conference 2020 (FICC)"
   git: "https://github.com/solarillion/MovieLifetimePrediction"
   status: Accepted
   team: ML
 
-IIOOMAISID-ARIS:
+SDLFSAADORD:
+  authors:
+    - AbhijithRagav
+    - NandaHKrishna
+    - NaveenNarayanan
+    - KevinThelly
+    - VineethVijayaraghavan
+  year: "2019"
+  title: "Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices"
+  conference: "18th IEEE International Conference on Machine Learning and Applications (ICMLA)"
+  git: "https://github.com/solarillion/StressAffectDetection"
+  status: Accepted
+  team: ML
+
+IIOOMAISIDARIS:
   authors:
     - HariVigneshBaskar
     - MarjerieSuresh
     - AbishekCoimbatoreSridhar
     - SaiShankarMuthukrishnan
+    - VineethVijayaraghavan
   year: "2019"
-  title: "Intelligent Interconnection of Operating MicroGrid and Irrigation System in Dharnai - A Rural Indian Scenario"
-  conference: "2019 IEEE Global Humanitarian Technology Conference"
+  title: "Intelligent Interconnection of Operating Microgrid and Irrigation System in Dharnai - A Rural Indian Scenario"
+  conference: "2019 IEEE Global Humanitarian Technology Conference (GHTC)"
   status: Accepted
   team: MG
 
@@ -77,11 +70,39 @@ IOFAPCSOAHSMIRI:
     - TarunaSudhakar
     - SaiShankarMuthukrishnan
     - AswinGopikanna
+    - VineethVijayaraghavan
   year: "2019"
   title: "Irrigation Optimization for Agricultural Productivity: Case Study of a Hybrid Solar Microgrid in Rural India"
-  conference: "2019 IEEE Global Humanitarian Technology Conference"
+  conference: "2019 IEEE Global Humanitarian Technology Conference (GHTC)"
   status: Accepted
   team: MG
+
+ADAMOFSWFO:
+  authors:
+    - SundararamanVenkataramani
+    - AteendraRamesh
+    - SharanSundarS
+    - AashishKumarJain
+    - GauthamKrishnaGudur
+    - VineethVijayaraghavan
+  year: "2019"
+  title: "A Dynamically Adaptive Movie Occupancy Forecasting System with Feature Optimization"
+  conference: "2019 Workshop on Learning and Mining with Industrial Data (LMID)"
+  status: Accepted
+  team: ML
+
+LWGRSWMUCFA:
+  authors:
+    - SyedShahbaazAhmed
+    - GokulHari
+    - PrithviSuresh
+    - VineethVijayaraghavan
+  year: "2019"
+  title: "Low-Cost Wearable Gesture Recognition System with Minimal User Calibration for ASL"
+  conference: "2019 International Conference on Internet of Things (iThings)"
+  url: "https://ieeexplore.ieee.org/document/8875343"
+  status: Published
+  team: IoT
 
 DTAGFFTSF:
   authors:
@@ -89,9 +110,10 @@ DTAGFFTSF:
     - SiddharthDivi
     - AdithyaGanesanV
     - SharanSundarS
+    - VineethVijayaraghavan
   year: "2019"
   title: "DeepTrace: A Generic Framework for Time Series Forecasting"
-  conference: "International Work-Conference on Artificial Neural Networks 2019"
+  conference: "International Work-Conference on Artificial Neural Networks 2019 (IWANN)"
   url: "https://link.springer.com/chapter/10.1007/978-3-030-20521-8_12"
   status: Published
   team: ML
@@ -102,9 +124,10 @@ FFSIAMUDANN:
     - SiddharthDivi
     - NithishBMoudhgalya
     - UppuSriharsha
+    - VineethVijayaraghavan
   year: "2019"
   title: "Forecasting Food Sales in a Multiplex using Dynamic Artificial Neural Networks"
-  conference: "Computer Vision Conference 2019"
+  conference: "Computer Vision Conference 2019 (CVC)"
   url: "https://link.springer.com/chapter/10.1007/978-3-030-17798-0_8"
   status: Published
   team: ML
@@ -115,9 +138,10 @@ EDOFASRM:
     - AbishekCoimbatoreSridhar
     - AswinGopikanna
     - VijayKumarShankar
+    - VineethVijayaraghavan
   year: "2019"
   title: "Efficiency-Cost Design Optimization for a Stand-alone Rural Microgrid"
-  conference: "2019 Power and Energy Conference at Illinois"
+  conference: "2019 Power and Energy Conference at Illinois (PECI)"
   url: "https://ieeexplore.ieee.org/document/8698906"
   status: Published
   team: MG
@@ -127,12 +151,56 @@ ATMLAFEDLPAHGFN:
     - SyedShahbaazAhmed
     - RaghavendranThiruvengadam
     - ASShashankKarrthikeyaa
+    - VineethVijayaraghavan
   year: "2019"
   title: "A Two-Fold Machine Learning Approach for Efficient Day-Ahead Load Prediction at Hourly Granularity for NYC"
-  conference: "Future of Information and Communication Conference 2019"
+  conference: "Future of Information and Communication Conference 2019 (FICC)"
   url: "https://link.springer.com/chapter/10.1007/978-3-030-12385-7_8"
   status: Published
   team: IoT
+
+DOOARSOAEP:
+  authors:
+    - AteendraRamesh
+    - AdithyaGanesanV
+    - SidharthAnupkrishnan
+    - AparokshithRao
+    - VineethVijayaraghavan
+  year: "2018"
+  title: "Design Optimization of Activity Recognition System on an Embedded Platform"
+  conference: "Future of Information and Communication Conference 2018 (FICC)"
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-03402-3_46"
+  status: Published
+  team: IoT
+
+AGMDGRSUML:
+  authors:
+    - GauthamKrishnaGudur
+    - KarthikSubramanianNathan
+    - BYogeshKumar
+    - AnkithAPrabhu
+    - AjayKannan
+    - VineethVijayaraghavan
+  year: "2018"
+  title: "A Generic Multi-modal Dynamic Gesture Recognition System Using Machine Learning"
+  conference: "Future of Information and Communication Conference 2018 (FICC)"
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-03405-4_42"
+  status: Published
+  team: IoT
+
+HTOILUDEOCD:
+  authors:
+    - PrahalathanSundaramoorthy
+    - GauthamKrishnaGudur
+    - ManavRajivMoorthy
+    - RNidhiBhandari
+    - VineethVijayaraghavan
+  year: "2018"
+  title: "HARNet: Towards On-Device Incremental Learning using Deep Ensembles on Constrained Devices"
+  conference: "2nd International Workshop on Embedded and Mobile Deep Learning (EMDL)"
+  url: "https://dl.acm.org/citation.cfm?id=3212728"
+  status: Published
+  team: ML
 
 HAFISPIPWERIM:
   authors:
@@ -140,9 +208,10 @@ HAFISPIPWERIM:
     - VijayKumarShankar
     - SaiShankarMuthukrishnan
     - AbishekCoimbatoreSridhar
+    - VineethVijayaraghavan
   year: "2018"
   title: "Hybrid Architecture for Integrating Solar PV Irrigation Pumps with Existing Rural Indian Microgrid"
-  conference: "2018 IEEE Global Humanitarian Technology Conference"
+  conference: "2018 IEEE Global Humanitarian Technology Conference (GHTC)"
   url: "https://ieeexplore.ieee.org/document/8601922/"
   status: Published
   team: MG
@@ -153,9 +222,10 @@ ISDODLPFASRIM:
     - AswinGopikanna
     - SaiShankarMuthukrishnan
     - GandhiRajan
+    - VineethVijayaraghavan
   year: "2018"
   title: "Intelligent System Design Optimization with Dynamic Load Profile for a Stand-alone Rural Indian Microgrid"
-  conference: "2018 IEEE Texas Power and Energy Conference"
+  conference: "2018 IEEE Texas Power and Energy Conference (TPEC)"
   url: "http://ieeexplore.ieee.org/document/8312050/"
   status: Published
   team: MG
@@ -166,9 +236,10 @@ CPBDCINOALEPUE:
     - SyedShahbaazAhmed
     - PrahalathanSundaramoorthy
     - RaghavendranThiruvengadam
+    - VineethVijayaraghavan
   year: "2017"
   title: "Current Peak based Device Classification in NILM on a Low-cost Embedded Platform using Extra-Trees"
-  conference: "2017 MIT Undergraduate Research Technology Conference"
+  conference: "2017 MIT Undergraduate Research Technology Conference (URTC)"
   url: "http://ieeexplore.ieee.org/document/8284200/"
   status: Published
   team: IoT
@@ -180,9 +251,10 @@ RIMDOIBS:
     - MeghanaKavakuntala
     - VetrivelSubramaniamRajkumar
     - SivaroophiniGnanavel
+    - VineethVijayaraghavan
   year: "2017"
   title: "Rural Indian Microgrid Design Optimization - Intelligent Battery Sizing"
-  conference: "2017 IEEE Global Humanitarian Technology Conference"
+  conference: "2017 IEEE Global Humanitarian Technology Conference (GHTC)"
   url: "http://ieeexplore.ieee.org/document/8239275/"
   status: Published
   team: MG
@@ -193,9 +265,11 @@ AMLAFPOOPOF:
     - LakshminarasimhanSrinivasan
     - AdityaVikramSharma
     - DineshSreekanthan
+    - VineethVijayaraghavan
   year: "2017"
   title: "A Machine Learning Approach for Prediction of On-time Performance of Flights"
-  conference: "2017 IEEE/AIAA 36th Digital Avionics Systems Conference"
+  conference: "2017 IEEE/AIAA 36th Digital Avionics Systems Conference (DASC)"
+  award: "Won the Best Paper Award"
   url: "http://ieeexplore.ieee.org/document/8102138/"
   status: Published
   team: ML
@@ -205,9 +279,10 @@ LSGRSUMA:
     - AjayKannan
     - AteendraRamesh
     - LakshminarasimhanSrinivasan
+    - VineethVijayaraghavan
   year: "2017"
   title: "Low-cost Static Gesture Recognition System using MEMS Accelerometers"
-  conference: "2017 Global Internet of Things Summit"
+  conference: "2017 Global Internet of Things Summit (GIoTS)"
   url: "http://ieeexplore.ieee.org/document/8016217/"
   status: Published
   team: IoT
@@ -217,22 +292,280 @@ LWITHGRS:
     - AswinNatesh
     - GandhiRajan
     - BalasubramanianThiagarajan
+    - VineethVijayaraghavan
   year: "2017"
-  title: "A Machine Learning Approach for Prediction of On-time Performance of Flights"
-  conference: "IEEE International Systems Conference 2017"
+  title: "Low-cost Wireless Intelligent Two Hand Gesture Recognition System"
+  conference: "2017 Annual IEEE International Systems Conference (SysCon)"
   url: "http://ieeexplore.ieee.org/document/7934745/"
   status: Published
   team: IoT
 
-AMLAFPOOPOF:
+IDGFAFAGSPBM:
   authors:
-    - 
-    - 
-    - 
-    - 
+    - HariniSekar
+    - RRajashekar
+    - FarhanFaisal
+    - RohanGanpati
+    - VineethVijayaraghavan
   year: "2016"
-  title: "A Machine Learning Approach for Prediction of On-time Performance of Flights"
-  conference: "2017 IEEE/AIAA 36th Digital Avionics Systems Conference"
-  url: "http://ieeexplore.ieee.org/document/8102138/"
+  title: "Intelligent Dynamic Grid Forecasting Algorithm for a Grid-connected Solar PV based Microgrid"
+  conference: "2016 IEEE Global Humanitarian Technology Conference (GHTC)"
+  url: "https://ieeexplore.ieee.org/document/7857315/"
   status: Published
-  team: ML
+  team: MG
+
+LNDIS:
+  authors:
+    - GosakanSrinivasan
+    - ChandirasekarendiranAnandan
+    - AashishKumarJain
+    - SyedShahbaazAhmed
+    - VineethVijayaraghavan
+  year: "2016"
+  title: "Low-cost Non-intrusive Device Identification System"
+  conference: "2016 IEEE Dallas Circuits and Systems Conference (DCAS)"
+  url: "http://ieeexplore.ieee.org/document/7791140/"
+  status: Published
+  team: IoT
+
+LISGRS:
+  authors:
+    - HariniSekar
+    - RRajashekar
+    - GosakanSrinivasan
+    - PriyankaSuresh
+    - VineethVijayaraghavan
+  year: "2016"
+  title: "Low-cost Intelligent Static Gesture Recognition System"
+  conference: "2016 Annual IEEE International Systems Conference (SysCon)"
+  url: "http://ieeexplore.ieee.org/document/7490642/"
+  status: Published
+  team: IoT
+
+FDAFDOIARIN:
+  authors:
+    - VikramVel
+    - MeghanaKavakuntala
+    - RajeshRamesh
+    - HariniSekar
+    - VineethVijayaraghavan
+  year: "2015"
+  title: "Flexible D-agent Architecture for DER Operation in a Rural Indian Microgrid"
+  conference: "2015 IEEE Global Humanitarian Technology Conference (GHTC)"
+  url: "https://ieeexplore.ieee.org/document/7343950/"
+  status: Published
+  team: MG
+
+DAILSSFASSPM:
+  authors:
+    - ArjunSubramanianGanesan
+    - BhargaviGovindarajan
+    - RajeshRamesh
+    - VikramVel
+    - VineethVijayaraghavan
+  year: "2015"
+  title: "Dynamic and Intelligent Load Servicing Strategy for a Stand-alone Solar PV-based Microgrid"
+  conference: "2015 IEEE Global Humanitarian Technology Conference (GHTC)"
+  url: "http://ieeexplore.ieee.org/document/7343995/"
+  status: Published
+  team: MG
+
+LCIGREFAII:
+  authors:
+    - RishikanthC
+    - HariniSekar
+    - GauthamRajagopal
+    - RajeshRamesh
+    - VineethVijayaraghavan
+  year: "2014"
+  title: "Low-cost Intelligent Gesture Recognition Engine for Audo-vocally Impaired Individuals"
+  conference: "2014 IEEE Global Humanitarian Technology Conference (GHTC)"
+  url: "https://ieeexplore.ieee.org/document/6970349/"
+  status: Published
+  team: IoT
+
+RPAALTMOPBLASSRIMSSCS:
+  authors:
+    - BAnand
+    - AJAntonyVenus
+    - MukundhanSrinivasan
+    - ArunNoelVictor
+    - MadhuriK
+    - SPSreeRakshaa
+    - VineethVijayaraghavan
+    - KartikKulkarni
+  year: "2014"
+  title: "Real-world Proficiency Augmentation among Learners through Merger of Project Based Learning (PBL) and Student Social Responsibility (SSR): IEEE Madras Section SIGHT Case Study"
+  conference: "2014 IEEE Global Humanitarian Technology Conference (GHTC)"
+  url: "http://ieeexplore.ieee.org/document/6970298/"
+  status: Published
+  team: Other
+
+LCDFAMFKASDIMSSCS:
+  authors:
+    - BAnand
+    - AJAntonyVenus
+    - MukundhanSrinivasan
+    - ArunNoelVictor
+    - MadhuriK
+    - SPSreeRakshaa
+    - VineethVijayaraghavan
+    - KartikKulkarni
+  year: "2014"
+  title: "Local Content Development Framework and Methodology for Knowledge and Skill Development: IEEE Madras Section SIGHT Case Study"
+  conference: "2014 IEEE Global Humanitarian Technology Conference (GHTC)"
+  url: "http://ieeexplore.ieee.org/document/6970270/"
+  status: Published
+  team: Other
+
+LCCBIFASUBLE:
+  authors:
+    - GauthamRajagopal
+    - VaaibhavMLodd
+    - AnandVignesh
+    - RajeshRamesh
+    - VineethVijayaraghavan
+  year: "2014"
+  title: "Low Cost Cloud Based Intelligent Farm Automation System using Bluetooth Low Energy"
+  conference: "2014 IEEE Region 10 Humanitarian Technology Conference (R10 HTC)"
+  url: "http://ieeexplore.ieee.org/document/7026324/"
+  status: Published
+  team: IoT
+
+LIPEM:
+  authors:
+    - RishikanthC
+    - AkshayaRavishankar
+    - AnandVignesh
+    - VikramVel
+    - VineethVijayaraghavan
+    - DhiwaakarPurusothaman
+  year: "2014"
+  title: "Low-cost Intelligent Prepaid Energy Meter"
+  conference: "4th International Conference on the Internet of Things, MIT (IoT)"
+  award: "Won the Best Poster Award"
+  url: "https://iot-conference.org/iot2014/posters/"
+  status: Poster
+  team: IoT
+
+LNREMS:
+  authors:
+    - AkshayaRavishankar
+    - AnandVignesh
+    - VikramVel
+    - DhiwaakarPurusothaman
+    - VineethVijayaraghavan
+  year: "2014"
+  title: "Low-cost Non-intrusive Residential Energy Monitoring System"
+  conference: "2014 IEEE Conference on Technologies for Sustainability (SusTech)"
+  url: "http://ieeexplore.ieee.org/document/7046232/"
+  status: Published
+  team: IoT
+
+DOABCAFRIM:
+  authors:
+    - DhiwaakarPurusothaman
+    - RajeshRamesh
+    - VineethVijayaraghavan
+    - KaranKBajaj
+  year: "2014"
+  title: "Design of Arduino-based Communication Agent for Rural Indian Microgrids"
+  conference: "2014 IEEE Innovative Smart Grid Technologies - Asia (ISGT ASIA)"
+  url: "http://ieeexplore.ieee.org/document/6873865/"
+  status: Published
+  team: MG
+
+HBCSUSPAUG:
+  authors:
+    - DhiwaakarPurusothaman
+    - RajeshRamesh
+    - KaranKBajaj
+    - VineethVijayaraghavan
+    - VenkatesanM
+  year: "2014"
+  title: "Hybrid Battery Charging System using Solar PV and Utility Grid"
+  conference: "2014 Power and Energy Systems: Towards Sustainable Energy (PESTSE)"
+  url: "http://ieeexplore.ieee.org/document/6805275/"
+  status: Published
+  team: MG
+
+MSFFRIM:
+  authors:
+    - RajeshRamesh
+    - KaranKBajaj
+    - DhiwaakarPurusothaman
+    - VineethVijayaraghavan
+  year: "2013"
+  title: "Multi-agent System Framework for Rural Indian Microgrids"
+  conference: "2013 IEEE Conference on Clean Energy and Technology (CEAT)"
+  url: "http://ieeexplore.ieee.org/document/6775603/"
+  status: Published
+  team: MG
+
+IOAMSFRIM:
+  authors:
+    - DhiwaakarPurusothaman
+    - RajeshRamesh
+    - KaranKBajaj
+    - VineethVijayaraghavan
+  year: "2013"
+  title: "Implementation of Arduino-based Multi-agent System for Rural Indian Microgrids"
+  conference: "2013 Innovative Smart Grid Technologies - Asia (ISGT ASIA)"
+  url: "http://ieeexplore.ieee.org/document/6698751/"
+  status: Published
+  team: MG
+
+GLCGCSFEIRIASFSDTE:
+  authors:
+    - MukundhanSrinivasan
+    - BAnand
+    - AJAntonyVenus
+    - ArunNoelVictor
+    - MadhuriNarayanan
+    - SPSreeRakshaa
+    - VineethVijayaraghavan
+  year: "2013"
+  title: "GreenEduComp: Low Cost Green Computing System for Education in Rural India: A Scheme for Sustainable Development through Education"
+  conference: "2013 IEEE Global Humanitarian Technology Conference (GHTC)"
+  url: "https://ieeexplore.ieee.org/document/6713663/"
+  status: Published
+  team: Other
+
+AAGAOQVLCSMSARIP:
+  author:
+    - RajeshRamesh
+    - SabarigirishVijayakumar
+    - MukundhanSrinivasan
+    - VineethVijayaraghavan
+  year: "2013"
+  title: "An Avant Garde Argumentation of Quality-of-Service via Low-cost Cloud-based Smart Microgrid Solution: A Rural India Perspective"
+  conference: "2013 IEEE Workshop on Environmental, Energy and Structural Monitoring Systems (EESMS)"
+  url: "https://ieeexplore.ieee.org/document/6661707"
+  status: Published
+  team: MG
+
+LCDOSREDIMPIAESFRI:
+  authors:
+    - MukundhanSrinivasan
+    - SabarigirishVijayakumar
+    - RajeshRamesh
+    - VineethVijayaraghavan
+  year: "2013"
+  title: "Low-cost Cloud-based Design of Smart Rural Energy Device in Microgrid: Perspective India: An Energy-on-Demand Service for Rural India"
+  conference: "2013 IEEE Conference on Technologies for Sustainability (SusTech)"
+  url: "http://ieeexplore.ieee.org/document/6617328/"
+  status: Published
+  team: MG
+
+WPMUSAOWDAIP:
+  authors:
+    - VineethVijayaraghavan
+    - MukundhanSrinivasan
+    - KBoopathi
+    - PKanagavel
+  year: "2013"
+  title: "Wind Profile Monitoring Using Statistical Analysis of Weibull Distribution: An Indian Perspective"
+  conference: "Eighth Asia Pacific Conference on Wind Engineering (APCWE)"
+  url: "http://rpsonline.com.sg/proceedings/9789810780111/html/P2.xml"
+  status: Published
+  team: Other

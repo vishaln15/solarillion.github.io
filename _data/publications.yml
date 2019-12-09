@@ -103,7 +103,7 @@ FFSIAMUDANN:
     - NithishBMoudhgalya
     - UppuSriharsha
   year: "2019"
-  title: "Forecasting Food Sales in a Multiplex Using Dynamic Artificial Neural Networks"
+  title: "Forecasting Food Sales in a Multiplex using Dynamic Artificial Neural Networks"
   conference: "Computer Vision Conference 2019"
   url: "https://link.springer.com/chapter/10.1007/978-3-030-17798-0_8"
   status: Published
@@ -143,6 +143,96 @@ HAFISPIPWERIM:
   year: "2018"
   title: "Hybrid Architecture for Integrating Solar PV Irrigation Pumps with Existing Rural Indian Microgrid"
   conference: "2018 IEEE Global Humanitarian Technology Conference"
-  url: "https://ieeexplore.ieee.org/document/8601922/authors"
+  url: "https://ieeexplore.ieee.org/document/8601922/"
   status: Published
   team: MG
+
+ISDODLPFASRIM:
+  authors:
+    - VijayKumarShankar
+    - AswinGopikanna
+    - SaiShankarMuthukrishnan
+    - GandhiRajan
+  year: "2018"
+  title: "Intelligent System Design Optimization with Dynamic Load Profile for a Stand-alone Rural Indian Microgrid"
+  conference: "2018 IEEE Texas Power and Energy Conference"
+  url: "http://ieeexplore.ieee.org/document/8312050/"
+  status: Published
+  team: MG
+
+CPBDCINOALEPUE:
+  authors:
+    - AashishKumarJain
+    - SyedShahbaazAhmed
+    - PrahalathanSundaramoorthy
+    - RaghavendranThiruvengadam
+  year: "2017"
+  title: "Current Peak based Device Classification in NILM on a Low-cost Embedded Platform using Extra-Trees"
+  conference: "2017 MIT Undergraduate Research Technology Conference"
+  url: "http://ieeexplore.ieee.org/document/8284200/"
+  status: Published
+  team: IoT
+  git: "https://github.com/solarillion/CurrentPeakNILM"
+
+RIMDOIBS:
+  authors:
+    - GandhiRajan
+    - MeghanaKavakuntala
+    - VetrivelSubramaniamRajkumar
+    - SivaroophiniGnanavel
+  year: "2017"
+  title: "Rural Indian Microgrid Design Optimization - Intelligent Battery Sizing"
+  conference: "2017 IEEE Global Humanitarian Technology Conference"
+  url: "http://ieeexplore.ieee.org/document/8239275/"
+  status: Published
+  team: MG
+
+AMLAFPOOPOF:
+  authors:
+    - BalasubramanianThiagarajan
+    - LakshminarasimhanSrinivasan
+    - AdityaVikramSharma
+    - DineshSreekanthan
+  year: "2017"
+  title: "A Machine Learning Approach for Prediction of On-time Performance of Flights"
+  conference: "2017 IEEE/AIAA 36th Digital Avionics Systems Conference"
+  url: "http://ieeexplore.ieee.org/document/8102138/"
+  status: Published
+  team: ML
+
+LSGRSUMA:
+  authors:
+    - AjayKannan
+    - AteendraRamesh
+    - LakshminarasimhanSrinivasan
+  year: "2017"
+  title: "Low-cost Static Gesture Recognition System using MEMS Accelerometers"
+  conference: "2017 Global Internet of Things Summit"
+  url: "http://ieeexplore.ieee.org/document/8016217/"
+  status: Published
+  team: IoT
+
+LWITHGRS:
+  authors:
+    - AswinNatesh
+    - GandhiRajan
+    - BalasubramanianThiagarajan
+  year: "2017"
+  title: "A Machine Learning Approach for Prediction of On-time Performance of Flights"
+  conference: "IEEE International Systems Conference 2017"
+  url: "http://ieeexplore.ieee.org/document/7934745/"
+  status: Published
+  team: IoT
+
+AMLAFPOOPOF:
+  authors:
+    - 
+    - 
+    - 
+    - 
+  year: "2016"
+  title: "A Machine Learning Approach for Prediction of On-time Performance of Flights"
+  conference: "2017 IEEE/AIAA 36th Digital Avionics Systems Conference"
+  url: "http://ieeexplore.ieee.org/document/8102138/"
+  status: Published
+  team: ML

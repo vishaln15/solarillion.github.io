@@ -172,6 +172,7 @@ DOOARSOAEP:
   url: "https://link.springer.com/chapter/10.1007/978-3-030-03402-3_46"
   status: Published
   team: IoT
+  git: https://github.com/solarillion/HumanActivityRecognition
 
 AGMDGRSUML:
   authors:
@@ -187,6 +188,7 @@ AGMDGRSUML:
   url: "https://link.springer.com/chapter/10.1007/978-3-030-03405-4_42"
   status: Published
   team: IoT
+  git: https://github.com/solarillion/DynamicGestureRecognition
 
 HTOILUDEOCD:
   authors:

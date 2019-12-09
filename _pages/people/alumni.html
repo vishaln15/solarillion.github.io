@@ -1,0 +1,14 @@
+---
+layout: single
+title: alumni
+permalink: /people/alumni/
+---
+{% assign current = site.data.people | where: "group", "alumni" %}
+{% for person_id in current %}
+    <a href="{{ person_id.page }}" style="color: #000">{{ person_id.name }}</a>
+    {% if person_id.location %}
+    <br>
+    <div style="font-size: smaller;"><i class="fas fa-fw fa-map-marker-alt"></i> {{ person_id.location }}</div>
+    {% endif %}
+    <br>
+{% endfor %}

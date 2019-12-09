@@ -31,8 +31,13 @@
             line-height: initial;
         }
         .social-icons {
-            padding-left: 15px;
             margin-top: 0px;
+            padding-left: 15px;
+            padding-right: 25px;
+            @include breakpoint($large) {
+                padding-left: 0;
+                padding-right: 0;
+            }
         }
     }
 }

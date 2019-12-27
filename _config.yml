@@ -74,10 +74,10 @@ algolia:
   powered_by             : true # true (default), false
   nodes_to_index         : 'p,li,div.author__content,i'
   settings:                                                                      
-    searchableAttributes:                                                        
+    searchableAttributes:
+      - content                                                        
       - title                                                                    
-      - headings                                                                 
-      - unordered(content)                                                       
+      - headings
       - unordered(url)                                                           
       - unordered(categories)                                                    
       - unordered(tags)

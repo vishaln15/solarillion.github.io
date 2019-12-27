@@ -75,12 +75,8 @@ algolia:
   nodes_to_index         : 'p,li,div.author__content,i'
   settings:                                                                      
     searchableAttributes:
-      - content                                                        
-      - title                                                                    
-      - headings
-      - unordered(url)                                                           
-      - unordered(categories)                                                    
-      - unordered(tags)
+      - content
+      - title
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true

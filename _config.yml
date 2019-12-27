@@ -73,6 +73,14 @@ algolia:
   search_only_api_key    : 6db9932d8f5b4ab7a58a5b2040cd4b8a # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
   nodes_to_index         : 'p,li,div.author__content,i'
+  settings:                                                                      
+    searchableAttributes:                                                        
+      - title                                                                    
+      - headings                                                                 
+      - unordered(content)                                                       
+      - unordered(url)                                                           
+      - unordered(categories)                                                    
+      - unordered(tags)
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true

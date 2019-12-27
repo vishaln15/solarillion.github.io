@@ -1,7 +1,5 @@
 # Main Links
 main:
-  - title: Home
-    url: /
   - title: People
     url: /people/
   - title: Research

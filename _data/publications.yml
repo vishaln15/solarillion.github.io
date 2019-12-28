@@ -1,3 +1,16 @@
+SERFRIMC:
+  authors:
+    - MarjerieSuresh
+    - JananiJayaraman
+    - KarthniLakshmanan
+    - AswinGopikanna
+    - VineethVijayaraghavan
+  year: "2020"
+  title: "Smart Energy Routing for Rural Islanded Microgrid Clusters"
+  conference: "2020 IEEE Texas Power and Energy Conference (TPEC)"
+  status: Accepted
+  team: MG
+
 RSBCDFED:
   authors:
     - SaiVishwanathVenkatesh

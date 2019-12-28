@@ -8,6 +8,7 @@
     </label>
     <input type="search" id="search" class="search-input" tabindex="-1" placeholder="{{ site.data.ui-text[site.locale].search_placeholder_text | default: 'Enter your search term...' }}" />
   </form>
+  <div id="searchinfo">To search for publications, head over to the <a href="/publications">Publications</a> page.</div>
   <div id="results" class="results"></div>
   {%- when "google" -%}
   <form onsubmit="return googleCustomSearchExecute();" id="cse-search-box-form-id">

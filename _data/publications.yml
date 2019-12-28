@@ -34,9 +34,9 @@ GRSFPDUMLOEP:
   year: "2020"
   title: "Gait Recovery System for Parkinson's Disease using Machine Learning on Embedded Platforms"
   conference: "2020 IEEE International Systems Conference (SysCon)"
+  git: https://github.com/solarillion/ParkinsonGaitAssist
   status: Accepted
   team: IoT
-  git: https://github.com/solarillion/ParkinsonGaitAssist
 
 ATMLATFTLOMIAM:
   authors:
@@ -62,6 +62,10 @@ SDLFSAADORD:
   title: "Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices"
   conference: "18th IEEE International Conference on Machine Learning and Applications (ICMLA)"
   git: "https://github.com/solarillion/StressAffectDetection"
+  misc:
+    icon: fas fa-file
+    link: https://drive.google.com/file/d/1sX-JOGDlmuNx6m0YPXE1xNpARwheU44v/view
+    text: "Slides"
   status: Accepted
   team: ML
 
@@ -115,9 +119,13 @@ LWGRSWMUCFA:
   title: "Low-Cost Wearable Gesture Recognition System with Minimal User Calibration for ASL"
   conference: "2019 International Conference on Internet of Things (iThings)"
   url: "https://ieeexplore.ieee.org/document/8875343"
+  git: https://github.com/solarillion/ASLGlove
+  misc:
+    icon: fas fa-file
+    link: https://docs.google.com/file/d/0BxtOxvlutItgYXZ2bmZqX09NWDZwa2xEMGhnWnpUVDBzak40/view
+    text: "Slides"
   status: Published
   team: IoT
-  git: https://github.com/solarillion/ASLGlove
 
 DTAGFFTSF:
   authors:
@@ -185,9 +193,9 @@ DOOARSOAEP:
   title: "Design Optimization of Activity Recognition System on an Embedded Platform"
   conference: "Future of Information and Communication Conference 2018 (FICC)"
   url: "https://link.springer.com/chapter/10.1007/978-3-030-03402-3_46"
+  git: https://github.com/solarillion/HumanActivityRecognition
   status: Published
   team: IoT
-  git: https://github.com/solarillion/HumanActivityRecognition
 
 AGMDGRSUML:
   authors:
@@ -201,9 +209,9 @@ AGMDGRSUML:
   title: "A Generic Multi-modal Dynamic Gesture Recognition System Using Machine Learning"
   conference: "Future of Information and Communication Conference 2018 (FICC)"
   url: "https://link.springer.com/chapter/10.1007/978-3-030-03405-4_42"
+  git: https://github.com/solarillion/DynamicGestureRecognition
   status: Published
   team: IoT
-  git: https://github.com/solarillion/DynamicGestureRecognition
 
 HTOILUDEOCD:
   authors:
@@ -258,9 +266,9 @@ CPBDCINOALEPUE:
   title: "Current Peak based Device Classification in NILM on a Low-cost Embedded Platform using Extra-Trees"
   conference: "2017 MIT Undergraduate Research Technology Conference (URTC)"
   url: "http://ieeexplore.ieee.org/document/8284200/"
+  git: "https://github.com/solarillion/CurrentPeakNILM"
   status: Published
   team: IoT
-  git: "https://github.com/solarillion/CurrentPeakNILM"
 
 RIMDOIBS:
   authors:

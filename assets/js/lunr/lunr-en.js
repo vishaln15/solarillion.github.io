@@ -24,6 +24,8 @@ var idx = lunr(function () {
 
 $(document).ready(function() {
   $('input#search').on('keyup', function () {
+    var searchinfodiv = $('#searchinfo');
+    searchinfodiv.empty();
     var resultdiv = $('#results');
     var query = $(this).val().toLowerCase();
     var result =

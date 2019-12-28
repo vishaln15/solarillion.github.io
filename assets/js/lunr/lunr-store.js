@@ -57,11 +57,6 @@ var store = [
     {%- if forloop.last -%}
       {%- assign l = true -%}
     {%- endif -%}
-    {%- if doc.header.teaser -%}
-      {%- capture teaser -%}{{ doc.header.teaser }}{%- endcapture -%}
-    {%- else -%}
-      {%- assign teaser = site.teaser -%}
-    {%- endif -%}
     {
       "title": {{ doc.title | jsonify }},
       "excerpt":
@@ -88,15 +83,7 @@ var store = [
               replace:"</h6>", " "|
             strip_html | strip_newlines | truncatewords: 50 | jsonify }},
           {%- endif -%}
-        "categories": {{ doc.title | jsonify }},
-        "tags": {{ doc.title | jsonify }},
-        "url": {{ doc.url | absolute_url | jsonify }},
-        "teaser":
-          {%- if teaser contains "://" -%}
-            {{ teaser | jsonify }}
-          {%- else -%}
-            {{ teaser | absolute_url | jsonify }}
-          {%- endif -%}
+        "url": {{ doc.url | absolute_url | jsonify }}
     }{%- unless forloop.last and l -%},{%- endunless -%}
   {%- endif -%}
   {%- endfor -%}]

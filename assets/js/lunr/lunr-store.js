@@ -51,20 +51,20 @@ var store = [
           {%- endif -%}
       }{%- unless forloop.last and l -%},{%- endunless -%}
     {%- endfor -%}
-    {%- for c in site.pages -%}
+  {%- endfor -%},
+  {%- for doc in site.pages -%}
+  {%- if doc.title and doc.title != "Publications" and doc.title != "People" and doc.title != "News Archive" -%}
     {%- if forloop.last -%}
       {%- assign l = true -%}
     {%- endif -%}
-    {%- assign docs = c.docs | where_exp:'doc','doc.search != false' -%}
-    {%- for doc in docs -%}
-      {%- if doc.header.teaser -%}
-        {%- capture teaser -%}{{ doc.header.teaser }}{%- endcapture -%}
-      {%- else -%}
-        {%- assign teaser = site.teaser -%}
-      {%- endif -%}
-      {
-        "title": {{ doc.title | jsonify }},
-        "excerpt":
+    {%- if doc.header.teaser -%}
+      {%- capture teaser -%}{{ doc.header.teaser }}{%- endcapture -%}
+    {%- else -%}
+      {%- assign teaser = site.teaser -%}
+    {%- endif -%}
+    {
+      "title": {{ doc.title | jsonify }},
+      "excerpt":
           {%- if site.search_full_content == true -%}
             {{ doc.content | newline_to_br |
               replace:"<br />", " " |
@@ -88,8 +88,8 @@ var store = [
               replace:"</h6>", " "|
             strip_html | strip_newlines | truncatewords: 50 | jsonify }},
           {%- endif -%}
-        "categories": {{ doc.categories | jsonify }},
-        "tags": {{ doc.tags | jsonify }},
+        "categories": {{ doc.title | jsonify }},
+        "tags": {{ doc.title | jsonify }},
         "url": {{ doc.url | absolute_url | jsonify }},
         "teaser":
           {%- if teaser contains "://" -%}
@@ -97,6 +97,6 @@ var store = [
           {%- else -%}
             {{ teaser | absolute_url | jsonify }}
           {%- endif -%}
-      }{%- unless forloop.last and l -%},{%- endunless -%}
-    {%- endfor -%}
+    }{%- unless forloop.last and l -%},{%- endunless -%}
+  {%- endif -%}
   {%- endfor -%}]

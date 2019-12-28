@@ -66,17 +66,12 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : algolia # lunr (default), algolia, google
+search_provider          : lunr # lunr (default), algolia, google
 algolia:
-  application_id         : XH1XHLDN18 # YOUR_APPLICATION_ID
-  index_name             : Website # YOUR_INDEX_NAME
-  search_only_api_key    : 6db9932d8f5b4ab7a58a5b2040cd4b8a # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : true # true (default), false
-  nodes_to_index         : 'p,li,div.author__content,i'
-  settings:                                                                      
-    searchableAttributes:
-      - content
-      - title
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true

@@ -11,7 +11,9 @@
 {% if post.title %}
   {% assign title = post.title %}
 {% else %}
-  {% assign title = "Page" %}
+  {% if post.url == "/" %}
+    {% assign title = "Home" %}
+  {% endif %}
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">

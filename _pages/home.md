@@ -22,5 +22,3 @@ Established in 2012, Solarillion encourages and mentors highly motivated undergr
 </ul>
 
 For older news, visit the <a href="/news-archive">News Archive</a>.
-
-## Current Research

@@ -224,6 +224,7 @@ HTOILUDEOCD:
   title: "HARNet: Towards On-Device Incremental Learning using Deep Ensembles on Constrained Devices"
   conference: "2nd International Workshop on Embedded and Mobile Deep Learning (EMDL)"
   url: "https://dl.acm.org/citation.cfm?id=3212728"
+  git: "https://github.com/solarillion/HARNet"
   status: Published
   team: ML
 

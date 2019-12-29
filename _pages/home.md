@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: Home
 permalink: /
 header:
     overlay_image: /assets/images/SFBanner.png

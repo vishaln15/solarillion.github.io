@@ -6,14 +6,8 @@
 
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% endif %}
-
-{% if post.title %}
-  {% assign title = post.title %}
 {% else %}
-  {% if post.url == "/" %}
-    {% assign title = "Home" %}
-  {% endif %}
+  {% assign title = post.title %}
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">

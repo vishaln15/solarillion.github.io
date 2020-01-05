@@ -20,7 +20,7 @@ title_separator          : "-"
 subtitle                 : # subtitle
 name                     : "Solarillion Foundation"
 description              : "Machine Learning, Internet of Things and Microgrid Research"
-url                      : "https://solarillion.github.io/"
+url                      : "https://solarillionfoundation.org/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "solarillion/solarillion.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

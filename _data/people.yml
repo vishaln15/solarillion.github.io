@@ -165,16 +165,6 @@ AdithyaPremAnand:
   about:
     "Adithya is a final year undergraduate student of Electronics and Communication Engineering at SSN College of Engineering. His areas of interest are Computer Vision, Machine Learning and Robotics."
 
-GokulSahar:
-  name: Gokul Sahar
-  group: ra
-  email: gokulsahar@gmail.com
-  avatar: /assets/images/headshots/GokulSahar.jpeg
-  page: /people/GokulSahar
-  bio: Research Assistant, Teaching Assistant
-  about:
-    "Gokul Sahar is a third year undergaduate student at SSN College of Engineering, studying Computer Science and Engineering. He has previously worked on the paper titled *Real-Time Surveillance Based Crime Detection for Edge Devices* which has been accepted to VISAPP 2020. He wishes to do his Master's in Computer Science, in the fall of 2021."
-
 NaveenNarayanan:
   name: Naveen Narayanan
   group: ra
@@ -186,28 +176,6 @@ NaveenNarayanan:
   bio: Research Assistant, Teaching Assistant, Server Administrator
   about:
     "Naveen is a third year undergraduate student currently pursuing his Bachelor’s in Computer Science and Engineering at SSN College Of Engineering, Anna University, Chennai. His areas of interest include Machine Learning and Deep Learning. He is currently a part of the ML Research Group at Solarillion Foundation. He worked on the paper *Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices*, accepted at ICMLA 2019. He intends to pursue his Master's in Fall 2021."
-
-KevinThelly:
-  name: Kevin Thelly
-  group: ra
-  email: kevin.thelly@gmail.com
-  avatar: /assets/images/headshots/KevinThelly.jpeg
-  linkedin: kevin-thelly-5b5a16125
-  github: KevinThelly
-  page: /people/KevinThelly
-  bio: Research Assistant, Teaching Assistant
-  about:
-    "Kevin is an undergraduate student pursuing his Bachelor's degree in Computer Science and Engineering at SSN College of Engineering. He is interested in Machine Learning and Deep Learning, and has previously worked on and co-authored the paper title *Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices*, which will be presented at IEEE ICMLA 2019. He is interested in furthering his knowledge through research and is also a Teaching Assistant at Solarillion Foundation."
-
-AkshayRamakrishnan:
-  name: Akshay Ramakrishnan
-  group: ra
-  avatar: /assets/images/headshots/AkshayRamakrishnan.jpeg
-  linkedin: akshay-ramakrishnan-59353b194
-  page: /people/AkshayRamakrishnan
-  bio: Research Assistant
-  about:
-    "Akshay is a third year undergaduate student at SSN College of Engineering, studying Computer Science and Engineering. He has previously worked on the paper titled *Real-Time Surveillance Based Crime Detection for Edge Devices* which has been accepted to VISAPP 2020. He wishes to do his Master's in Computer Science, in the fall of 2021."
 
 JoishBosco:
   name: Joish Bosco
@@ -301,6 +269,23 @@ DeepakRaghavanBalaji:
   bio: Project Assistant
   about:
     "Deepak is a second year undergraduate pursuing his Bachelor's degree in Computer Science Engineering at Rajalakshmi Engineering College. His fields of interest are Data Science, Analytics and Algorithms. He intends to pursue his Master's degree in Fall 2022."
+
+KevinThelly:
+  name: Kevin Thelly
+  group: alumni
+  location: B.E. Computer Science and Engineering, SSN College of Engineering '21
+  page: https://www.linkedin.com/in/kevin-thelly-5b5a16125
+
+GokulSahar:
+  name: Gokul Sahar
+  group: alumni
+  location: B.E. Computer Science and Engineering, SSN College of Engineering '21
+
+AkshayRamakrishnan:
+  name: Akshay Ramakrishnan
+  group: alumni
+  location: B.E. Computer Science and Engineering, SSN College of Engineering '21
+  page: https://www.linkedin.com/in/akshay-ramakrishnan-59353b194
 
 SiddharthDivi:
   name: Siddharth Divi

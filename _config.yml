@@ -182,6 +182,7 @@ exclude:
   - package-lock.json
   - Rakefile
   - README
+  - minimal-mistakes-README
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test

@@ -34,6 +34,7 @@ body {
 .search-content {
   flex: 1 0 auto;
   background-image: url("/assets/images/Circuit.png");
+  background-blend-mode: lighten;
 }
 
 .page {

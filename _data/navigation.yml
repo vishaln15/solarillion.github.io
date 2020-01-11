@@ -6,9 +6,9 @@ main:
     url: /research/
   - title: Publications
     url: /publications/
-  - title: Projects
-    url: /projects/
-  - title: Teaching
-    url: /teaching/
+  # - title: Projects
+  #   url: /projects/
+  # - title: Teaching
+  #   url: /teaching/
   - title: Contact
     url: /contact/

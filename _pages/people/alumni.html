@@ -3,6 +3,7 @@ layout: single
 title: Alumni
 permalink: /people/alumni/
 ---
+<div style="margin-top: 2em">
 {% assign current = site.data.people | where: "group", "alumni" %}
 {% for person_id in current %}
     <a href="{{ person_id.page }}" style="color: #000">{{ person_id.name }}</a>
@@ -12,3 +13,4 @@ permalink: /people/alumni/
     {% endif %}
     <br>
 {% endfor %}
+</div>

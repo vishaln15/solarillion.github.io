@@ -232,6 +232,18 @@ PranavRaveendran:
   about:
     "Pranav Raveendran is a 3rd year undergraduate student of Computer Science and Engineering at SSN College of Engineering. His areas of interest are Machine Learning and Deep Learning. He intends to do his Master's in the fall of 2021."
 
+RishiVardhan:
+  name: Rishi Vardhan
+  group: ra
+  email: rishiharshavardhan@gmail.com
+  avatar: /assets/images/headshots/RishiVardhan.jpg
+  linkedin: rishi-vardhan
+  github: rishivar
+  page: /people/RishiVardhan
+  bio: Research Assistant
+  about:
+    "Rishi is a computer science sophomore studying at SSN College of Engineering. His areas of interest are Machine Learning and its applications. He intends to pursue a Masters degree in the fall of 2022."
+
 PrasannaKumaranD:
   name: Prasanna Kumaran D
   group: ra
@@ -253,22 +265,9 @@ AdittyaSrikanth:
   github: adittya13
   twitter: AdittyaSrikanth
   page: /people/AdittyaSrikanth
-  bio: Project Assistant
+  bio: Research Assistant
   about:
     "Adittya is a 3rd year undergraduate student of Electronics and Communication Engineering at SSN College of Engineering. He is currently part of the Microgrids team. His areas of interest include Renewable Energy, Machine Learning and Algorithms. He is planning to pursue his Masters in the Fall of 2021."
-
-DeepakRaghavanBalaji:
-  name: Deepak Raghavan Balaji
-  group: pa
-  email: cupgreek20@hotmail.com
-  avatar: /assets/images/headshots/DeepakRaghavanBalaji.jpg
-  linkedin: cupgreek
-  github: cupgreek
-  twitter: cupgreek
-  page: /people/DeepakRaghavanBalaji
-  bio: Project Assistant
-  about:
-    "Deepak is a second year undergraduate pursuing his Bachelor's degree in Computer Science Engineering at Rajalakshmi Engineering College. His fields of interest are Data Science, Analytics and Algorithms. He intends to pursue his Master's degree in Fall 2022."
 
 KevinThelly:
   name: Kevin Thelly

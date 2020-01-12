@@ -15,9 +15,11 @@ title: "People"
     {% include person.html person=person_id %}
 {% endfor %}
 
-<h2>Project Assistants</h2>
 {% assign current = site.data.people | where: "group", "pa" %}
 {% for person_id in current %}
+{% if forloop.first %}
+<h2>Project Assistants</h2>
+{% endif %}
     {% include person.html person=person_id %}
 {% endfor %}
 

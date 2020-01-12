@@ -21,6 +21,7 @@ RSBCDFED:
   year: "2020"
   title: "Real-Time Surveillance Based Crime Detection for Edge Devices"
   conference: "15th International Conference on Computer Vision Theory and Applications (VISAPP)"
+  git: https://github.com/solarillion/RealTimeCrimeDetection
   status: Accepted
   team: ML
 
@@ -137,6 +138,7 @@ DTAGFFTSF:
   year: "2019"
   title: "DeepTrace: A Generic Framework for Time Series Forecasting"
   conference: "International Work-Conference on Artificial Neural Networks 2019 (IWANN)"
+  git: https://github.com/solarillion/DeepTrace
   url: "https://link.springer.com/chapter/10.1007/978-3-030-20521-8_12"
   status: Published
   team: ML

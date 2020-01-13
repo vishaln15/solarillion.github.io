@@ -24,10 +24,11 @@
 
     .card__title {
         color: #fff;
-        font-size: $type-size-6;
+        font-size: $type-size-4;
         background: $primary-color;
         border-top-left-radius: $border-radius;
         border-top-right-radius: $border-radius;
         margin: 0em;
+        padding: 0.5rem;
       }
 }

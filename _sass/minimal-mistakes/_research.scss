@@ -21,7 +21,6 @@
     -ms-flex-direction: column;
     flex-direction: column;
     position: relative;
-    padding: 0.5rem;
 
     .card__title {
         color: #fff;
@@ -31,5 +30,10 @@
         border-top-right-radius: $border-radius;
         margin: 0em;
         padding: 0.5rem;
-      }
+    }
+
+    .card__content {
+        font-size: $type-size-5;
+        padding: 0.5rem;
+    }
 }

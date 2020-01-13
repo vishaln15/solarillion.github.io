@@ -22,7 +22,8 @@ body {
 }
 
 ::selection {
-  background-color: #B4D5FE;
+  background-color: $darker-gray;
+  color: #fff;
 }
 
 h1,

@@ -15,7 +15,13 @@
     border-radius: $border-radius;
     -webkit-box-shadow: $box-shadow;
     box-shadow: $box-shadow;
-    
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    position: relative;
+
     .card__title {
         color: #fff;
         font-size: $type-size-6;

@@ -2,6 +2,7 @@
 layout: single
 title: Contact Us
 permalink: /contact/
+excerpt: Please fill out our application form if you are interested in joining us. If you have any queries, contact us via email.
 ---
 <div style="text-align: justify; margin-top: 2em">
 We are currently accepting applications for Undergraduate Research Assistants and Full-time Research Assistants. Undergraduate students (of any year) in circuit branches (EEE, ECE, E&I, ICE and BME), CSE or IT can apply. Full-time Research Assistants join in their 7th or 8th semester of studies and continue after graduation. Young professionals with 1-2 years of work experience who want to join our research program before their graduate studies are also welcome to apply. Please fill out the <a href="https://forms.gle/Mxcxq7iA4B8nv4DY9">application form</a> if you are interested in joining us.

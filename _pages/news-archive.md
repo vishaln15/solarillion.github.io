@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /news-archive/
+excerpt: View older updates and highlights from Solarillion Foundation.
 ---
 ## News Archive
 <ul class="fa-ul">

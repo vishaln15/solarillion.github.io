@@ -597,3 +597,14 @@ WPMUSAOWDAIP:
   url: "http://rpsonline.com.sg/proceedings/9789810780111/html/P2.xml"
   status: Published
   team: Other
+DALAAOEMDE:
+  authors:
+  - Vineeth Vijayaraghavan
+  - Nanda H Krishna
+  - Praveen Kumar
+  - Rishi Vardhan
+  conference: 19th IEEE International Conference on Machine Learning and Applications (ICMLA)
+  status: Accepted
+  team: ML
+  title: Defending Against Localized Adversarial Attacks on Edge-Deployed Monocular Depth Estimators
+  year: '2020'

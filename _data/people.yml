@@ -6,207 +6,6 @@ VineethVijayaraghavan:
   page: /people/VineethVijayaraghavan
   bio: Director (Research and Outreach)
 
-GokulHari:
-  name: Gokul Hari
-  group: ra
-  email: hgokul98@gmail.com
-  avatar: /assets/images/headshots/GokulHari.jpeg
-  linkedin: hgokul7
-  github: h-gokul
-  page: /people/GokulHari
-  bio: Research Assistant (full-time), Teaching Assistant, Server Administrator
-  about:
-    "Gokul holds a Bachelor's degree in Electrical and Electronics from Anna University. His fields of research include Signal Processing, Embedded Systems, Machine Learning and Deep Learning. He has authored a paper on *Low-Cost Wearable Gesture Recognition System with Minimal User Calibration for ASL*, presented at IEEE Things 2019, Atlanta, US. He led a team of 4 for his work titled *Gait Recovery System for Parkinson’s Disease using Machine Learning on Embedded Platforms*, submitted to IEEE SYSCON 2019, Montreal. His current research on Reinforcement Learning is in the literature survey phase. He intends to pursue his Masters in the Fall of 2020."
-
-PrithviSuresh:
-  name: Prithvi Suresh
-  group: ra
-  email: prithvisuresh98@gmail.com
-  avatar: /assets/images/headshots/PrithviSuresh.jpg
-  linkedin: prithvisuresh
-  github: prithusuresh
-  twitter: prithusuresh
-  page: /people/PrithviSuresh
-  bio: Research Assistant, Teaching Assistant, Server Administrator
-  about:
-    "Prithvi is a final year undergraduate student, pursuing Electronics and Communication Engineering at SRM Institute of Science and Technology, Kancheepuram. His areas of interest are Machine Learning and Deep Learning at the crossroads of Embedded Systems. After working on a Gait Recovery System for Parkinson's Disease and a Wearable Gesture Recognition System for the audio-vocally impaired, he is looking to avidly pursue his new found interest in healthcare technology by applying signal processing and deep learning techniques to physiological signals. When he isn't at the lab, he enjoys playing the guitar and listening to metal music. He is looking to pursue his Masters in the Fall of 2020."
-
-TarunaSudhakar:
-  name: Taruna Sudhakar
-  group: ra
-  email: tarunasudhakar@gmail.com
-  avatar: /assets/images/headshots/TarunaSudhakar.jpeg
-  linkedin: tarunasudhakar
-  page: /people/TarunaSudhakar
-  bio: Research Assistant, Teaching Assistant
-  about:
-    "Taruna Sudhakar is a final year undergraduate student pursuing Electronics and Communication Engineering in SSN College of Engineering (affiliated to Anna University). She is part of the Microgrids team at Solarillion, and works on the development of optimization algorithms for improving the efficiency of Rural Indian microgrids. She presented a paper titled *Irrigation Optimization for Agricultural Productivity: Case Study of a Hybrid Solar Microgrid in Rural India* at the 2019 Global Humanitarian Technology Conference (GHTC ‘19) held in Seattle, WA. Apart from her ongoing work at SF, she has also interned at Indian Institute of Technology Madras in the field of Image Guided Surgery and is pursuing further research in the field of Image Processing and Computer Vision at her college. She intends to pursue a Masters in Electrical and Computer Engineering in Fall 2020."
-
-MarjerieSuresh:
-  name: Marjerie Suresh
-  group: ra
-  email: marjerie.suresh@gmail.com
-  avatar: /assets/images/headshots/MarjerieSuresh.jpeg
-  linkedin: marjerie
-  github: marjerie
-  page: /people/MarjerieSuresh
-  bio: Research Assistant, Teaching Assistant
-  about:
-    "Marjerie S is a final year undergraduate student pursuing Electronics and Communication Engineering at SSN College of Engineering, Chennai. She currently has a publication titled, *Intelligent Interconnection of Operating Micro-Grid and Irrigation System in Dharnai - A Rural Indian Scenario* presented at the annual IEEE Global Humanitarian Technology Conference (GHTC) - 2019, Washington, CA. She is also the author of a paper, *Cost-Efficiency Design Optimization for a Rural Indian Clustered Microgrid Architecture*, submitted to the IEEE Texas Power and Energy Conference (TPEC) - 2020, Texas A&M University, TX, where she and her team worked on solving a multi-variable optimization problem to maximize the utilization of energy resources for a rural microgrid cluster. Her areas of interest include Embedded systems, VLSI, Microgrids and Renewable energy. She intends to pursue her Masters abroad in Computer Engineering in the fall of 2020."
-
-HariVigneshBaskar:
-  name: Hari Vignesh Baskar
-  group: ra
-  email: havigbaskar@gmail.com
-  avatar: /assets/images/headshots/HariVigneshBaskar.jpeg
-  linkedin: hari-vignesh-baskar
-  github: havig
-  page: /people/HariVigneshBaskar
-  bio: Research Assistant, Teaching Assistant
-  about:
-    "Hari Vignesh B is a final year undergraduate student pursuing bachelor's degree in Electronics and Communication Engineering at SRM University Kattangalathur. He is the first author of the paper titled, *Intelligent Interconnection of Operating Micro-grid and Irrigation System in Dharnai - A Rural Indian Scenario* which he presented at IEEE Global Humanitarian Technology Conference (GHTC), 2019, Seattle, Washington, USA. He is also one of the co-authors of the paper, *Gait Recovery System for Parkinson’s Disease using Machine Learning on Embedded Platforms* which is submitted to IEEE SYSCON, Montreal, Canada. He is currently pursuing his research in VLSI Domain and Computer Architecture. He intends to do his masters in Computer Engineering in the fall of 2020."
-
-JananiJayaraman:
-  name: Janani Jayaraman
-  group: ra
-  email: jananijayaram7@gmail.com
-  avatar: /assets/images/headshots/JananiJayaram.jpg
-  linkedin: janani-jayaraman
-  github: jananijayaram
-  page: /people/JananiJayaraman
-  bio: Research Assistant, Teaching Assistant
-  about:
-    "Janani is a final year student pursuing her Bachelor's degree in Electrical and Electronics Engineering  from Sri Sivasubramaniya Nadar College of Engineering, Anna University. She is part of the Smartgrids team at Solarillion Foundation. The team works on developing algorithms for improving Microgrid operation and performance. She has a publication titled *Irrigation Optimization for Agricultural Productivity: Case Study of a Hybrid Solar Microgrid in Rural India* accepted and presented at the IEEE Global Humanitarian Technology Conference, Seattle, WA. She is also the co-author of the paper titled, *Cost-Efficiency Design Optimization for a Rural Indian Clustered Microgrid Architecture*, submitted to the IEEE Texas Power and Energy Conference (TPEC) 2020, where she and her team worked on developing an algorithm for a multi variable optimization problem to enhance utilisation of energy resources. Her field of interest includes algorithms, embedded systems and digital circuits. She intends to pursue her masters in Electrical and Computer Engineering commencing fall 2020."
-
-KarthniLakshmanan:
-  name: Karthni Lakshmanan
-  group: ra
-  email: karthnilakshman@gmail.com
-  avatar: /assets/images/headshots/KarthniLakshmanan.jpg
-  linkedin: karthni-lakshmanan-366345194
-  page: /people/KarthniLakshmanan
-  bio: Research Assistant, Teaching Assistant
-  about:
-    "Karthni is a final year Undergraduate student, pursuing Electrical and Electronics Engineering at SSN College of Engineering, Anna University, Chennai. She is currently a part of the Smartgrids team at Solarillion Foundation. She is the co-author of the paper titled *Cost-Efficiency Design Optimization for a Rural Indian Clustered Microgrid Architecture* which is submitted to the IEEE Texas Power and Energy Conference (TPEC) 2020,  where she along with her team worked on  a mutlivariable cost and efficiency optimization algorithm for an integrated microgrid architecture. Her areas of interests include Algorithms and Embedded systems. She intends to pursue her Masters abroad in Electical and Computer Engineering in the fall of 2020."
-
-SaiVishwanathVenkatesh:
-  name: Sai Vishwanath Venkatesh
-  group: ra
-  email: vsaivishwanath@gmail.com
-  avatar: /assets/images/headshots/SaiVishwanathVenkatesh.jpeg
-  linkedin: saivish
-  github: skullsai
-  page: /people/SaiVishwanathVenkatesh
-  bio: Research Assistant, Teaching Assistant, Server Administrator
-  about:
-    "Sai Vishwanath Venkatesh is a final year undergraduate student, pursuing his Bachelor's degree in Computer Science and Engineering at SRM University, Kattankulathur.<br><br>His areas of interest are Data Science, Analytics and Applied Machine Learning.<br><br>At Solarillion he co-authored a paper titled a *A Two Stage Machine Learning Approach to Forecast the Lifetime of Movies in a Multiplex* and will be presenting his work at the Future of Information and Communication Conference (FICC 2020). Subsequently he lead a team of 4 researchers in developing an real-time solution to video surveillance based crime detection for edge devices.<br><br>Furthermore, Sai Vishwanath is an active Teaching Assistant and Server Administrator at Solarillion.<br><br>He intends to do his Master's in the Spring of 2020."
-
-AbhijithRagav:
-  name: Abhijith Ragav
-  group: ra
-  email: abhijith.ragh@gmail.com
-  avatar: /assets/images/headshots/AbhijithRagav.jpg
-  uri: https://abhijithragav.me
-  linkedin: abhijithragav
-  github: abhijithragav
-  twitter: Abhijith0798
-  page: /people/AbhijithRagav
-  bio: Research Assistant, Teaching Assistant, Server Administrator
-  about:
-    "Abhijith is a final year Undergraduate student, pursuing Information Technology at SRM Institute of Science and Technology, Chennai. His team, led by him, collaborated with one of the top multiplexes in India and subsequently worked on a paper titled *A Two-Stage Machine Learning Approach to Forecast the Lifetime of Movies in a Multiplex*. This will be presented at the Future of Information and Communication Conference (FICC) 2020, San Francisco and will be published in Springer’s *Advances in Intelligent Systems and Computing* series. Following this, he led a team of 4 in a publication titled *Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices*. The work has been accepted to be published at the 18th IEEE International Conference on Machine Learning and Applications (ICMLA) 2019, Florida. His areas of interest include but are not limited to Data Science, Machine Learning, Deep Learning, Affective Computing, Edge Computing, and Societal Computing. He will be joining the Synergy Lab, Carnegie Mellon University (CMU) as a research intern during Spring 2020 and intends to pursue his Masters in the fall of 2021."
-
-RamanathanMurugappan:
-  name: Ramanathan Murugappan
-  group: ra
-  email: ramanathanrobotist@gmail.com
-  avatar: /assets/images/headshots/RamanathanMurugappan.jpeg
-  linkedin: ramanathan-murugappan-66a068125
-  page: /people/RamanathanMurugappan
-  bio: Research Assistant, Teaching Assistant
-  about:
-    "Ramanathan is a Master's student of Mechatronics, Robotics and Automation Engineering at Anna University. He did his Bachelor's in Mechanical Engineering, and his passion for Machine Learning and Robotics led him towards research and his current graduate major. Having previously worked on Movie Lifetime Prediction, he is currently working on User-Independent Stress Detection using Machine Learning."
-
-PravinKumaarR:
-  name: Pravin Kumaar R
-  group: ra
-  email: pravin.kumaar99@gmail.com
-  avatar: /assets/images/headshots/PravinKumaarR.jpg
-  linkedin: pravinkumaar
-  github: pravinkumaaar
-  twitter: PravinKumaar11
-  page: /people/PravinKumaarR
-  bio: Research Assistant, Teaching Assistant, Server Administrator
-  about:
-    "Pravin Kumaar is a 4th year undergraduate student pursuing his bachelor's degree in Computer Science and Engineering at SRM University, Kattankulathur. His areas of research include IoT and Machine Learning. His previous work involves developing a scalable model for predicting Freezing of Gait occurrences in patients with Parkinson's disease. He intends to pursue his master's in the fall of 2020."
-
-NandaHKrishna:
-  name: Nanda H Krishna
-  group: ra
-  email: nanda.harishankar@gmail.com
-  avatar: /assets/images/headshots/NandaHKrishna.jpg
-  uri: https://nandahkrishna.com
-  linkedin: nandahkrishna
-  github: nandahkrishna
-  twitter: nandahkrishna
-  page: /people/NandaHKrishna
-  bio: Research Assistant, Teaching Assistant, Server Administrator
-  about:
-    "Nanda is a third year undergraduate student of Computer Science and Engineering at SSN College of Engineering (affiliated to Anna University). His areas of interest are Machine Learning, Computer Vision and Applied Computer Science. He has previously worked on Species Prediction from Environmental Rasters, and has authored a paper titled *Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices*, which he will present at the 18th International Conference on Machine Learning Applications (IEEE ICMLA 2019) at Boca Raton, USA. He enjoys teaching and aims to be a Professor someday. He intends to pursue his Masters in the Fall of 2021."
-
-AdithyaPremAnand:
-  name: Adithya Prem Anand
-  group: ra
-  email: adithya.prem98@gmail.com
-  avatar: /assets/images/headshots/AdithyaPremAnand.jpg
-  linkedin: adithya-prem-anand
-  github: adithyaprem
-  page: /people/AdithyaPremAnand
-  bio: Research Assistant, Teaching Assistant
-  about:
-    "Adithya is a final year undergraduate student of Electronics and Communication Engineering at SSN College of Engineering. His areas of interest are Computer Vision, Machine Learning and Robotics."
-
-NaveenNarayanan:
-  name: Naveen Narayanan
-  group: ra
-  email: navaans@gmail.com
-  avatar: /assets/images/headshots/NaveenNarayanan.jpeg
-  linkedin: naveen-1999
-  github: naveenggmu
-  page: /people/NaveenNarayanan
-  bio: Research Assistant, Teaching Assistant, Server Administrator
-  about:
-    "Naveen is a third year undergraduate student currently pursuing his Bachelor’s in Computer Science and Engineering at SSN College Of Engineering, Anna University, Chennai. His areas of interest include Machine Learning and Deep Learning. He is currently a part of the ML Research Group at Solarillion Foundation. He worked on the paper *Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices*, accepted at ICMLA 2019. He intends to pursue his Master's in Fall 2021."
-
-JoishBosco:
-  name: Joish Bosco
-  group: ra
-  avatar: /assets/images/headshots/JoishBosco.jpg
-  linkedin: joish-bosco-73389410b
-  page: /people/JoishBosco
-  bio: Research Assistant
-  about:
-    "Joish has a BE Computer Science and Engineering from the Loyola-ICAM College of Engineering and Technology. He is currently working on User-Independent Stress Detection using Machine Learning. He is interested in Machine Learning and is planning to do his Master's in Computer Science."
-
-KrishnakanthEswaran:
-  name: Krishnakanth Eswaran
-  group: ra
-  avatar: /assets/images/headshots/KrishnakanthEswaran.jpg
-  linkedin: krishnakanth-eswaran-987173179
-  page: /people/KrishnakanthEswaran
-  bio: Research Assistant
-  about:
-    "Krishnakanth is a 3rd year Computer Science and Engineering Student at SSN College of Engineering. He is currently working on User-Independent Stress Detection using Machine Learning. He is planning to do his graduate education in the fall of 2021."
-
-PranavVijay:
-  name: Pranav Vijay
-  group: ra
-  email: pranavj99@gmail.com
-  avatar: /assets/images/headshots/PranavVijay.jpg
-  page: /people/PranavVijay
-  bio: Research Assistant
-  about:
-    "Pranav is a 3rd year undergraduate student of Computer Science and Engineering Student at SSN College of Engineering. He is currently working on User-Independent Stress Detection using Machine Learning. He is planning to do his Master's in the fall of 2021."
-
 PraveenKumar:
   name: Praveen Kumar
   group: ra
@@ -216,21 +15,9 @@ PraveenKumar:
   github: pbcpraveen
   twitter: pbcpraveen
   page: /people/PraveenKumar
-  bio: Research Assistant
+  bio: Research Assistant, Teaching Assistant
   about:
-    "Praveen Kumar is a 3rd year Computer Science undergraduate at SSN College of Engineering. His area of interests are Computer Vision and Deep Learning. He intends to do his Masters in the fall of 2021."
-
-PranavRaveendran:
-  name: Pranav Raveendran
-  group: ra
-  email: pranav.mannil@gmail.com
-  avatar: /assets/images/headshots/PranavRaveendran.jpg
-  linkedin: pranav-raveendran-181571162
-  github: pmannil
-  page: /people/PranavRaveendran
-  bio: Research Assistant
-  about:
-    "Pranav Raveendran is a 3rd year undergraduate student of Computer Science and Engineering at SSN College of Engineering. His areas of interest are Machine Learning and Deep Learning. He intends to do his Master's in the fall of 2021."
+    "Praveen Kumar completed his undergraduate degree in Computer Science at SSN College of Engineering. His interests are Deep Learning, Computer Vision, Adversarial Attacks and Reinforcement Learning. He intends to pursue an M.S. in Fall 2022."
 
 RishiVardhan:
   name: Rishi Vardhan
@@ -240,9 +27,9 @@ RishiVardhan:
   linkedin: rishi-vardhan
   github: rishivar
   page: /people/RishiVardhan
-  bio: Research Assistant
+  bio: Research Assistant, Teaching Assistant
   about:
-    "Rishi is a Computer Science sophomore studying at SSN College of Engineering. His areas of interest are Machine Learning and its applications. He intends to pursue a Masters degree in the fall of 2022."
+    "Rishi is a Computer Science senior studying at SSN College of Engineering. His areas of interest are Machine Learning and its applications. He intends to pursue a Master's degree in the fall of 2022."
 
 PrasannaKumaranD:
   name: Prasanna Kumaran D
@@ -252,39 +39,107 @@ PrasannaKumaranD:
   linkedin: prasanna-kumaran-931040197
   github: PrasannaKumaran
   page: /people/PrasannaKumaranD
-  bio: Research Assistant
+  bio: Research Assistant, Teaching Assistant
   about:
-    "Prasanna is a 2nd year undergraduate student of Computer Science and Engineering at SSN College of Engineering. His areas of interest are Machine Learning and Algorithms. He intends to do a Master's in Computer Science, in 2022."
+    "Prasanna is a final year undergraduate student of Computer Science and Engineering at SSN College of Engineering. His areas of interest are Machine Learning and Algorithms. He intends to pursue an M.S. in Computer Science in 2022."
+
+NandaHKrishna:
+  name: Nanda H Krishna
+  group: alumni
+  location: M.Sc. Computer Science (Artificial Intelligence), MILA & Université de Montréal '23
+  page: https://www.linkedin.com/in/nandahkrishna/
+
+AbhijithRagav:
+  name: Abhijith Ragav
+  group: alumni
+  location: M.S. Computer Science, Georgia Institute of Technology '23
+  page: https://www.linkedin.com/in/abhijithragav/
+
+SaiVishwanathVenkatesh:
+  name: Sai Vishwanath Venkatesh
+  group: alumni
+  location: M.S. Computer Science, State University of New York, Buffalo '23
+  page: https://www.linkedin.com/in/saivish/
+
+AdithyaPremAnand:
+  name: Adithya Prem Anand
+  group: alumni
+  location: Mad Street Den
+  page: https://www.linkedin.com/in/adithya-prem-anand/
+
+NaveenNarayanan:
+  name: Naveen Narayanan
+  group: alumni
+  location: M.S. Computer Science, Georgia Institute of Technology '23
+  page: https://www.linkedin.com/in/naveen-1999/
+
+MarjerieSuresh:
+  name: Marjerie Suresh
+  group: alumni
+  location: M.S. Electrical and Computer Engineering, University of California, Davis '23
+  page: https://www.linkedin.com/in/marjerie/
+
+HariVigneshBaskar:
+  name: Hari Vignesh Baskar
+  group: alumni
+  location: M.S. Computer Engineering, North Carolina State University '23
+  page: https://www.linkedin.com/in/hari-vignesh-baskar/
+
+JananiJayaraman:
+  name: Janani Jayaraman
+  group: alumni
+  location: M.S. Computer Engineering, North Carolina State University '23
+  page: https://www.linkedin.com/in/janani-jayaraman/
+
+KarthniLakshmanan:
+  name: Karthni Lakshmanan
+  group: alumni
+  location: M.S. Electrical Engineering, University of Cincinati '23
+  page: https://www.linkedin.com/in/karthni-lakshmanan-366345194/
+
+RamanathanMurugappan:
+  name: Ramanathan Murugappan
+  group: alumni
+  page: https://www.linkedin.com/in/ramanathan-murugappan-66a068125/
+
+JoishBosco:
+  name: Joish Bosco
+  group: alumni
+  page: https://www.linkedin.com/in/joish-bosco-73389410b/
 
 AdittyaSrikanth:
   name: Adittya Srikanth
-  group: ra
-  email: adittyasrikanth13@gmail.com
-  avatar: /assets/images/headshots/AdittyaSrikanth.jpg
-  linkedin: adittya-srikanth-569b11163
-  github: adittya13
-  twitter: AdittyaSrikanth
-  page: /people/AdittyaSrikanth
-  bio: Research Assistant
-  about:
-    "Adittya is a 3rd year undergraduate student of Electronics and Communication Engineering at SSN College of Engineering. He is currently part of the Microgrids team. His areas of interest include Renewable Energy, Machine Learning and Algorithms. He is planning to pursue his Masters in the Fall of 2021."
-
-KevinThelly:
-  name: Kevin Thelly
   group: alumni
-  location: B.E. Computer Science and Engineering, SSN College of Engineering '21
-  page: https://www.linkedin.com/in/kevin-thelly-5b5a16125
+  location: M.S. Electrical Engineering (Computer Architecture), University of Southern California '23
+  page: https://www.linkedin.com/in/adittya-srikanth-569b11163/
 
-GokulSahar:
-  name: Gokul Sahar
+PranavVijay:
+  name: Pranav Vijay
   group: alumni
-  location: B.E. Computer Science and Engineering, SSN College of Engineering '21
 
-AkshayRamakrishnan:
-  name: Akshay Ramakrishnan
+GokulHari:
+  name: Gokul Hari
   group: alumni
-  location: B.E. Computer Science and Engineering, SSN College of Engineering '21
-  page: https://www.linkedin.com/in/akshay-ramakrishnan-59353b194
+  location: M.Eng. Robotics, University of Maryland '22
+  page: https://www.linkedin.com/in/hgokul7/
+
+PrithviSuresh:
+  name: Prithvi Suresh
+  group: alumni
+  location: M.S. Electrical and Computer Engineering, Carnegie Mellon University '22
+  page: https://www.linkedin.com/in/prithvisuresh/
+
+TarunaSudhakar:
+  name: Taruna Sudhakar
+  group: alumni
+  location: M.S. Robotic Systems Development, Carnegie Mellon University '22
+  page: https://www.linkedin.com/in/tarunasudhakar/
+
+PravinKumaarR:
+  name: Pravin Kumaar R
+  group: alumni
+  location: M.S. Computer Science, Rutgers University '22
+  page: https://www.linkedin.com/in/pravinkumaar/
 
 SiddharthDivi:
   name: Siddharth Divi
@@ -602,6 +457,22 @@ SabarigirishVijayakumar:
   group: alumni
   location: Cisco
   page: https://www.linkedin.com/in/sabarigirishvijayakumar
+
+KrishnakanthEswaran:
+  name: Krishnakanth Eswaran
+  group: other
+
+KevinThelly:
+  name: Kevin Thelly
+  group: other
+
+AkshayRamakrishnan:
+  name: Akshay Ramakrishnan
+  group: other
+
+GokulSahar:
+  name: Gokul Sahar
+  group: other
 
 AnkithAPrabhu:
   name: Ankith A Prabhu

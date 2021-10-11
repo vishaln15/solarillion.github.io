@@ -43,6 +43,119 @@ PrasannaKumaranD:
   about:
     "Prasanna is a final year undergraduate student of Computer Science and Engineering at SSN College of Engineering. His areas of interest are Machine Learning and Algorithms. He intends to pursue an M.S. in Computer Science in 2022."
 
+MBadriNarayanan:
+  name: M Badri Narayanan
+  group: ra
+  email: immbadri3@gmail.com
+  avatar: /assets/images/headshots/MBadriNarayanan.png
+  uri: https://mbadrinarayanan.github.io
+  linkedin: mbadrinarayanan
+  github: MBadriNarayanan
+  page: /people/MBadriNarayanan
+  bio: Research Assistant, Teaching Assistant, Website Development, Server Management
+  about:
+    "Badri is a final year undergraduate student at SSN College of Engineering, Chennai and is pursuing his Bachelor's in Information Technology. His areas of interest are Machine Learning, Natural Language Processing, Computer Vision and Speech Signal Processing. He is the lead author of the paper *Sign Language Translation using Multi Context Transformer* which was presented at the 20th Mexican International Conference on Artificial Intelligence, Mexico City, 2021. Apart from his ongoing work at SF, he is interning at Mad Street Den and is pursuing further research in NLP and CV at his college. He intends to pursue a Master's in Computer Science in 2022."
+
+MaheshBharadwajK:
+  name: Mahesh Bharadwaj K
+  group: ra
+  email: maheshbharadwaj101@gmail.com
+  avatar: /assets/images/headshots/MaheshBharadwajK.jpg
+  uri: https://maheshbharadwaj.github.io
+  linkedin: maheshbharadwaj
+  github: MaheshBharadwaj
+  twitter: k_mahesh23
+  page: /people/MaheshBharadwajK
+  bio: Research Assistant, Teaching Assistant, Website Development, Server Management
+  about:
+    "Mahesh is a final year undergraduate student at SSN College of Engineering, Chennai and is pursuing his Bachelor's in Computer Science Engineering. His areas of interest are Machine Learning, Natural Language Processing, Computer Vision and Reinforcement Learning. He worked on the paper *Sign Language Translation using Multi Context Transformer* which was presented at the 20th Mexican International Conference on Artificial Intelligence, Mexico City, 2021. He intends to do a Master's in Computer Science in 2022."
+
+VishalNagarajan:
+  name: Vishal Nagarajan
+  group: ra
+  email: nagarajanvishal@gmail.com
+  avatar: /assets/images/headshots/VishalNagarajan.jpg
+  linkedin: vishalnagarajan
+  github: vishaln15
+  page: /people/VishalNagarajan
+  bio: Research Assistant, Teaching Assistant, Website Development
+  about:
+    "Vishal is a Computer Science senior studying at SSN College of Engineering. His areas of interest include Machine Learning and Deep Learning for healthcare, especially to analyse physiological signals. He intends to pursue a Master's in Fall 2022."
+
+SachinKrishan:
+  name: Sachin Krishan T
+  group: ra
+  email: sachinladh@gmail.com
+  avatar: /assets/images/headshots/SachinKrishan.JPG
+  linkedin: sachin-krishan-t-3b1920198
+  github: SachinKrishan
+  page: /people/SachinKrishan
+  bio: Research Assistant, Teaching Assistant
+  about:
+    "Sachin is a final year undergraduate student studying Computer Science Engineering at SSN College of Engineering, Chennai. The current research he pursues pertains to the detection of arrhythmia on resource-constrained devices using Machine Learning. His areas of interest include Data Science, Machine Learning, Deep Learning and Edge Computing. He intends to pursue a Master's in Computer Science in the fall of 2022."
+
+Shanthakumar:
+  name: Shanthakumar
+  group: ra
+  email: shantha2106@gmail.com
+  avatar: /assets/images/headshots/Shanthakumar.jpeg
+  linkedin: shantha-kumar-1969a01a2
+  github: shanthakumar21
+  page: /people/Shanthakumar
+  bio: Research Assistant, Teaching Assistant
+  about:
+    "Shantha is a final year undergraduate student of Information Technology at Sri Venkateswara College of Engineering. His areas of interest include Machine Learning and Deep Learning. His recent work on applied ML for healthcare will be submitted to the 20th International Conference on Machine Learning and Applications (ICMLA), 2021. He intends to pursue his Master's in the fall of 2022."
+
+VykunthRao:
+  name: Vykunth Rao
+  group: ra
+  email: stingrose@gmail.com
+  avatar: /assets/images/headshots/VykunthRao.png
+  linkedin: vykunth-rao-1b525938
+  github: stingrose
+  page: /people/VykunthRao
+  bio: Research Assistant, Teaching Assistant
+  about:
+    "Vykunth is a final year undergraduate student of Information Technology at Sri Venkateswara College of Engineering. His areas of interest include Machine Learning, Computer Vision and Deep Learning. He is currently a part of the Machine Learning research team and aims to pursue a Master's degree in Fall 2022."
+    
+AbhishekK:
+  name: Abhishek K
+  group: ra
+  email: abhishekk2808@gmail.com
+  avatar: /assets/images/headshots/AbhishekK.JPG
+  linkedin: abhishek-k-5319a2215
+  github: abhishekkumar2808
+  page: /people/AbhishekK
+  bio: Research Assistant, Teaching Assistant
+  about:
+    "Abhishek is a final year undergraduate student of Computer Science and Engineering at SSN College of Engineering. His areas of interest include Machine Learning, Computer Vision, and their applications in healthcare. He is currently working on Blood Pressure Estimation using Deep Learning on Edge Devices. He is planning to pursue his Master's in Computer Science in the fall of 2022."
+    
+GayathriIlango:
+  name: Sri Gayathri Devi I
+  group: ra
+  email: gayathri2800@gmail.com
+  avatar: /assets/images/headshots/GayathriIlango.jpeg
+  linkedin: gayathri-ilan
+  github: gayu28
+  page: /people/GayathriIlango
+  bio: Research Assistant
+  about:
+    "Gayathri is a final year Computer Science undergraduate from College of Engineering Guindy, Chennai. Her areas of interest are Machine Learning, Computer Vision and Computational Neuroscience."
+    
+AkashAmbashankar:
+  name: AkashAmbashankar
+  group: ra
+  email: akashambashankar@gmail.com
+  avatar: /assets/images/headshots/AkashAmbashankar.jpeg
+  uri: https://akashamba.netlify.app
+  linkedin: akash-ambashankar
+  github: akashamba
+  twitter: akashamba238
+  page: /people/AkashAmbashankar
+  bio: Research Assistant
+  about:
+    "Akash is a senior at KCG College of Technology, pursuing his Bachelor’s in Computer Science and Engineering. His areas of interest include Machine Learning and Deep Learning. He intends to pursue his Master's in the fall of 2022."
+
 NandaHKrishna:
   name: Nanda H Krishna
   group: alumni

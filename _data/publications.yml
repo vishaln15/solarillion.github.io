@@ -7,7 +7,22 @@ DALAAOEMDE:
   year: "2020"
   title: "Defending Against Localized Adversarial Attacks on Edge-Deployed Monocular Depth Estimators"
   conference: "19th IEEE International Conference on Machine Learning and Applications (ICMLA)"
+  url: "https://ieeexplore.ieee.org/document/9356303"
+  git: "https://github.com/solarillion/StressAffectDetection"
   status: Published
+  team: ML
+
+ETEDLFRCAMUS:
+  authors:
+  - PrithviSuresh
+  - NaveenNarayanan
+  - CVPranav
+  - VineethVijayaraghavan
+  year: "2020" 
+  title: "End-to-End Deep Learning for Reliable Cardiac Activity Monitoring using Seismocardiograms" 
+  conference: "2020 19th IEEE International Conference on Machine Learning and Applications (ICMLA)"
+  url: "https://ieeexplore.ieee.org/abstract/document/9356362"
+  status: "Published"
   team: ML
 
 SERFRIMC:
@@ -20,7 +35,8 @@ SERFRIMC:
   year: "2020"
   title: "Smart Energy Routing for Rural Islanded Microgrid Clusters"
   conference: "2020 IEEE Texas Power and Energy Conference (TPEC)"
-  status: Accepted
+  url: "https://ieeexplore.ieee.org/document/9042508"
+  status: Published
   team: MG
 
 RSBCDFED:
@@ -33,8 +49,9 @@ RSBCDFED:
   year: "2020"
   title: "Real-Time Surveillance Based Crime Detection for Edge Devices"
   conference: "15th International Conference on Computer Vision Theory and Applications (VISAPP)"
+  url: "https://www.scitepress.org/Papers/2020/89901/89901.pdf"
   git: https://github.com/solarillion/RealTimeCrimeDetection
-  status: Accepted
+  status: Published
   team: ML
 
 GRSFPDUMLOEP:
@@ -47,8 +64,9 @@ GRSFPDUMLOEP:
   year: "2020"
   title: "Gait Recovery System for Parkinson's Disease using Machine Learning on Embedded Platforms"
   conference: "2020 IEEE International Systems Conference (SysCon)"
+  url: "https://ieeexplore.ieee.org/abstract/document/9275930"
   git: https://github.com/solarillion/ParkinsonGaitAssist
-  status: Accepted
+  status: Published
   team: IoT
 
 ATMLATFTLOMIAM:
@@ -60,8 +78,9 @@ ATMLATFTLOMIAM:
   year: "2020"
   title: "A Two-Stage Machine Learning Approach to Forecast the Lifetime of Movies in a Multiplex"
   conference: "Future of Information and Communication Conference 2020 (FICC)"
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-39442-4_36"
   git: "https://github.com/solarillion/MovieLifetimePrediction"
-  status: Accepted
+  status: Published
   team: ML
 
 SDLFSAADORD:
@@ -74,12 +93,13 @@ SDLFSAADORD:
   year: "2019"
   title: "Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices"
   conference: "18th IEEE International Conference on Machine Learning and Applications (ICMLA)"
+  url: "https://ieeexplore.ieee.org/document/8999216"
   git: "https://github.com/solarillion/StressAffectDetection"
   misc:
     icon: fas fa-file
     link: https://drive.google.com/file/d/1sX-JOGDlmuNx6m0YPXE1xNpARwheU44v/view
     text: "Slides"
-  status: Accepted
+  status: Published
   team: ML
 
 IIOOMAISIDARIS:
@@ -92,7 +112,8 @@ IIOOMAISIDARIS:
   year: "2019"
   title: "Intelligent Interconnection of Operating Microgrid and Irrigation System in Dharnai - A Rural Indian Scenario"
   conference: "2019 IEEE Global Humanitarian Technology Conference (GHTC)"
-  status: Accepted
+  url: "https://ieeexplore.ieee.org/document/9033013"
+  status: Published
   team: MG
 
 IOFAPCSOAHSMIRI:
@@ -105,7 +126,8 @@ IOFAPCSOAHSMIRI:
   year: "2019"
   title: "Irrigation Optimization for Agricultural Productivity: Case Study of a Hybrid Solar Microgrid in Rural India"
   conference: "2019 IEEE Global Humanitarian Technology Conference (GHTC)"
-  status: Accepted
+  url: "https://ieeexplore.ieee.org/document/9033074"
+  status: Published
   team: MG
 
 ADAMOFSWFO:
@@ -119,7 +141,8 @@ ADAMOFSWFO:
   year: "2019"
   title: "A Dynamically Adaptive Movie Occupancy Forecasting System with Feature Optimization"
   conference: "2019 Workshop on Learning and Mining with Industrial Data (LMID)"
-  status: Accepted
+  url: "https://ieeexplore.ieee.org/document/8955583"
+  status: Published
   team: ML
 
 LWGRSWMUCFA:

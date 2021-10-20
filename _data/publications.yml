@@ -8,7 +8,6 @@ DALAAOEMDE:
   title: "Defending Against Localized Adversarial Attacks on Edge-Deployed Monocular Depth Estimators"
   conference: "19th IEEE International Conference on Machine Learning and Applications (ICMLA)"
   url: "https://ieeexplore.ieee.org/document/9356303"
-  git: "https://github.com/solarillion/StressAffectDetection"
   status: Published
   team: ML
 

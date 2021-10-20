@@ -571,6 +571,14 @@ SabarigirishVijayakumar:
   location: Cisco
   page: https://www.linkedin.com/in/sabarigirishvijayakumar
 
+CVPranav:
+  name: Chakilam Vijay Pranav
+  group: other
+
+DhiganthRao:
+  name: Dhiganth Rao Padamnoor
+  group: other
+
 KrishnakanthEswaran:
   name: Krishnakanth Eswaran
   group: other
@@ -629,12 +637,4 @@ KBoopathi:
 
 PKanagavel:
   name: P Kanagavel
-  group: other
-
-CVPranav:
-  name: Chakilam Vijay Pranav
-  group: other
-
-DhiganthRao:
-  name: Dhiganth Rao Padamnoor
   group: other

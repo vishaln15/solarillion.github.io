@@ -4,11 +4,13 @@ permalink: /publications/
 title: "Publications"
 excerpt: View all our research publications right from 2012.
 ---
-{% for year in (2013..2020) reversed %}
+{% for year in (2000..2100) reversed %}
 {% assign y = year | downcase %}
-<h2>{{ y }}</h2>
 {% assign current = site.data.publications | where: "year", y %}
+{% if current.size > 0 %}
+<h2>{{ y }}</h2>
 {% for publication_id in current %}
     {% include publication.html publication=publication_id %}
 {% endfor %}
+{% endif %}
 {% endfor %}

@@ -34,14 +34,15 @@ RishiVardhan:
 PrasannaKumaranD:
   name: Prasanna Kumaran D
   group: ra
-  email: prasannakumaran176@gmail.com
+  email: prasannakumaran18110@cse.ssn.edu.in
   avatar: /assets/images/headshots/PrasannaKumaranD.jpg
-  linkedin: prasanna-kumaran-931040197
+  uri: https://prasannakumaran.github.io/
+  linkedin: prasannakumaran
   github: PrasannaKumaran
   page: /people/PrasannaKumaranD
   bio: Research Assistant, Teaching Assistant, Server Management
   about:
-    "Prasanna is a final year undergraduate student of Computer Science and Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His areas of interest are Machine Learning and Algorithms. He intends to pursue an M.S. in Computer Science in 2022."
+    "Prasanna is a final year undergraduate student studying Computer Science and Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His areas of interest include Deep Learning, Graph Machine Learning, Behavioural Modelling and Natural Language Processing. He intends to pursue an M.S in Computer Science in 2022."
 
 MBadriNarayanan:
   name: M Badri Narayanan
@@ -94,6 +95,17 @@ SachinKrishan:
   about:
     "Sachin is a final year undergraduate student studying Computer Science Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. The current research he pursues pertains to the detection of arrhythmia on resource-constrained devices using Machine Learning. His areas of interest include Data Science, Machine Learning, Deep Learning and Edge Computing. He intends to pursue a Master's in Computer Science in 2022."
 
+RohitaaRavikumar:
+  name: Rohitaa Ravikumar
+  group: ra
+  email: rohitaa1318@gmail.com
+  avatar: /assets/images/headshots/RohitaaRavikumar.jpg
+  linkedin: rohitaa-r
+  page: /people/RohitaaRavikumar
+  bio: Research Assistant, Teaching Assistant
+  about:
+    "Rohitaa completed her undergraduate degree at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai in Electronics and Communication Engineering. She worked as the co-author on the paper *Irrigation Load Optimization for Enhanced Agricultural Productivity in Rural Microgrid Clusters* which was published at the Global Humanitarian Technology Conference (GHTC), 2020. She intends pursue her Master's in 2022."
+    
 Shanthakumar:
   name: Shanthakumar
   group: ra
@@ -116,7 +128,7 @@ JerrickGerald:
   page: /people/JerrickGerald
   bio: Research Assistant, Teaching Assistant
   about:
-    "Jerrick is a final year undergraduate student of computer science at College of Engineering Guindy (CEG), Anna University. His areas of interest are Artificial Intelligence, Machine Learning, Computer vision and Natural Language Processing. He intends to pursue his Master’s in Fall of 2022."
+    "Jerrick is a final year undergraduate student of Computer Science at College of Engineering Guindy (CEG), Anna University. His areas of interest are Artificial Intelligence, Machine Learning, Computer vision and Natural Language Processing. He intends to pursue his Master’s in Fall of 2022."
 
 VykunthRao:
   name: Vykunth Rao
@@ -128,7 +140,7 @@ VykunthRao:
   page: /people/VykunthRao
   bio: Research Assistant, Teaching Assistant
   about:
-    "Vykunth is a final year undergraduate student of Information Technology at Sri Venkateswara College of Engineering (SVCE), Chennai. His areas of interest include Machine Learning, Computer Vision and Deep Learning. He is currently a part of the Machine Learning research team and aims to pursue a Master's degree in 2022."
+    "Vykunth completed his undergraduate degree in Information Technology at Sri Venkateswara College of Engineering (SVCE), Chennai. His areas of interest include Machine Learning, Computer Vision and Deep Learning. He is currently a part of the Machine Learning research team and aims to pursue a Master's degree in 2022."
     
 AbhishekK:
   name: Abhishek K
@@ -223,6 +235,12 @@ MohanVamsi:
   about:
     "Vamsi is a final year undergraduate student at Panimalar Engineering College, Chennai and is pursuing his Bachelor's in Computer Science and Engineering. He intends pursue his Master's in 2023."
 
+SowmiyaSree:
+  name: Sowmiya Sree S
+  group: ra
+  about:
+    "Sowmiya is a final year Computer Science undergraduate from College of Engineering Guindy (CEG), Chennai. She intends pursue her Master's in 2023."
+    
 NandaHKrishna:
   name: Nanda H Krishna
   group: alumni
@@ -282,6 +300,10 @@ KarthniLakshmanan:
   group: alumni
   location: M.S. Electrical Engineering, University of Cincinati '23
   page: https://www.linkedin.com/in/karthni-lakshmanan-366345194/
+
+RajVigneshKarunakaran:
+  name: Raj Vignesh Karunakaran
+  group: alumni
 
 RamanathanMurugappan:
   name: Ramanathan Murugappan
@@ -650,6 +672,10 @@ CVPranav:
 
 DhiganthRao:
   name: Dhiganth Rao Padamnoor
+  group: other
+
+SaikrishnanS:
+  name: Saikrishnan S
   group: other
 
 VedanthS:

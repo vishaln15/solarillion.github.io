@@ -41,6 +41,21 @@ CSDFAAIDRL:
   status: Accepted
   team: RL
 
+SABSGFFEDOFHN:
+  authors:
+  - PrasannaKumaranD
+  - HarishSrinivasan
+  - SowmiyaSree
+  - GayathriIlango
+  - SaikrishnanS
+  - VineethVijayaraghavan
+  year: "2021"
+  title: "SOMPS-Net : Attention based social graph framework for early detection of fake health news"
+  conference: "The Australasian Data Mining Conference (AusDM)"
+  git: "https://github.com/PrasannaKumaran/SOMPS-Net-Social-graph-framework-for-fake-health-news-detection"
+  status: Accepted
+  team: GL
+
 ANIMLSFMDADTCIS:
   authors:
   - SaiVishwanathVenkatesh
@@ -81,6 +96,20 @@ ETEDLFRCAMUS:
   url: "https://ieeexplore.ieee.org/abstract/document/9356362"
   status: "Published"
   team: ML
+
+ILOFEAPIRMC:
+  authors:
+  - RajVigneshKarunakaran
+  - RohitaaRavikumar 
+  - KarthniLakshmanan
+  - MarjerieSuresh
+  - VineethVijayaraghavan
+  year: "2020" 
+  title: "Irrigation Load Optimization for Enhanced Agricultural Productivity in Rural Microgrid Clusters" 
+  conference: "Global Humanitarian Technology Conference (GHTC)"
+  url: "https://ieeexplore.ieee.org/document/9342922"
+  status: "Published"
+  team: MG
 
 SERFRIMC:
   authors:

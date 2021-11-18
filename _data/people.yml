@@ -27,7 +27,7 @@ RishiVardhan:
   linkedin: rishi-vardhan
   github: rishivar
   page: /people/RishiVardhan
-  bio: Research Assistant, Teaching Assistant
+  bio: Research Assistant, Teaching Assistant, Server Management
   about:
     "Rishi is a Computer Science senior studying at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His areas of interest are Machine Learning and its applications. He intends to pursue a Master's degree in 2022."
 
@@ -47,7 +47,7 @@ MBadriNarayanan:
   name: M Badri Narayanan
   group: ra
   email: immbadri3@gmail.com
-  avatar: /assets/images/headshots/MBadriNarayanan.JPG
+  avatar: /assets/images/headshots/MBadriNarayanan.jpg
   uri: https://mbadrinarayanan.github.io
   linkedin: mbadrinarayanan
   github: MBadriNarayanan
@@ -104,7 +104,19 @@ Shanthakumar:
   page: /people/Shanthakumar
   bio: Research Assistant, Teaching Assistant
   about:
-    "Shantha is a final year undergraduate student of Information Technology at Sri Venkateswara College of Engineering (SVCE), Chennai. His areas of interest include Machine Learning and Deep Learning. His recent work on applied ML for healthcare will be submitted to the 20th International Conference on Machine Learning and Applications (ICMLA), 2021. He intends to pursue his Master's in 2022."
+    "Shantha is a final year undergraduate student of Information Technology at Sri Venkateswara College of Engineering (SVCE), Chennai. His areas of interest include Machine Learning and Deep Learning. His recent work on applied ML for healthcare was presented at the 20th International Conference on Machine Learning and Applications (ICMLA), 2021. He intends to pursue his Master's in 2022."
+
+JerrickGerald:
+  name: Jerrick Gerald
+  group: ra
+  email: jerrick1105@gmail.com
+  avatar: /assets/images/headshots/JerrickGerald.jpg
+  linkedin: jerrickgerald
+  github: JERRICKGERALD
+  page: /people/JerrickGerald
+  bio: Research Assistant, Teaching Assistant
+  about:
+    "Jerrick is a final year undergraduate student of computer science at College of Engineering Guindy (CEG), Anna University. His areas of interest are Artificial Intelligence, Machine Learning, Computer vision and Natural Language Processing. He intends to pursue his Master’s in Fall of 2022."
 
 VykunthRao:
   name: Vykunth Rao
@@ -138,7 +150,7 @@ NiranjanKumar:
   linkedin: niranjan-kumar-ilampooranan
   github: red-lightning10
   page: /people/NiranjanKumar
-  bio: Research Assistant
+  bio: Research Assistant, Teaching Assistant
   about:
     "Niranjan Kumar completed his undergraduate degree in Electronics and Communication Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His interests are Robust Learning, Reinforcement Learning and Robotics. He intends to pursue an M.S. in 2022."
     
@@ -162,11 +174,24 @@ AkashAmbashankar:
   uri: https://akashamba.netlify.app
   linkedin: akash-ambashankar
   github: akashamba
-  twitter: akashamba238
+  twitter: akashamba_cs
   page: /people/AkashAmbashankar
   bio: Research Assistant
   about:
-    "Akash is a senior at KCG College of Technology, pursuing his Bachelor’s in Computer Science and Engineering. His areas of interest include Machine Learning and Deep Learning. He intends to pursue his Master's in 2022."
+    "Akash is a final year undergraduate student at KCG College of Technology (Affiliated to Anna University), Chennai and is pursuing his bachelors in Computer Science and Engineering. His areas of interest are Machine Learning, Natural Language Processing, and Computer Vision. He intends to do a Masters in 2022."
+
+NivedhithaD:
+  name: Nivedhitha D
+  group: ra
+  email: nivedhithadm@gmail.com
+  avatar: /assets/images/headshots/NivedhithaD.jpg
+  linkedin: nivedhitha-d-0bb67b1b0
+  github: nive927
+  twitter: nivedhitha_d
+  page: /people/NivedhithaD
+  bio: Research Assistant
+  about:
+    "Nivedhitha is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing her Bachelor’s in Computer Science & Engineering. Her areas of interest are Machine Learning, Robotics, Computer Vision and Natural Language Processing. She is working alongside a machine learning research team that is analyzing Satellite Imagery. Apart from her ongoing work at SF, she is a Research Intern at the University of Cyprus. She is also the team lead of an undergraduate research group at college that is building an autonomous underwater robot."
 
 NithinGR:
   name: Nithin G R
@@ -239,6 +264,12 @@ HariVigneshBaskar:
   group: alumni
   location: M.S. Computer Engineering, North Carolina State University '23
   page: https://www.linkedin.com/in/hari-vignesh-baskar/
+
+HarishSrinivasan:
+  name: Harish Srinivasan
+  group: alumni
+  location: M.S. Computer Science, The University of Texas at Dallas '23
+  page: https://www.linkedin.com/in/harish-srinivasan-2b9b25192/
 
 JananiJayaraman:
   name: Janani Jayaraman

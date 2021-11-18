@@ -1,3 +1,61 @@
+SLTUMCT:
+  authors:
+  - MBadriNarayanan
+  - MaheshBharadwajK
+  - NithinGR
+  - DhiganthRao
+  - VineethVijayaraghavan
+  year: "2021"
+  title: "Sign Language Translation using Multi Context Transformer"
+  conference: "20th Mexican International Conference on Artificial Intelligence (MICAI)"
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-89820-5_25"
+  git: "https://github.com/MBadriNarayanan/MultiContextTransformer"
+  award: "Won the 3rd Best Paper Award"
+  status: Published
+  team: NLP
+
+BPNEDLFCABPEUP:
+  authors:
+  - RishiVardhan
+  - VedanthS
+  - PoojahG
+  - AbhishekK
+  - NithishKumarM
+  - VineethVijayaraghavan
+  year: "2021"
+  title: "BP-Net: Efficient Deep Learning for Continuous Arterial Blood Pressure Estimation using Photoplethysmogram"
+  conference: "20th IEEE International Conference on Machine Learning and Applications (ICMLA)"
+  status: Accepted
+  team: EML
+
+CSDFAAIDRL:
+  authors:
+  - PraveenKumar
+  - NiranjanKumar
+  - SujithSivasankaran	
+  - MohanVamsi
+  - VineethVijayaraghavan
+  year: "2021"
+  title: "Critical State Detection for Adversarial Attacks in Deep Reinforcement Learning"
+  conference: "20th IEEE International Conference on Machine Learning and Applications (ICMLA)"
+  status: Accepted
+  team: RL
+
+ANIMLSFMDADTCIS:
+  authors:
+  - SaiVishwanathVenkatesh
+  - PrasannaKumaranD
+  - JoishBosco	
+  - PravinKumaarR
+  - VineethVijayaraghavan
+  year: "2021"
+  title: "A Non-intrusive Machine Learning Solution for Malware Detection and Data Theft Classification in Smartphones"
+  conference: "International Conference on Computational Science"
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-77967-2_17"
+  git: "https://github.com/PrasannaKumaran/AndroidDataTheft"
+  status: Published
+  team: ML
+
 DALAAOEMDE:
   authors:
   - NandaHKrishna
@@ -49,7 +107,7 @@ RSBCDFED:
   title: "Real-Time Surveillance Based Crime Detection for Edge Devices"
   conference: "15th International Conference on Computer Vision Theory and Applications (VISAPP)"
   url: "https://www.scitepress.org/Papers/2020/89901/89901.pdf"
-  git: https://github.com/solarillion/RealTimeCrimeDetection
+  git: "https://github.com/solarillion/RealTimeCrimeDetection"
   status: Published
   team: ML
 
@@ -64,7 +122,7 @@ GRSFPDUMLOEP:
   title: "Gait Recovery System for Parkinson's Disease using Machine Learning on Embedded Platforms"
   conference: "2020 IEEE International Systems Conference (SysCon)"
   url: "https://ieeexplore.ieee.org/abstract/document/9275930"
-  git: https://github.com/solarillion/ParkinsonGaitAssist
+  git: "https://github.com/h-gokul/ParkinsonsGaitAssist"
   status: Published
   team: IoT
 
@@ -78,7 +136,7 @@ ATMLATFTLOMIAM:
   title: "A Two-Stage Machine Learning Approach to Forecast the Lifetime of Movies in a Multiplex"
   conference: "Future of Information and Communication Conference 2020 (FICC)"
   url: "https://link.springer.com/chapter/10.1007/978-3-030-39442-4_36"
-  git: "https://github.com/solarillion/MovieLifetimePrediction"
+  git: "https://github.com/abhijithragav/MovieLifetimePrediction"
   status: Published
   team: ML
 
@@ -93,7 +151,7 @@ SDLFSAADORD:
   title: "Scalable Deep Learning for Stress and Affect Detection on Resource-Constrained Devices"
   conference: "18th IEEE International Conference on Machine Learning and Applications (ICMLA)"
   url: "https://ieeexplore.ieee.org/document/8999216"
-  git: "https://github.com/solarillion/StressAffectDetection"
+  git: "https://github.com/nandahkrishna/StressAffectDetection"
   misc:
     icon: fas fa-file
     link: https://drive.google.com/file/d/1sX-JOGDlmuNx6m0YPXE1xNpARwheU44v/view
@@ -154,7 +212,7 @@ LWGRSWMUCFA:
   title: "Low-Cost Wearable Gesture Recognition System with Minimal User Calibration for ASL"
   conference: "2019 International Conference on Internet of Things (iThings)"
   url: "https://ieeexplore.ieee.org/document/8875343"
-  git: https://github.com/solarillion/ASLGlove
+  git: "https://github.com/h-gokul/ASLglove"
   misc:
     icon: fas fa-file
     link: https://docs.google.com/file/d/0BxtOxvlutItgYXZ2bmZqX09NWDZwa2xEMGhnWnpUVDBzak40/view
@@ -172,7 +230,7 @@ DTAGFFTSF:
   year: "2019"
   title: "DeepTrace: A Generic Framework for Time Series Forecasting"
   conference: "International Work-Conference on Artificial Neural Networks 2019 (IWANN)"
-  git: https://github.com/solarillion/DeepTrace
+  git: "https://github.com/adithya8/Deep-Trace"
   url: "https://link.springer.com/chapter/10.1007/978-3-030-20521-8_12"
   status: Published
   team: ML
@@ -229,7 +287,7 @@ DOOARSOAEP:
   title: "Design Optimization of Activity Recognition System on an Embedded Platform"
   conference: "Future of Information and Communication Conference 2018 (FICC)"
   url: "https://link.springer.com/chapter/10.1007/978-3-030-03402-3_46"
-  git: https://github.com/solarillion/HumanActivityRecognition
+  git: "https://github.com/adithya8/HumanActivityRecognition"
   status: Published
   team: IoT
 
@@ -245,7 +303,7 @@ AGMDGRSUML:
   title: "A Generic Multi-modal Dynamic Gesture Recognition System Using Machine Learning"
   conference: "Future of Information and Communication Conference 2018 (FICC)"
   url: "https://link.springer.com/chapter/10.1007/978-3-030-03405-4_42"
-  git: https://github.com/solarillion/DynamicGestureRecognition
+  git: "https://github.com/gauthamkrishna-g/Dynamic-Gesture-Recognition"
   status: Published
   team: IoT
 
@@ -260,7 +318,7 @@ HTOILUDEOCD:
   title: "HARNet: Towards On-Device Incremental Learning using Deep Ensembles on Constrained Devices"
   conference: "2nd International Workshop on Embedded and Mobile Deep Learning (EMDL)"
   url: "https://dl.acm.org/citation.cfm?id=3212728"
-  git: "https://github.com/solarillion/HARNet"
+  git: "https://github.com/gauthamkrishna-g/HARNet"
   status: Published
   team: ML
 
@@ -303,7 +361,7 @@ CPBDCINOALEPUE:
   title: "Current Peak based Device Classification in NILM on a Low-cost Embedded Platform using Extra-Trees"
   conference: "2017 MIT Undergraduate Research Technology Conference (URTC)"
   url: "http://ieeexplore.ieee.org/document/8284200/"
-  git: "https://github.com/solarillion/CurrentPeakNILM"
+  git: "https://github.com/prahalath/Current-Peak-based-NILM"
   status: Published
   team: IoT
 

@@ -17,7 +17,7 @@ PraveenKumar:
   page: /people/PraveenKumar
   bio: Research Assistant, Teaching Assistant
   about:
-    "Praveen Kumar completed his undergraduate degree in Computer Science at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His interests are Deep Learning, Computer Vision, Adversarial Attacks and Reinforcement Learning. He intends to pursue an M.S. in 2022."
+    "Praveen Kumar completed his undergraduate degree in Computer Science at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His interests are Deep Learning, Computer Vision, Adversarial Attacks and Reinforcement Learning. He intends to pursue a Master's degree in Computer Science in 2022."
 
 RishiVardhan:
   name: Rishi Vardhan
@@ -29,7 +29,7 @@ RishiVardhan:
   page: /people/RishiVardhan
   bio: Research Assistant, Teaching Assistant, Server Management
   about:
-    "Rishi is a Computer Science senior studying at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His areas of interest are Machine Learning and its applications. He intends to pursue a Master's degree in 2022."
+    "Rishi is a Computer Science senior studying at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His areas of interest are Machine Learning and its applications. He intends to pursue a Master's degree in Computer Science in 2022."
 
 PrasannaKumaranD:
   name: Prasanna Kumaran D
@@ -42,7 +42,7 @@ PrasannaKumaranD:
   page: /people/PrasannaKumaranD
   bio: Research Assistant, Teaching Assistant, Server Management
   about:
-    "Prasanna is a final year undergraduate student studying Computer Science and Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His areas of interest include Deep Learning, Graph Machine Learning, Behavioural Modelling and Natural Language Processing. He intends to pursue an M.S in Computer Science in 2022."
+    "Prasanna is a final year undergraduate student studying Computer Science and Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His areas of interest include Deep Learning, Graph Machine Learning, Behavioural Modelling and Natural Language Processing. He intends to pursue a Master's degree in Computer Science in 2022."
 
 MBadriNarayanan:
   name: M Badri Narayanan
@@ -55,7 +55,7 @@ MBadriNarayanan:
   page: /people/MBadriNarayanan
   bio: Research Assistant, Teaching Assistant, Website Development, Server Management
   about:
-    "Badri is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing his Bachelor's in Information Technology. His areas of interest are Machine Learning, Natural Language Processing, Computer Vision and Speech Signal Processing. He is the lead author of the paper *Sign Language Translation using Multi Context Transformer* which won the 3rd best paper award at the 20th Mexican International Conference on Artificial Intelligence, Mexico City, 2021. He intends to pursue a Master's in Computer Science in 2022."
+    "Badri is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing his Bachelor's in Information Technology. His areas of interest are Machine Learning, Natural Language Processing, Computer Vision and Speech Signal Processing. He is the lead author of the paper *Sign Language Translation using Multi Context Transformer* which won the 3rd best paper award at the 20th Mexican International Conference on Artificial Intelligence, Mexico City, 2021. He intends to pursue a Master's degree in Computer Science in 2022."
 
 MaheshBharadwajK:
   name: Mahesh Bharadwaj K
@@ -69,20 +69,34 @@ MaheshBharadwajK:
   page: /people/MaheshBharadwajK
   bio: Research Assistant, Teaching Assistant, Website Development, Server Management
   about:
-    "Mahesh is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing his Bachelor's in Computer Science Engineering. His areas of interest are Machine Learning, Natural Language Processing, Computer Vision and Reinforcement Learning. He worked on the paper *Sign Language Translation using Multi Context Transformer* which won the 3rd best paper award at the 20th Mexican International Conference on Artificial Intelligence, Mexico City, 2021. He intends to do a Master's in Computer Science in 2023."
+    "Mahesh is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing his Bachelor's in Computer Science Engineering. His areas of interest are Machine Learning, Natural Language Processing, Computer Vision and Reinforcement Learning. He worked on the paper *Sign Language Translation using Multi Context Transformer* which won the 3rd best paper award at the 20th Mexican International Conference on Artificial Intelligence, Mexico City, 2021. He intends to pursue a Master's degree in Computer Science in 2023."
 
-VishalNagarajan:
-  name: Vishal Nagarajan
+NithinGR:
+  name: Nithin G R
   group: ra
-  email: nagarajanvishal@gmail.com
-  avatar: /assets/images/headshots/VishalNagarajan.jpg
-  linkedin: vishalnagarajan
-  github: vishaln15
-  page: /people/VishalNagarajan
-  bio: Research Assistant, Teaching Assistant, Website Development
+  email: nithugr@gmail.com
+  avatar: /assets/images/headshots/NithinGR.jpg
+  uri: https://nithugr.wixsite.com/profile
+  linkedin: nithingr
+  github: nithin-gr
+  twitter: imnithinraghu
+  page: /people/NithinGR
+  bio: Research Assistant, Teaching Assistant
   about:
-    "Vishal is a Computer Science senior studying at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His areas of interest include Machine Learning and Deep Learning for healthcare, especially to analyse physiological signals. He intends to pursue a Master's in 2022."
-
+    "Nithin is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing his Bachelor's in Electronics and Communication Engineering. His areas of interest are Machine Learning, Deep Learning, Self-Supervised Learning, and Contrastive, Representation Learning. He worked on the paper *Sign Language Translation using Multi Context Transformer* which won the 3rd best paper award at the 20th Mexican International Conference on Artificial Intelligence, Mexico City, 2021. His long-term goal is to use ML to understand the progress in the ML research community. He intends pursue his Master’s degree in 2022."
+    
+SideshwarJB:
+  name: Sideshwar J B
+  group: ra
+  email: sidesh2701@gmail.com
+  avatar: /assets/images/headshots/SideshwarJB.jpg
+  linkedin: sideshwar
+  github: sidesh27
+  page: /people/SideshwarJB
+  bio: Research Assistant, Teaching Assistant, Server Management
+  about:
+    "Sideshwar is a final year undergraduate student pursuing Computer Science and Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His areas of interests include Machine Learning, Deep Learning, Natural Language Processing and Ubiquitous Computing. Specifically, he focuses on applying Machine Learning to solve problems in health informatics. He intends pursue a Master’s degree in Computer Science in 2022."
+    
 SachinKrishan:
   name: Sachin Krishan T
   group: ra
@@ -93,8 +107,32 @@ SachinKrishan:
   page: /people/SachinKrishan
   bio: Research Assistant, Teaching Assistant
   about:
-    "Sachin is a final year undergraduate student studying Computer Science Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. The current research he pursues pertains to the detection of arrhythmia on resource-constrained devices using Machine Learning. His areas of interest include Data Science, Machine Learning, Deep Learning and Edge Computing. He intends to pursue a Master's in Computer Science in 2022."
-
+    "Sachin is a final year undergraduate student studying Computer Science Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. The current research he pursues pertains to the detection of arrhythmia on resource-constrained devices using Machine Learning. His areas of interest include Data Science, Machine Learning, Deep Learning and Edge Computing. He intends to pursue a Master's degree in Computer Science in 2022."
+    
+VishalNagarajan:
+  name: Vishal Nagarajan
+  group: ra
+  email: nagarajanvishal@gmail.com
+  avatar: /assets/images/headshots/VishalNagarajan.jpg
+  linkedin: vishalnagarajan
+  github: vishaln15
+  page: /people/VishalNagarajan
+  bio: Research Assistant, Teaching Assistant, Website Development
+  about:
+    "Vishal is a Computer Science senior at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His areas of interest include Machine Learning and Physiological Signal Processing. He worked on the paper *End-to-End Optimized Arrhythmia Detection Pipeline using Machine Learning for Ultra-Edge Devices* which was presented at the 20th IEEE International Conference on Machine Learning and Applications, Pasadena, 2021. He intends to pursue a Master's degree in Computer Science in 2022."
+    
+Shanthakumar:
+  name: Shanthakumar Sivakumar
+  group: ra
+  email: shantha2106@gmail.com
+  avatar: /assets/images/headshots/Shanthakumar.jpg
+  linkedin: Shanthakumar21
+  github: shanthakumar21
+  page: /people/Shanthakumar
+  bio: Research Assistant, Teaching Assistant
+  about:
+    "Shantha is a Full-time Research Assistant and a Teaching Assistant here at Solarillion Foundation. His areas of interest include Machine Learning and Deep Learning. His recent work on applied ML for healthcare was presented at the 20th International Conference on Machine Learning and Applications (ICMLA), 2021. He is currently Co-leading a team and plans to publish his work by Jan 2022. He intends to pursue his Master’s degree in 2022."
+    
 RohitaaRavikumar:
   name: Rohitaa Ravikumar
   group: ra
@@ -104,19 +142,7 @@ RohitaaRavikumar:
   page: /people/RohitaaRavikumar
   bio: Research Assistant, Teaching Assistant
   about:
-    "Rohitaa completed her undergraduate degree at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai in Electronics and Communication Engineering. She worked as the co-author on the paper *Irrigation Load Optimization for Enhanced Agricultural Productivity in Rural Microgrid Clusters* which was published at the Global Humanitarian Technology Conference (GHTC), 2020. She intends pursue her Master's in 2022."
-    
-Shanthakumar:
-  name: Shanthakumar
-  group: ra
-  email: shantha2106@gmail.com
-  avatar: /assets/images/headshots/Shanthakumar.jpeg
-  linkedin: shantha-kumar-1969a01a2
-  github: shanthakumar21
-  page: /people/Shanthakumar
-  bio: Research Assistant, Teaching Assistant
-  about:
-    "Shantha is a final year undergraduate student of Information Technology at Sri Venkateswara College of Engineering (SVCE), Chennai. His areas of interest include Machine Learning and Deep Learning. His recent work on applied ML for healthcare was presented at the 20th International Conference on Machine Learning and Applications (ICMLA), 2021. He intends to pursue his Master's in 2022."
+    "Rohitaa completed her undergraduate degree at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai in Electronics and Communication Engineering. She worked as the co-author on the paper *Irrigation Load Optimization for Enhanced Agricultural Productivity in Rural Microgrid Clusters* which was published at the Global Humanitarian Technology Conference (GHTC), 2020. She intends pursue her Master's degree in 2022."
 
 JerrickGerald:
   name: Jerrick Gerald
@@ -128,7 +154,7 @@ JerrickGerald:
   page: /people/JerrickGerald
   bio: Research Assistant, Teaching Assistant
   about:
-    "Jerrick is a final year undergraduate student of Computer Science at College of Engineering Guindy (CEG), Anna University. His areas of interest are Artificial Intelligence, Machine Learning, Computer vision and Natural Language Processing. He intends to pursue his Master’s in Fall of 2022."
+    "Jerrick is a final year undergraduate student of Computer Science at College of Engineering Guindy (CEG), Anna University. His areas of interest are Artificial Intelligence, Machine Learning, Computer vision and Natural Language Processing. He intends to pursue a Master's degree in Computer Science in 2022."
 
 VykunthRao:
   name: Vykunth Rao
@@ -140,7 +166,7 @@ VykunthRao:
   page: /people/VykunthRao
   bio: Research Assistant, Teaching Assistant
   about:
-    "Vykunth completed his undergraduate degree in Information Technology at Sri Venkateswara College of Engineering (SVCE), Chennai. His areas of interest include Machine Learning, Computer Vision and Deep Learning. He is currently a part of the Machine Learning research team and aims to pursue a Master's degree in 2022."
+    "Vykunth completed his undergraduate degree in Information Technology at Sri Venkateswara College of Engineering (SVCE), Chennai. His areas of interest include Machine Learning, Computer Vision and Deep Learning. He is currently a part of the Machine Learning research team and intends to pursue a Master's degree in Computer Science in 2022."
     
 AbhishekK:
   name: Abhishek K
@@ -152,7 +178,7 @@ AbhishekK:
   page: /people/AbhishekK
   bio: Research Assistant, Teaching Assistant
   about:
-    "Abhishek is a final year undergraduate student of Computer Science and Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His areas of interest include Machine Learning, Computer Vision, and their applications in healthcare. He is currently working on Blood Pressure Estimation using Deep Learning on Edge Devices. He is planning to pursue his Master's in Computer Science in the 2022."
+    "Abhishek is a final year undergraduate student of Computer Science and Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His areas of interest include Machine Learning, Computer Vision, and their applications in healthcare. He is currently working on Blood Pressure Estimation using Deep Learning on Edge Devices. He intends to pursue a Master's degree in Computer Science in 2022."
     
 NiranjanKumar:
   name: Niranjan Kumar I
@@ -160,11 +186,10 @@ NiranjanKumar:
   email: inkredible2599@gmail.com
   avatar: /assets/images/headshots/NiranjanKumar.jpg
   linkedin: niranjan-kumar-ilampooranan
-  github: red-lightning10
   page: /people/NiranjanKumar
   bio: Research Assistant, Teaching Assistant
   about:
-    "Niranjan Kumar completed his undergraduate degree in Electronics and Communication Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His interests are Robust Learning, Reinforcement Learning and Robotics. He intends to pursue an M.S. in 2022."
+    "Niranjan Kumar completed his undergraduate degree in Electronics and Communication Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His interests are Robust Learning, Reinforcement Learning and Robotics. He intends to pursue a Master's degree in 2022."
     
 GayathriIlango:
   name: Sri Gayathri Devi I
@@ -190,7 +215,7 @@ AkashAmbashankar:
   page: /people/AkashAmbashankar
   bio: Research Assistant
   about:
-    "Akash is a final year undergraduate student at KCG College of Technology (Affiliated to Anna University), Chennai and is pursuing his bachelors in Computer Science and Engineering. His areas of interest are Machine Learning, Natural Language Processing, and Computer Vision. He intends to do a Masters in 2022."
+    "Akash is a final year undergraduate student at KCG College of Technology (Affiliated to Anna University), Chennai and is pursuing his bachelors in Computer Science and Engineering. His areas of interest are Machine Learning, Natural Language Processing, and Computer Vision. He intends to pursue a Master's degree in Computer Science in 2022."
 
 NivedhithaD:
   name: Nivedhitha D
@@ -205,41 +230,35 @@ NivedhithaD:
   about:
     "Nivedhitha is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing her Bachelor’s in Computer Science & Engineering. Her areas of interest are Machine Learning, Robotics, Computer Vision and Natural Language Processing. She is working alongside a machine learning research team that is analyzing Satellite Imagery. Apart from her ongoing work at SF, she is a Research Intern at the University of Cyprus. She is also the team lead of an undergraduate research group at college that is building an autonomous underwater robot."
 
-NithinGR:
-  name: Nithin G R
-  group: ra
-  about:
-    "Nithin is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing his Bachelor's in Electronics and Communication Engineering. His areas of interest are Machine Learning, Natural Language Processing and Computer Vision. He worked on the paper *Sign Language Translation using Multi Context Transformer* which won the 3rd best paper award at the 20th Mexican International Conference on Artificial Intelligence, Mexico City, 2021. He intends pursue his Master's in 2022."
-
 NithishKumarM:
   name: Nithish Kumar M
   group: ra
   about:
-    "Nithish is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing his Bachelor's in Electronics and Communication Engineering. He intends pursue his Master's in 2022."
+    "Nithish is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing his Bachelor's in Electronics and Communication Engineering. He intends to pursue his Master's degree in 2022."
     
 PoojahG:
   name: Poojah G	
   group: ra
   about:
-    "Poojah is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing her Bachelor's in Electronics and Communication Engineering. She intends pursue her Master's in 2023."
+    "Poojah is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing her Bachelor's in Electronics and Communication Engineering. She intends to pursue her Master's degree in 2023."
 
 SujithSivasankaran:
   name: Sujith Sivasankaran	
   group: ra
   about:
-    "Sujith is a final year undergraduate student at Sri Venkateswara College of Engineering (SVCE), Chennai and is pursuing his Bachelor's in Computer Science and Engineering. He intends pursue his Master's in 2023."
+    "Sujith is a final year undergraduate student at Sri Venkateswara College of Engineering (SVCE), Chennai and is pursuing his Bachelor's in Computer Science and Engineering. He intends to pursue his Master's degree in 2023."
 
 MohanVamsi:
   name: Mohan Vamsi A
   group: ra
   about:
-    "Vamsi is a final year undergraduate student at Panimalar Engineering College, Chennai and is pursuing his Bachelor's in Computer Science and Engineering. He intends pursue his Master's in 2023."
+    "Vamsi is a final year undergraduate student at Panimalar Engineering College, Chennai and is pursuing his Bachelor's in Computer Science and Engineering. He intends to pursue his Master's degree in 2023."
 
 SowmiyaSree:
   name: Sowmiya Sree S
   group: ra
   about:
-    "Sowmiya is a final year Computer Science undergraduate from College of Engineering Guindy (CEG), Chennai. She intends pursue her Master's in 2023."
+    "Sowmiya is a final year Computer Science undergraduate from College of Engineering Guindy (CEG), Chennai. She intends to pursue her Master's degree in 2023."
     
 NandaHKrishna:
   name: Nanda H Krishna

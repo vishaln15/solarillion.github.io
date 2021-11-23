@@ -7,7 +7,21 @@ excerpt: Please fill out our application form if you are interested in joining u
 <div style="text-align: justify; margin-top: 2em">
 We are currently accepting applications for Undergraduate Research Assistants. Undergraduate students (of any year) in CSE, IT or ECE can apply. Young professionals with 1-2 years of work experience who want to join our research program before their graduate studies are also welcome to apply. Please fill out the <a href="https://forms.gle/Mxcxq7iA4B8nv4DY9">application form</a> if you are interested in joining us.
 <br><br>
-If you have any queries, contact us via <a href="mailto:solarillion.ta@gmail.com">email</a>.
+<h2>If you have any queries, kindly fill the form below</h2>
+<form class="gform" method="POST" data-email="solarillion.ta@gmail.com" action = "https://script.google.com/macros/s/AKfycbxmk5YGFijQ3zWxqV0WfOUoeYq1p8AMgxjkbOVLUhdKwYX_9ZnWSv_dNwuCKEWIxfuA/exec">
+  <div class="half left cf">
+    <input name = "name" type="text" id="name" placeholder="Your Name">
+    <input type="email" name = "email" id="email" placeholder="Your email address">
+    <textarea name="message" type="text" id="message" placeholder="Message"></textarea>
+  </div>
+  <input type="submit" value="Submit" id="input-submit">
+  <div style="display:none" class="thankyou_message">
+ <!-- You can customize the thankyou message by editing the code below -->
+ <h2>Thanks for reaching out to us. We will get back to you at the earliest!
+ </h2>
+</div>
+
+</form>
 </div>
 
 ## Location

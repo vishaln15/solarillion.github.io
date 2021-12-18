@@ -25,6 +25,7 @@ BPNEDLFCABPEUP:
   year: "2021"
   title: "BP-Net: Efficient Deep Learning for Continuous Arterial Blood Pressure Estimation using Photoplethysmogram"
   conference: "20th IEEE International Conference on Machine Learning and Applications (ICMLA)"
+  git: "https://github.com/rishivar/BP-Net"
   status: Accepted
   team: EML
 
@@ -51,6 +52,7 @@ ETEOADPUMLFUED:
   year: "2021"
   title: "End-to-End Optimized Arrhythmia Detection Pipeline using Machine Learning for Ultra-Edge Devices"
   conference: "20th IEEE International Conference on Machine Learning and Applications (ICMLA)"
+  git: "https://github.com/vishaln15/OptimizedArrhythmiaDetection"
   status: Accepted
   team: EML
 
